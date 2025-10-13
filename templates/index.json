@@ -45,7 +45,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/FH-Header-4000x2200_7df3e10a-2561-42a4-b182-af22a45ca646.png",
-        "image_overlay_opacity": 20,
+        "image_overlay_opacity": 0,
         "image_height": "adapt",
         "image_behavior": "none",
         "desktop_content_position": "middle-left",
