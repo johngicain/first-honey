@@ -9,7 +9,9 @@
  */
 {
   "current": {
-    "logo_width": 90,
+    "logo": "shopify://shop_images/FH_Logo_1200x300_6270fbbd-e2eb-4a91-b14d-ad5e7368d753.png",
+    "logo_width": 160,
+    "favicon": "shopify://shop_images/Yellow_Cross.png",
     "type_header_font": "lato_n8",
     "heading_scale": 100,
     "type_body_font": "poppins_n4",
