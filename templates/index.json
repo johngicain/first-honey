@@ -115,11 +115,59 @@
         "padding_top": 0,
         "padding_bottom": 80
       }
+    },
+    "image_with_text_tPgddd": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_tCMfT3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shaped by nature, perfected by science.",
+            "heading_size": "h1"
+          }
+        },
+        "text_hULKAe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Since ancient times, humans have relied on the natural healing power of honey. Mānuka honey — imbued with the incredible properties of New Zealand’s native Mānuka plants — is the most healing honey of all, promoting skin regeneration and repelling microbes.</p><p>First Honey uses medical-grade Mānuka honey in all our products — preserving a natural healing tradition while carefully formulating, testing, and purifying our products for superior medicinal results.</p><p>Perfect for soothing and treating cuts, burns, eczema flare-ups, and distressed skin of all types, First Honey provides care that is powerful, natural, and kind.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_TpAzkB": {
+          "type": "button",
+          "settings": {
+            "button_label": "MORE ABOUT MĀNUKA",
+            "button_link": "shopify://pages/magic-manuka",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_tCMfT3",
+        "text_hULKAe",
+        "button_TpAzkB"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner",
     "rich_text_Jy7KtB",
-    "featured_collection"
+    "featured_collection",
+    "image_with_text_tPgddd"
   ]
 }
