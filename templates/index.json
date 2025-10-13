@@ -31,7 +31,7 @@
           "settings": {
             "button_label_1": "Shop First Honey",
             "button_link_1": "shopify://collections/all",
-            "button_style_secondary_1": true,
+            "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -45,15 +45,15 @@
       ],
       "settings": {
         "image": "shopify://shop_images/FH-Header-4000x2200_7df3e10a-2561-42a4-b182-af22a45ca646.png",
-        "image_overlay_opacity": 40,
-        "image_height": "large",
+        "image_overlay_opacity": 20,
+        "image_height": "adapt",
         "image_behavior": "none",
-        "desktop_content_position": "bottom-center",
-        "desktop_content_alignment": "center",
+        "desktop_content_position": "middle-left",
+        "desktop_content_alignment": "left",
         "show_text_box": false,
         "color_scheme": "scheme-3",
         "stack_images_on_mobile": false,
-        "mobile_content_alignment": "center",
+        "mobile_content_alignment": "left",
         "show_text_below": false
       }
     },
