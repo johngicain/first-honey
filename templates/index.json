@@ -252,6 +252,54 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
+    },
+    "image_with_text_dztzLq": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ehPTTC": {
+          "type": "heading",
+          "settings": {
+            "heading": "Healing for everyone. Founded by family.",
+            "heading_size": "h1"
+          }
+        },
+        "text_pQ7U3e": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Founded by brother and sister Dan Watson and Sarah Scarlet, First Honey is based in New Zealand, where nature flourishes without outside influence. That’s where our bees live, where our Mānuka plants sprout in pollution-free forests, and where our honey is refined in our state-of-the-art facility.</p><p>Growing up in a beekeeping family in New Zealand, Dan and Sarah were raised knowing nature — not chemical irritant — is the solution to our scrapes. Now, we aim to be stewards of our birthplace and make the healing power of Mānuka available to all by blending traditional apiary techniques with modern science — all built on a foundation of respect for our natural environment.</p><p>Nature got us here. We’re just bringing it to the world.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_nKF3wF": {
+          "type": "button",
+          "settings": {
+            "button_label": "OUR STORY",
+            "button_link": "shopify://pages/our-story",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_ehPTTC",
+        "text_pQ7U3e",
+        "button_nKF3wF"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/DSC01495_a92c8e36-e250-4421-bd12-0fd69a438f8d.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -260,6 +308,7 @@
     "featured_collection",
     "image_with_text_tPgddd",
     "image_with_text_GMYRRf",
-    "collection_list_NRL6MK"
+    "collection_list_NRL6MK",
+    "image_with_text_dztzLq"
   ]
 }
