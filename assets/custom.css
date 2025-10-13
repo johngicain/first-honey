@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "TiemposHeadline-Regular";
+  src: url("https://cdn.shopify.com/s/files/1/0424/8190/9915/files/TiemposHeadline-Regular.woff2?v=1679586469")
+      format("woff2"),
+    url("https://cdn.shopify.com/s/files/1/0424/8190/9915/files/TiemposHeadline-Regular.woff?v=1760321000")
+      format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+.h0,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5 {
+  font-family: "TiemposHeadline-Regular", sans-serif;
+}
