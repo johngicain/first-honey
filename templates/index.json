@@ -300,6 +300,58 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "collapsible_content_7f8dAP": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_ULVRRT": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is Medical Grade Honey?",
+            "icon": "none",
+            "row_content": "<p>Thanks to recent scientific research that has helped reveal evidence of honey’s healing properties, there has been a resurgence in popularity of honey-based health and wellness products. The rigorous clinical research supporting honey’s medicinal benefits continues to grow, with internationally renowned research bodies like the National Institutes of Health publishing <a href=\"/pages/manuka-science-101\" title=\"Mānuka Science 101\">conclusive results</a>. </p><p>Not all honey is created equal. Specifically, medical grade honey has a few unique properties that help skin heal and inhibit microbial growth, which is a common cause of infections. Medical grade honey helps skin heal by balancing pH levels on the skin to eliminate enzymes that slow skin regeneration, and encouraging the drainage of fluid from a wound area (which can foster bacterial growth).</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_GCkGPU": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How Medical Grade Mānuka Honey Provides Superior Healing",
+            "icon": "none",
+            "row_content": "<p>What are the actual elements in Mānuka honey that make it so effective as a healing agent? One of the most important compounds in medical grade honey is called methylglyoxal (MGO). This naturally occurring compound is present in Mānuka plant nectar and offers many benefits that are essential for quick, proper wound healing. </p><p>We use a carefully managed process of “monofloral” pollination from Mānuka blossoms to ensure the highest quality of honey production with a concentrated presence of beneficial compounds.</p><p>To ensure that our honey meets the highest standards of quality and safety, our medical grade Mānuka honey is tested by an accredited lab under ISO 17025:2005 standards and our wound care products are approved by the FDA for over-the-counter purchase.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Byefqx": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What Kinds of Products Use Medical Grade Mānuka Honey?",
+            "icon": "none",
+            "row_content": "<p>First Honey products are specifically designed to ensure that our patented honey formulation is in direct contact with the skin. Our most popular products include bandages, wound dressings, creams and ointments used for treating injuries or as part of an all-natural skincare routine.</p><p>The soothing, protective qualities of Mānuka honey make it a preferred ingredient for many first aid or general wellness applications.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_ULVRRT",
+        "collapsible_row_GCkGPU",
+        "collapsible_row_Byefqx"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "Frequently Asked Questions",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "section",
+        "container_color_scheme": "",
+        "color_scheme": "scheme-1",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
     }
   },
   "order": [
@@ -309,6 +361,7 @@
     "image_with_text_tPgddd",
     "image_with_text_GMYRRf",
     "collection_list_NRL6MK",
-    "image_with_text_dztzLq"
+    "image_with_text_dztzLq",
+    "collapsible_content_7f8dAP"
   ]
 }
