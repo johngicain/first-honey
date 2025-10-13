@@ -13,6 +13,26 @@
   "sections": {
     "footer": {
       "type": "footer",
+      "blocks": {
+        "text_xjJLrh": {
+          "type": "text",
+          "settings": {
+            "heading": "<a href=\"https://firsthoney.com/\" title=\"https://firsthoney.com/\"><strong>First Honey</strong></a>",
+            "subtext": "<p>18 Fairfield Ave<br/>Nashville, TN 37210, United States</p><p>ph: +1 615-488-8168</p><p>email: support@firsthoney.com</p>"
+          }
+        },
+        "link_list_3KYiUX": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "text_xjJLrh",
+        "link_list_3KYiUX"
+      ],
       "settings": {
         "color_scheme": "scheme-de2fa94f-78dd-4016-a21f-9767f70b1683",
         "newsletter_enable": false,
