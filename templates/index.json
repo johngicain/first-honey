@@ -160,7 +160,7 @@
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "padding_top": 40,
         "padding_bottom": 80
       }
@@ -307,14 +307,14 @@
         "image": "shopify://shop_images/DSC01495_a92c8e36-e250-4421-bd12-0fd69a438f8d.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "padding_top": 40,
         "padding_bottom": 20
       }
