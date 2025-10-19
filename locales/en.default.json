@@ -526,7 +526,7 @@
       "collapsed": "Gift card recipient form collapsed",
       "email_label": "Recipient email",
       "email_label_optional_for_no_js_behavior": "Recipient email (optional)",
-      "email": "Email",
+      "email": "Your Email ",
       "name_label": "Recipient name (optional)",
       "name": "Name",
       "message_label": "Message (optional)",
