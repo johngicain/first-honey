@@ -26,15 +26,18 @@ h5,
   padding-bottom: 0 !important;
 }
 
+.newsletter-form__field-wrapper .field,
 .footer-block__newsletter .newsletter-form__field-wrapper .field {
   gap: 1rem;
 }
 
+.newsletter-form__field-wrapper .field::after,
 .footer-block__newsletter .newsletter-form__field-wrapper .field::after,
 .footer__content-bottom-wrapper .localization-form__select:after {
   box-shadow: none;
 }
 
+.newsletter-form__field-wrapper .field .field__input,
 .footer-block__newsletter .newsletter-form__field-wrapper .field__input,
 .footer__content-bottom-wrapper .localization-form__select {
   background-color: rgb(var(--color-button-text));

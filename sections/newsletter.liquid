@@ -80,14 +80,11 @@
                   </label>
                   <button
                     type="submit"
-                    class="newsletter-form__button field__button"
+                    class="button"
                     name="commit"
                     id="Subscribe"
-                    aria-label="{{ 'newsletter.button_label' | t }}"
                   >
-                    <span class="svg-wrapper">
-                      {{- 'icon-arrow.svg' | inline_asset_content -}}
-                    </span>
+                    {{ block.settings.button_text }}
                   </button>
                 </div>
                 {%- if form.errors -%}
@@ -228,7 +225,15 @@
     {
       "type": "email_form",
       "name": "t:sections.newsletter.blocks.email_form.name",
-      "limit": 1
+      "limit": 1,
+      "settings": [
+        {
+          "type": "text",
+          "id": "button_text",
+          "default": "Subscribe",
+          "label": "Button text"
+        }
+      ]
     },
     {
       "type": "@app"
