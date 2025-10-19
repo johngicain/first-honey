@@ -19,7 +19,7 @@
           "settings": {
             "text": "Free shipping when you spend over $50",
             "link": "shopify://collections/all",
-            "show_arrow": true
+            "show_arrow": false
           }
         }
       },

@@ -265,6 +265,8 @@
         "columns_desktop": 3,
         "color_scheme": "",
         "show_view_all": false,
+        "show_icon": false,
+        "text_align": "center",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 60,
