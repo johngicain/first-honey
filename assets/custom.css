@@ -21,3 +21,26 @@ h5,
 .h5 {
   font-family: "TiemposHeadline-Regular", sans-serif;
 }
+
+.footer-block__details-content .list-menu__item {
+  padding-bottom: 0 !important;
+}
+
+.footer-block__newsletter .newsletter-form__field-wrapper .field {
+  gap: 1rem;
+}
+
+.footer-block__newsletter .newsletter-form__field-wrapper .field::after,
+.footer__content-bottom-wrapper .localization-form__select:after {
+  box-shadow: none;
+}
+
+.footer-block__newsletter .newsletter-form__field-wrapper .field__input,
+.footer__content-bottom-wrapper .localization-form__select {
+  background-color: rgb(var(--color-button-text));
+  border: solid var(--inputs-border-width) rgba(var(--color-foreground), 0.1);
+}
+
+.footer-block__newsletter .newsletter-form__field-wrapper .button {
+  min-width: calc(1rem + var(--buttons-border-width) * 2);
+}
