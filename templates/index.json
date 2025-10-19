@@ -50,8 +50,9 @@
         "image_behavior": "none",
         "desktop_content_position": "middle-left",
         "desktop_content_alignment": "left",
-        "show_text_box": false,
-        "color_scheme": "scheme-4",
+        "show_text_box": true,
+        "desktop_max_width": 300,
+        "color_scheme": "scheme-1",
         "stack_images_on_mobile": false,
         "mobile_content_alignment": "left",
         "show_text_below": false
@@ -388,7 +389,9 @@
         },
         "email_form_FPJYLh": {
           "type": "email_form",
-          "settings": {}
+          "settings": {
+            "button_text": "Subscribe"
+          }
         }
       },
       "block_order": [
