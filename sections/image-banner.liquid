@@ -27,6 +27,12 @@
   #Banner-{{ section.id }}::after {
     opacity: {{ section.settings.image_overlay_opacity | divided_by: 100.0 }};
   }
+
+  @media screen and (min-width: 750px) {
+    #Banner-{{ section.id }} .banner__box {
+      max-width: {{ section.settings.desktop_max_width }}px;
+    }
+  }
 {%- endstyle -%}
 
 {%- liquid
@@ -316,6 +322,16 @@
       "id": "show_text_box",
       "default": true,
       "label": "t:sections.image-banner.settings.show_text_box.label"
+    },
+    {
+      "type": "range",
+      "id": "desktop_max_width",
+      "min": 300,
+      "max": 1200,
+      "step": 50,
+      "unit": "px",
+      "label": "Desktop content max-width",
+      "default": 750
     },
     {
       "type": "color_scheme",
