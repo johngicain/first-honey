@@ -318,7 +318,7 @@
         "section_color_scheme": "",
         "color_scheme": "scheme-2",
         "padding_top": 40,
-        "padding_bottom": 20
+        "padding_bottom": 80
       }
     },
     "collapsible_content_7f8dAP": {
@@ -363,9 +363,9 @@
         "heading": "Frequently Asked Questions",
         "heading_size": "h0",
         "heading_alignment": "center",
-        "layout": "section",
-        "container_color_scheme": "",
-        "color_scheme": "scheme-1",
+        "layout": "row",
+        "container_color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
@@ -405,7 +405,7 @@
       "settings": {
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 20,
+        "padding_top": 80,
         "padding_bottom": 100
       }
     }
