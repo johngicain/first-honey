@@ -64,7 +64,7 @@
           "type": "heading",
           "settings": {
             "heading": "Our top-selling products",
-            "heading_size": "h1"
+            "heading_size": "h0"
           }
         },
         "text_9iaUxD": {
@@ -123,7 +123,7 @@
           "type": "heading",
           "settings": {
             "heading": "Shaped by nature, perfected by science.",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "text_hULKAe": {
@@ -188,7 +188,7 @@
           "type": "heading",
           "settings": {
             "heading": "Ask the Doctors",
-            "heading_size": "h1"
+            "heading_size": "h0"
           }
         },
         "text_nLQ4JK": {
@@ -277,7 +277,7 @@
           "type": "heading",
           "settings": {
             "heading": "Healing for everyone. Founded by family.",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "text_pQ7U3e": {
@@ -358,7 +358,7 @@
       "settings": {
         "caption": "",
         "heading": "Frequently Asked Questions",
-        "heading_size": "h1",
+        "heading_size": "h0",
         "heading_alignment": "center",
         "layout": "section",
         "container_color_scheme": "",
@@ -377,7 +377,7 @@
           "type": "heading",
           "settings": {
             "heading": "Subscribe to our newsletter",
-            "heading_size": "h1"
+            "heading_size": "h0"
           }
         },
         "paragraph_WLcwUq": {
