@@ -14,32 +14,33 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "brand_information_Rdb3LH": {
-          "type": "brand_information",
-          "disabled": true,
-          "settings": {
-            "show_social": true
-          }
-        },
         "text_xjJLrh": {
           "type": "text",
           "settings": {
             "heading": "<a href=\"https://firsthoney.com/\" title=\"https://firsthoney.com/\"><strong>First Honey</strong></a>",
-            "subtext": "<p>18 Fairfield Ave<br/>Nashville, TN 37210, United States</p><p>ph: +1 615-488-8168</p><p>email: support@firsthoney.com</p>"
+            "subtext": "<p>18 Fairfield Ave<br/>Nashville, TN 37210, United States</p><p>ph: +1 615-488-8168</p><p>email: support@firsthoney.com</p>",
+            "show_social": true
           }
         },
         "link_list_3KYiUX": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
+            "heading": "",
             "menu": "footer"
+          }
+        },
+        "email_signup_UtKm6z": {
+          "type": "email_signup",
+          "settings": {
+            "heading": "Sign up to <a href=\"https://firsthoney.com/\" target=\"_self\" title=\"https://firsthoney.com/\">our mailing list</a>",
+            "button_text": "OK"
           }
         }
       },
       "block_order": [
-        "brand_information_Rdb3LH",
         "text_xjJLrh",
-        "link_list_3KYiUX"
+        "link_list_3KYiUX",
+        "email_signup_UtKm6z"
       ],
       "settings": {
         "color_scheme": "scheme-de2fa94f-78dd-4016-a21f-9767f70b1683",
