@@ -2281,8 +2281,9 @@ input[type="checkbox"] {
 }
 
 .announcement-bar__message {
+  font-family: var(--font-heading-family) !important;
   text-align: center;
-  padding: 1rem 0;
+  padding: 2.2rem 0 2rem;
   margin: 0;
   letter-spacing: 0.1rem;
   min-height: 3.8rem;
@@ -2544,6 +2545,7 @@ input[type="checkbox"] {
   display: flex;
   grid-area: icons;
   justify-self: end;
+  gap: 2.5rem;
   padding-right: 0.8rem;
 }
 
@@ -2592,7 +2594,7 @@ input[type="checkbox"] {
 .header__icon,
 .header__icon--cart .icon {
   height: 4.4rem;
-  width: 4.4rem;
+  /* width: 4.4rem; */
   padding: 0;
 }
 
@@ -2833,9 +2835,12 @@ details[open] > .header__submenu {
 }
 
 .header__menu-item {
-  padding: 1.2rem;
+  color: rgba(var(--color-foreground));
+  font-weight: bold;
+  text-transform: uppercase;
   text-decoration: none;
-  color: rgba(var(--color-foreground), 0.75);
+  letter-spacing: 0;
+  padding: 1.2rem;
 }
 
 .header__menu-item:hover {

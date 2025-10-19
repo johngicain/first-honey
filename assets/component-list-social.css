@@ -4,13 +4,15 @@
   flex-wrap: wrap;
 }
 
-.list-social .list-social__item:first-child .list-social__link {
-  padding-left: 0;
-}
-
 @media only screen and (min-width: 750px) {
   .list-social {
     margin-top: 1rem;
+  }
+}
+
+@media only screen and (min-width: 990px) {
+  .list-social .list-social__item:first-child .list-social__link {
+    padding-left: 0;
   }
 }
 
