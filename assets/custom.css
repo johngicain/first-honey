@@ -55,3 +55,42 @@ h5,
 .footer-block__newsletter .newsletter-form__field-wrapper .button {
   min-width: calc(1rem + var(--buttons-border-width) * 2);
 }
+
+.multicolumn-list--row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.multicolumn-list--row .multicolumn-list__item {
+  flex: 1 1 auto;
+  min-width: 250px;
+}
+
+.multicolumn-list--row .multicolumn-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 100%;
+}
+
+.multicolumn-list--row .multicolumn-card {
+  background: none !important;
+}
+
+.multicolumn-list--row .multicolumn-card__image-wrapper {
+  flex-shrink: 0;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.multicolumn-list--row .multicolumn-card__info {
+  padding: 2rem 1rem;
+  flex: 1;
+}
+
+/* @media screen and (max-width: 749px) {
+  .multicolumn-list--row .multicolumn-card {
+    flex-direction: column;
+  }
+} */
