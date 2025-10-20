@@ -75,25 +75,6 @@
         "padding_bottom": 12
       }
     },
-    "related-products": {
-      "type": "related-products",
-      "disabled": true,
-      "settings": {
-        "heading": "You may also like",
-        "heading_size": "h2",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "columns_mobile": "2",
-        "color_scheme": "scheme-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "padding_top": 36,
-        "padding_bottom": 28
-      }
-    },
     "collection_list_6TKJrQ": {
       "type": "collection-list",
       "blocks": {
@@ -136,11 +117,99 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "columns_mobile": "2",
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "multicolumn_CwXWB4": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_9rnmzc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/MGO_900_Recipe.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_AqPXtN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/MGO9003.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6TtD6B": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0117_0c3c7298-90fc-4f4f-ad06-57675652656e.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_btDafc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FH_Honey_600_MGO.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_9rnmzc",
+        "column_AqPXtN",
+        "column_6TtD6B",
+        "column_btDafc"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Follow us @firsthoneynz",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 60,
+        "padding_bottom": 80
+      }
     }
   },
   "order": [
     "main",
     "collection_list_6TKJrQ",
-    "related-products"
+    "related-products",
+    "multicolumn_CwXWB4"
   ]
 }
