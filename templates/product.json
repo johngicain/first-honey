@@ -71,8 +71,80 @@
         "image_zoom": "lightbox",
         "hide_variants": true,
         "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 12
+        "padding_top": 40,
+        "padding_bottom": 80
+      }
+    },
+    "multicolumn_LKeDgQ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_EmtLaN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Group_536.png",
+            "title": "Elevate every day with our top-notch essentials.",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Dj3PY3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Group_530.png",
+            "title": "Discover the Ultimate Placeholder Essentials.",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YVt7a4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Group_532.png",
+            "title": "Placeholder Specialists - Shop the Best Selection Now!",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_z349ax": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Group_531.png",
+            "title": "Upgrade your home with our high-end selection.",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_EmtLaN",
+        "column_Dj3PY3",
+        "column_YVt7a4",
+        "column_z349ax"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "layout_style": "row",
+        "row_image_width": 60,
+        "column_header_size": 14,
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "show_slider_buttons": false,
+        "padding_top": 8,
+        "padding_bottom": 8
       }
     },
     "collection_list_6TKJrQ": {
@@ -114,7 +186,7 @@
         "text_align": "center",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 60,
+        "padding_top": 80,
         "padding_bottom": 60
       }
     },
@@ -195,12 +267,16 @@
         "image_ratio": "square",
         "button_label": "",
         "button_link": "",
+        "layout_style": "column",
+        "row_image_width": 160,
+        "column_header_size": 20,
         "columns_desktop": 4,
         "column_alignment": "left",
         "background_style": "primary",
         "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
+        "show_slider_buttons": true,
         "padding_top": 80,
         "padding_bottom": 80
       }
@@ -208,6 +284,7 @@
   },
   "order": [
     "main",
+    "multicolumn_LKeDgQ",
     "collection_list_6TKJrQ",
     "related-products",
     "multicolumn_CwXWB4"
