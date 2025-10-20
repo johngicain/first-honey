@@ -192,7 +192,7 @@
         "title": "Follow us @firsthoneynz",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "portrait",
+        "image_ratio": "square",
         "button_label": "",
         "button_link": "",
         "columns_desktop": 4,
@@ -201,7 +201,7 @@
         "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 60,
+        "padding_top": 80,
         "padding_bottom": 80
       }
     }
