@@ -272,8 +272,8 @@
         "column_fMXLVd": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Cleanse",
+            "text": "<p><strong>Aloe barbadensis leaf </strong></p><p>Gently clean and maintain balanced skin and hydration.</p>",
             "link_label": "",
             "link": "",
             "card_style_dark": false
@@ -282,8 +282,8 @@
         "column_hYrKhg": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Nourish",
+            "text": "<p><strong>Ceramides and essential fatty acids</strong></p><p>Glyceryl oleate, oat kernel extract and glycerin help restore lipid molecules, nourish, and help retain moisture in skin and coat.</p>",
             "link_label": "",
             "link": "",
             "card_style_dark": false
@@ -292,8 +292,8 @@
         "column_6HQJyE": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Soothe",
+            "text": "<p><strong>Medical grade Manuka honey</strong></p><p>From the native New Zealand Manuka flower with gentle but powerful antibacterial properties.</p>",
             "link_label": "",
             "link": "",
             "card_style_dark": false
