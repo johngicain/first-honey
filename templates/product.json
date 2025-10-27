@@ -209,6 +209,70 @@
         "padding_bottom": 28
       }
     },
+    "media_with_content_cpwzVU": {
+      "type": "media-with-content",
+      "blocks": {
+        "text_content_bzmDUi": {
+          "type": "text_content",
+          "settings": {
+            "heading": "First Honey® Mānuka Honey Cream",
+            "description": "<p><em> Skin saviors to the rescue. </em><br/>Cue dramatic theme music for our First Honey® skin heroes! This powerful trio of skin remedies has you covered from head to toe in this set of healing wonders. <br/> <br/> Powered with the highest quality medical grade Mānuka honey harvested from our own bees in New Zealand, it’s all-healing for all of your skin needs.</p>"
+          }
+        },
+        "text_content_im6CWf": {
+          "type": "text_content",
+          "settings": {
+            "heading": "Ingredients",
+            "description": "<p>Each kit contains:<br/><br/><br/><strong> First Honey® Mānuka Honey Ointment </strong> - Our naturally potent skin healing ointment is a great all-rounder for any first aid kit and contains only 100% active Leptospermum honey (Mānuka honey), harvested by our own bees in New Zealand. It has been certified as medical-grade honey for treating cuts and burns. This sterile easy-to-apply ointment creates an optimal environment for the healing of minor wounds. It provides long-lasting infection protection while working to immediately reduce pain and minimize scarring long-term. <br/><br/><strong> First Honey® Skin Therapy Cream </strong> - Relief for distressed skin is here with First Honey Mānuka cream that hydrates and protects dry and sore skin. A customer favorite for those struggling with eczema, rosacea, and psoriasis, this deeply nourishing cream will calm, soothe and moisturize irritated skin. Infused with the highest quality medical grade Mānuka honey, harvested from our own bees in New Zealand, free and clear, which means no nasties for all-natural healing. See our FAQ page for more uses and directions for First Honey® Skin Therapy Cream.<br/><br/><strong>First Honey® Foot Rescue Cream</strong> - Apply the natural foot cream to exfoliated skin at bedtime and after bathing, as these are the most effective times for moisturizing dry feet. First Honey Foot Rescue Cream can be used as needed or as part of a daily skincare routine. See our FAQ page for more uses and directions for First Honey® Foot Rescue Cream.</p>"
+          }
+        },
+        "collapsible_content_6kdRGF": {
+          "type": "collapsible_content",
+          "settings": {
+            "heading": "FAQ",
+            "row_heading_1": "What is Mānuka Honey?",
+            "row_content_1": "<p>Mānuka Honey is harvested from nectar of the Mānuka tree, native to the pristine forests of New Zealand. This honey contains natural amino acids, Vitamins B and C, antioxidants, minerals, proteins, and bioactive compounds. Mānuka honey also boasts high levels of MGO (methylglyoxal), a compound known for its potent antibacterial properties.</p>",
+            "row_heading_2": "What makes Mānuka Honey different from regular honey?",
+            "row_content_2": "<p>Mānuka Honey is distinguished by its high MGO (Methylglyoxal) content, which provides unique antibacterial properties not found in regular honey. It is sourced exclusively from the nectar of the Mānuka bush native to New Zealand.</p>",
+            "row_heading_3": "Why is it significant that First Honey® products contain no antibiotics?",
+            "row_content_3": "<p>According to the FDA, CDC, and World Health Organization, antibiotic resistance, which can result from the overuse of antibiotics, is one of the biggest problems facing medicine today. Many of the common, over-the-counter wound care ointments contain three antibiotics, yielding an exposure that’s equivalent to a prescription antibiotic pill given by a medical professional.</p>",
+            "row_heading_4": "Is your Mānuka Honey certified for quality and authenticity?",
+            "row_content_4": "<p>Yes! All our Mānuka honey is certified for quality and authenticity through rigorous testing protocols. These checks provide consumer certainty guaranteeing that our products meet strict standards for purity and potency. Unlike many other Mānuka companies that source honey from multiple farms or beekeepers, we control every step of production, from our family farm to the extraction process, so origin and authenticity is never a question for us! In addition to this our honey undergoes independent laboratory testing to confirm high levels of methylglyoxal (MGO) and other beneficial compounds.<br/>As a medical and wellness company, we must meet standards for wound care that are much higher than those for edible honey. All our production is geared to meet these stringent requirements, making quality and purity vital.<br/><br/>Every batch of honey is tested for:<br/>• Methylglyoxal (MGO) Levels: Thoroughly tested to guarantee potency and effectiveness.<br/>• DNA Analysis: Verifying the honey’s botanical origin and purity.<br/>• Microbial Testing: Ensuring the absence of harmful bacteria and contaminants.<br/>• SQF Certification: A globally recognized program ensuring that products meet rigorous HACCP-based safety and quality management standards.</p>",
+            "row_heading_5": "How should I store First Honey products to maintain quality?",
+            "row_content_5": "<p>A cool, dry place away from direct sunlight works best! Proper storage helps preserve the beneficial properties of these products.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_content_bzmDUi",
+        "text_content_im6CWf",
+        "collapsible_content_6kdRGF"
+      ],
+      "name": "Media w/ content",
+      "settings": {
+        "section_heading": "",
+        "section_heading_size": "h0",
+        "desktop_heading_alignment": "center",
+        "heading_size": "h1",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "image": "shopify://shop_images/MGO9001.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "open_first_collapsible_row": true,
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "mobile_row_reverse": false,
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
     "multicolumn_CwXWB4": {
       "type": "multicolumn",
       "blocks": {
@@ -280,70 +344,6 @@
         "padding_top": 80,
         "padding_bottom": 80
       }
-    },
-    "media_with_content_cpwzVU": {
-      "type": "media-with-content",
-      "blocks": {
-        "text_content_bzmDUi": {
-          "type": "text_content",
-          "settings": {
-            "heading": "First Honey® Mānuka Honey Cream",
-            "description": "<p><em> Skin saviors to the rescue. </em><br/>Cue dramatic theme music for our First Honey® skin heroes! This powerful trio of skin remedies has you covered from head to toe in this set of healing wonders. <br/> <br/> Powered with the highest quality medical grade Mānuka honey harvested from our own bees in New Zealand, it’s all-healing for all of your skin needs.</p>"
-          }
-        },
-        "text_content_im6CWf": {
-          "type": "text_content",
-          "settings": {
-            "heading": "Ingredients",
-            "description": "<p>Each kit contains:<br/><br/><br/><strong> First Honey® Mānuka Honey Ointment </strong> - Our naturally potent skin healing ointment is a great all-rounder for any first aid kit and contains only 100% active Leptospermum honey (Mānuka honey), harvested by our own bees in New Zealand. It has been certified as medical-grade honey for treating cuts and burns. This sterile easy-to-apply ointment creates an optimal environment for the healing of minor wounds. It provides long-lasting infection protection while working to immediately reduce pain and minimize scarring long-term. <br/><br/><strong> First Honey® Skin Therapy Cream </strong> - Relief for distressed skin is here with First Honey Mānuka cream that hydrates and protects dry and sore skin. A customer favorite for those struggling with eczema, rosacea, and psoriasis, this deeply nourishing cream will calm, soothe and moisturize irritated skin. Infused with the highest quality medical grade Mānuka honey, harvested from our own bees in New Zealand, free and clear, which means no nasties for all-natural healing. See our FAQ page for more uses and directions for First Honey® Skin Therapy Cream.<br/><br/><strong>First Honey® Foot Rescue Cream</strong> - Apply the natural foot cream to exfoliated skin at bedtime and after bathing, as these are the most effective times for moisturizing dry feet. First Honey Foot Rescue Cream can be used as needed or as part of a daily skincare routine. See our FAQ page for more uses and directions for First Honey® Foot Rescue Cream.</p>"
-          }
-        },
-        "collapsible_content_6kdRGF": {
-          "type": "collapsible_content",
-          "settings": {
-            "heading": "FAQ",
-            "row_heading_1": "What is Mānuka Honey?",
-            "row_content_1": "<p>Mānuka Honey is harvested from nectar of the Mānuka tree, native to the pristine forests of New Zealand. This honey contains natural amino acids, Vitamins B and C, antioxidants, minerals, proteins, and bioactive compounds. Mānuka honey also boasts high levels of MGO (methylglyoxal), a compound known for its potent antibacterial properties.</p>",
-            "row_heading_2": "What makes Mānuka Honey different from regular honey?",
-            "row_content_2": "<p>Mānuka Honey is distinguished by its high MGO (Methylglyoxal) content, which provides unique antibacterial properties not found in regular honey. It is sourced exclusively from the nectar of the Mānuka bush native to New Zealand.</p>",
-            "row_heading_3": "Why is it significant that First Honey® products contain no antibiotics?",
-            "row_content_3": "<p>According to the FDA, CDC, and World Health Organization, antibiotic resistance, which can result from the overuse of antibiotics, is one of the biggest problems facing medicine today. Many of the common, over-the-counter wound care ointments contain three antibiotics, yielding an exposure that’s equivalent to a prescription antibiotic pill given by a medical professional.</p>",
-            "row_heading_4": "Is your Mānuka Honey certified for quality and authenticity?",
-            "row_content_4": "<p>Yes! All our Mānuka honey is certified for quality and authenticity through rigorous testing protocols. These checks provide consumer certainty guaranteeing that our products meet strict standards for purity and potency. Unlike many other Mānuka companies that source honey from multiple farms or beekeepers, we control every step of production, from our family farm to the extraction process, so origin and authenticity is never a question for us! In addition to this our honey undergoes independent laboratory testing to confirm high levels of methylglyoxal (MGO) and other beneficial compounds.<br/>As a medical and wellness company, we must meet standards for wound care that are much higher than those for edible honey. All our production is geared to meet these stringent requirements, making quality and purity vital.<br/><br/>Every batch of honey is tested for:<br/>• Methylglyoxal (MGO) Levels: Thoroughly tested to guarantee potency and effectiveness.<br/>• DNA Analysis: Verifying the honey’s botanical origin and purity.<br/>• Microbial Testing: Ensuring the absence of harmful bacteria and contaminants.<br/>• SQF Certification: A globally recognized program ensuring that products meet rigorous HACCP-based safety and quality management standards.</p>",
-            "row_heading_5": "How should I store First Honey products to maintain quality?",
-            "row_content_5": "<p>A cool, dry place away from direct sunlight works best! Proper storage helps preserve the beneficial properties of these products.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_content_bzmDUi",
-        "text_content_im6CWf",
-        "collapsible_content_6kdRGF"
-      ],
-      "name": "Media w/ content",
-      "settings": {
-        "section_heading": "",
-        "section_heading_size": "h0",
-        "desktop_heading_alignment": "center",
-        "heading_size": "h1",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "image": "shopify://shop_images/MGO9001.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "open_first_collapsible_row": true,
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "mobile_row_reverse": false,
-        "padding_top": 80,
-        "padding_bottom": 80
-      }
     }
   },
   "order": [
@@ -351,7 +351,7 @@
     "multicolumn_LKeDgQ",
     "collection_list_6TKJrQ",
     "related-products",
-    "multicolumn_CwXWB4",
-    "media_with_content_cpwzVU"
+    "media_with_content_cpwzVU",
+    "multicolumn_CwXWB4"
   ]
 }
