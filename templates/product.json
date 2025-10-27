@@ -167,6 +167,7 @@
         "featured_collection_cDjLyG",
         "featured_collection_CBimpb"
       ],
+      "disabled": true,
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
@@ -180,6 +181,74 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 80,
+        "padding_bottom": 60
+      }
+    },
+    "multicolumn_MAWq8k": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_fMXLVd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/gettyimages-1166747721-170667a_upscayl_4x_ultrasharp.png",
+            "title": "Pure",
+            "text": "<p>Aotearoa New Zealand. 42 degrees south of the equator our beautiful islands sit surrounded by water, quietly evolving over millions of years. Fertile soil, pure air, high sunshine hours, and clean rainfall have given us a unique ecosystem and gifted us the Manuka tree that gives us our magical honey.<br/></p>",
+            "link_label": "",
+            "link": "",
+            "card_style_dark": false
+          }
+        },
+        "column_hYrKhg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/gettyimages-1764729807-170667a_upscayl_4x_ultrasharp.png",
+            "title": "Potent",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "card_style_dark": false
+          }
+        },
+        "column_6HQJyE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSC07807_upscayl_4x_ultrasharp.png",
+            "title": "Promise",
+            "text": "<p>\"From caring for our hives, to developing our products and ongoing research Dan and I pour our hearts into every part of First Honey. We are always so aware of the impact our honey is having, in people's lives, health, and healing.\"<br/><strong>Sarah Scarlet</strong></p>",
+            "link_label": "",
+            "link": "",
+            "card_style_dark": false
+          }
+        }
+      },
+      "block_order": [
+        "column_fMXLVd",
+        "column_hYrKhg",
+        "column_6HQJyE"
+      ],
+      "custom_css": [
+        ".multicolumn-list {row-gap: 0;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "card_style_overlay": true,
+        "row_layout": false,
+        "justify_content": "start",
+        "title": "",
+        "heading_size": "h1",
+        "text": "",
+        "text_style": "body",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-96f20ffd-0680-4ca3-81e5-a2540c551c52",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 60,
         "padding_bottom": 60
       }
     },
@@ -266,74 +335,6 @@
         "padding_bottom": 80
       }
     },
-    "multicolumn_MAWq8k": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_fMXLVd": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/gettyimages-1166747721-170667a_upscayl_4x_ultrasharp.png",
-            "title": "Pure",
-            "text": "<p>Aotearoa New Zealand. 42 degrees south of the equator our beautiful islands sit surrounded by water, quietly evolving over millions of years. Fertile soil, pure air, high sunshine hours, and clean rainfall have given us a unique ecosystem and gifted us the Manuka tree that gives us our magical honey.<br/></p>",
-            "link_label": "",
-            "link": "",
-            "card_style_dark": false
-          }
-        },
-        "column_hYrKhg": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/gettyimages-1764729807-170667a_upscayl_4x_ultrasharp.png",
-            "title": "Potent",
-            "text": "",
-            "link_label": "",
-            "link": "",
-            "card_style_dark": false
-          }
-        },
-        "column_6HQJyE": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/DSC07807_upscayl_4x_ultrasharp.png",
-            "title": "Promise",
-            "text": "<p>\"From caring for our hives, to developing our products and ongoing research Dan and I pour our hearts into every part of First Honey. We are always so aware of the impact our honey is having, in people's lives, health, and healing.\"<br/><strong>Sarah Scarlet</strong></p>",
-            "link_label": "",
-            "link": "",
-            "card_style_dark": false
-          }
-        }
-      },
-      "block_order": [
-        "column_fMXLVd",
-        "column_hYrKhg",
-        "column_6HQJyE"
-      ],
-      "custom_css": [
-        ".multicolumn-list {row-gap: 0;}"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "card_style_overlay": true,
-        "row_layout": false,
-        "justify_content": "start",
-        "title": "",
-        "heading_size": "h1",
-        "text": "",
-        "text_style": "body",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-96f20ffd-0680-4ca3-81e5-a2540c551c52",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 40,
-        "padding_bottom": 80
-      }
-    },
     "multicolumn_CwXWB4": {
       "type": "multicolumn",
       "blocks": {
@@ -416,9 +417,9 @@
     "main",
     "multicolumn_LKeDgQ",
     "collection_list_6TKJrQ",
+    "multicolumn_MAWq8k",
     "related-products",
     "media_with_content_cpwzVU",
-    "multicolumn_MAWq8k",
     "multicolumn_CwXWB4"
   ]
 }
