@@ -81,69 +81,62 @@
         "column_EmtLaN": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Group_536.png",
-            "title": "Elevate every day with our top-notch essentials.",
-            "text": "",
+            "image": "shopify://shop_images/Asset_14.svg",
+            "title": "Dermatologist tested",
+            "text": "<p>Perfect for sensitive skin, this bundle includes our all-purpose Mānuka honey skin balm; moisturizing foot cream for cracked heels; and sterile honey ointment for wound care.</p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "card_style_dark": false
           }
         },
         "column_Dj3PY3": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Group_530.png",
-            "title": "Discover the Ultimate Placeholder Essentials.",
-            "text": "",
+            "image": "shopify://shop_images/Asset_13.svg",
+            "title": "MGO certified",
+            "text": "<p>Lab tested and certified to provide 600+ MGO methylglyoxal, the compound that's unique to Manuka honey, and known for its beneficial antibacterial properties.</p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "card_style_dark": false
           }
         },
         "column_YVt7a4": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Group_532.png",
-            "title": "Placeholder Specialists - Shop the Best Selection Now!",
-            "text": "",
+            "image": "shopify://shop_images/Asset_12.svg",
+            "title": "Clinical insights",
+            "text": "<p>\"Medical-grade Mānuka honey not only fights bacteria but also stimulates tissue regeneration and reduces inflammation, creating an optimal environment for healing.\" - Dr. Gregory Schultz Ph.D</p>",
             "link_label": "",
-            "link": ""
-          }
-        },
-        "column_z349ax": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Group_531.png",
-            "title": "Upgrade your home with our high-end selection.",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "link": "",
+            "card_style_dark": false
           }
         }
       },
       "block_order": [
         "column_EmtLaN",
         "column_Dj3PY3",
-        "column_YVt7a4",
-        "column_z349ax"
+        "column_YVt7a4"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
+        "card_style_overlay": false,
+        "row_layout": true,
+        "justify_content": "start",
         "title": "",
         "heading_size": "h1",
-        "image_width": "full",
+        "text": "",
+        "text_style": "body",
+        "image_width": "third",
         "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "layout_style": "row",
-        "row_image_width": 60,
-        "column_header_size": 14,
-        "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-de2fa94f-78dd-4016-a21f-9767f70b1683",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "show_slider_buttons": false,
-        "padding_top": 8,
+        "padding_top": 40,
         "padding_bottom": 8
       }
     },
@@ -283,7 +276,8 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "card_style_dark": false
           }
         },
         "column_AqPXtN": {
@@ -293,7 +287,8 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "card_style_dark": false
           }
         },
         "column_6TtD6B": {
@@ -303,7 +298,8 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "card_style_dark": false
           }
         },
         "column_btDafc": {
@@ -313,7 +309,8 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "card_style_dark": false
           }
         }
       },
@@ -325,22 +322,23 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
+        "card_style_overlay": false,
+        "row_layout": false,
+        "justify_content": "start",
         "title": "Follow us @firsthoneynz",
         "heading_size": "h1",
+        "text": "",
+        "text_style": "body",
         "image_width": "full",
         "image_ratio": "square",
-        "button_label": "",
-        "button_link": "",
-        "layout_style": "column",
-        "row_image_width": 160,
-        "column_header_size": 20,
         "columns_desktop": 4,
         "column_alignment": "left",
         "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "show_slider_buttons": true,
         "padding_top": 80,
         "padding_bottom": 80
       }
