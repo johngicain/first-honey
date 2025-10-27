@@ -248,8 +248,8 @@
         "color_scheme": "scheme-96f20ffd-0680-4ca3-81e5-a2540c551c52",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 60,
-        "padding_bottom": 60
+        "padding_top": 80,
+        "padding_bottom": 0
       }
     },
     "related-products": {
