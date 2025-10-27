@@ -266,6 +266,71 @@
         "padding_bottom": 80
       }
     },
+    "multicolumn_MAWq8k": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_fMXLVd": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": "",
+            "card_style_dark": false
+          }
+        },
+        "column_hYrKhg": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": "",
+            "card_style_dark": false
+          }
+        },
+        "column_6HQJyE": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": "",
+            "card_style_dark": false
+          }
+        }
+      },
+      "block_order": [
+        "column_fMXLVd",
+        "column_hYrKhg",
+        "column_6HQJyE"
+      ],
+      "custom_css": [
+        ".multicolumn-list {row-gap: 0;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "card_style_overlay": true,
+        "row_layout": false,
+        "justify_content": "start",
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "text": "",
+        "text_style": "body",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
     "multicolumn_CwXWB4": {
       "type": "multicolumn",
       "blocks": {
@@ -350,6 +415,7 @@
     "collection_list_6TKJrQ",
     "related-products",
     "media_with_content_cpwzVU",
+    "multicolumn_MAWq8k",
     "multicolumn_CwXWB4"
   ]
 }
