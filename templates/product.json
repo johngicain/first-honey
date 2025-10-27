@@ -313,7 +313,7 @@
         "card_style_overlay": true,
         "row_layout": false,
         "justify_content": "start",
-        "title": "Multicolumn",
+        "title": "",
         "heading_size": "h1",
         "text": "",
         "text_style": "body",
