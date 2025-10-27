@@ -94,7 +94,9 @@
                     {{ 'hero-apparel-3' | placeholder_svg_tag: 'placeholder-svg placeholder' }}
                   {%- endif -%}
                   <span class="deferred-media__poster-button motion-reduce">
-                    {%- render 'icon-play' -%}
+                    <span class="svg-wrapper">
+                      {{- 'icon-play.svg' | inline_asset_content -}}
+                    </span>
                   </span>
                 </button>
                 <template>
@@ -335,7 +337,9 @@
                         <h3 class="inline-richtext h4">
                           {{ block.settings.row_heading_1 | default: block.settings.page.title }}
                         </h3>
-                        {% render 'icon-caret' %}
+                        <span class="svg-wrapper">
+                          {{- 'icon-caret.svg' | inline_asset_content -}}
+                        </span>
                       </div>
                       <div
                         class="accordion__sub-content rte"
@@ -351,7 +355,9 @@
                         <h3 class="inline-richtext h4">
                           {{ block.settings.row_heading_2 | default: block.settings.page.title }}
                         </h3>
-                        {% render 'icon-caret' %}
+                        <span class="svg-wrapper">
+                          {{- 'icon-caret.svg' | inline_asset_content -}}
+                        </span>
                       </div>
                       <div
                         class="accordion__sub-content rte"
@@ -367,7 +373,9 @@
                         <h3 class="inline-richtext h4">
                           {{ block.settings.row_heading_3 | default: block.settings.page.title }}
                         </h3>
-                        {% render 'icon-caret' %}
+                        <span class="svg-wrapper">
+                          {{- 'icon-caret.svg' | inline_asset_content -}}
+                        </span>
                       </div>
                       <div
                         class="accordion__sub-content rte"
@@ -383,7 +391,9 @@
                         <h3 class="inline-richtext h4">
                           {{ block.settings.row_heading_4 | default: block.settings.page.title }}
                         </h3>
-                        {% render 'icon-caret' %}
+                        <span class="svg-wrapper">
+                          {{- 'icon-caret.svg' | inline_asset_content -}}
+                        </span>
                       </div>
                       <div
                         class="accordion__sub-content rte"
@@ -399,7 +409,9 @@
                         <h3 class="inline-richtext h4">
                           {{ block.settings.row_heading_5 | default: block.settings.page.title }}
                         </h3>
-                        {% render 'icon-caret' %}
+                        <span class="svg-wrapper">
+                          {{- 'icon-caret.svg' | inline_asset_content -}}
+                        </span>
                       </div>
                       <div
                         class="accordion__sub-content rte"
