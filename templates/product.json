@@ -429,6 +429,87 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "marquee_columns_4kDczb": {
+      "type": "marquee-columns",
+      "blocks": {
+        "text_TRG3bX": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/1.svg",
+            "text": "SQF Certified"
+          }
+        },
+        "text_BV9YLA": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/2.svg",
+            "text": "100% natural"
+          }
+        },
+        "text_r7CH9y": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/3.svg",
+            "text": "Sustainably sourced"
+          }
+        },
+        "text_MJVymA": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/4.svg",
+            "text": "Non GMO"
+          }
+        },
+        "text_gBUmMW": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/5.svg",
+            "text": "Farmed in New Zealand"
+          }
+        },
+        "text_Xmid8j": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/6.svg",
+            "text": "Glyphosate free"
+          }
+        }
+      },
+      "block_order": [
+        "text_TRG3bX",
+        "text_BV9YLA",
+        "text_r7CH9y",
+        "text_MJVymA",
+        "text_gBUmMW",
+        "text_Xmid8j"
+      ],
+      "name": "Marquee columns",
+      "settings": {
+        "speed": "1",
+        "title": "",
+        "heading_size": "h1",
+        "heading_font_weight": "normal",
+        "alignment": "center",
+        "description": "",
+        "column_heading_color": "",
+        "column_heading_size": "h2",
+        "color_scheme": "scheme-75694dd1-01d1-4418-bb69-51c62d72aa35",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
     }
   },
   "order": [
@@ -439,6 +520,7 @@
     "176178986590a7c4d8",
     "multicolumn_CwXWB4",
     "collection_list_6TKJrQ",
-    "related-products"
+    "related-products",
+    "marquee_columns_4kDczb"
   ]
 }
