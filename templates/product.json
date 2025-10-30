@@ -140,48 +140,69 @@
         "padding_bottom": 40
       }
     },
-    "collection_list_6TKJrQ": {
-      "type": "collection-list",
+    "media_with_content_cpwzVU": {
+      "type": "media-with-content",
       "blocks": {
-        "featured_collection_Aky8TV": {
-          "type": "featured_collection",
+        "text_content_bzmDUi": {
+          "type": "text_content",
           "settings": {
-            "collection": "first-aid"
+            "heading": "Product Details",
+            "description": "<p>Relief for distressed skin is here with First Honey® Mānuka Honey Cream to hydrate and protect dry, fragile skin. </p><p>A customer favorite for those struggling with eczema, rosacea, and psoriasis, this deeply nourishing eczema cream will calm, soothe and moisturize.<br/><br/>Infused with the highest quality medical-grade Mānuka honey, harvested from our own bees in New Zealand, this eczema cream is a dermatologist-tested product to assist with irritated skin.  </p>"
           }
         },
-        "featured_collection_cDjLyG": {
-          "type": "featured_collection",
+        "text_content_im6CWf": {
+          "type": "text_content",
           "settings": {
-            "collection": "skin-treatments"
+            "heading": "Ingredients",
+            "description": "<p>Aqua, Manuka Honey,<br/>Stearyl Alcohol, Coco-Caprylate, Stearic<br/>Acid, Caprylic/Capric Triglyceride, Behenyl<br/>Alcohol, Isopentyl Laurate, Glyceryl<br/>Behenate, Tapioca Starch, Cetyl Palmitate,<br/>Olea Europaea Fruit Oil, Gluconolactone,<br/>Glyceryl Stearate Citrate, Sorbitan Olivate,<br/>Sorbitan Palmitate, Butyrospermum<br/>Parkii Butter, Betaine, Glyceryl Caprylate,<br/>Xanthan Gum, Jojoba Esters, Helianthus<br/>Annuus Seed Oil, Polyglyceryl-3 Cocoate,<br/>Polyglyceryl-4 Caprate, Polyglyceryl-6<br/>Caprylate, Polyglyceryl-6 Ricinoleate,<br/>Aminomethyl Propanol, Sodium Benzoate,<br/>Aleurites Moluccanus Seed Oil, Lavandula<br/>Angustifolia Oil, Mentha Piperita Oil,<br/>Potassium Sorbate, Pongamia Glabra<br/>Seed Oil, Vanilla, Glycerin, Caprylhydroxamic<br/>Acid, Panthenol, Rosmarinus Officinalis<br/>Extract, Bisabolol, Polyglyceryl-3<br/>Polyricinoleate, Tocopherol.</p>"
           }
         },
-        "featured_collection_CBimpb": {
-          "type": "featured_collection",
+        "collapsible_content_6kdRGF": {
+          "type": "collapsible_content",
           "settings": {
-            "collection": "dietary-supplements"
+            "heading": "FAQ",
+            "row_heading_1": "What is Mānuka Honey?",
+            "row_content_1": "<p>Mānuka Honey is harvested from nectar of the Mānuka tree, native to the pristine forests of New Zealand. This honey contains natural amino acids, Vitamins B and C, antioxidants, minerals, proteins, and bioactive compounds. Mānuka honey also boasts high levels of MGO (methylglyoxal), a compound known for its potent antibacterial properties.</p>",
+            "row_heading_2": "What makes Mānuka Honey different from regular honey?",
+            "row_content_2": "<p>Mānuka Honey is distinguished by its high MGO (Methylglyoxal) content, which provides unique antibacterial properties not found in regular honey. It is sourced exclusively from the nectar of the Mānuka bush native to New Zealand.</p>",
+            "row_heading_3": "Why is it significant that First Honey® products contain no antibiotics?",
+            "row_content_3": "<p>According to the FDA, CDC, and World Health Organization, antibiotic resistance, which can result from the overuse of antibiotics, is one of the biggest problems facing medicine today. Many of the common, over-the-counter wound care ointments contain three antibiotics, yielding an exposure that’s equivalent to a prescription antibiotic pill given by a medical professional.</p>",
+            "row_heading_4": "Is your Mānuka Honey certified for quality and authenticity?",
+            "row_content_4": "<p>Yes! All our Mānuka honey is certified for quality and authenticity through rigorous testing protocols. These checks provide consumer certainty guaranteeing that our products meet strict standards for purity and potency. Unlike many other Mānuka companies that source honey from multiple farms or beekeepers, we control every step of production, from our family farm to the extraction process, so origin and authenticity is never a question for us! In addition to this our honey undergoes independent laboratory testing to confirm high levels of methylglyoxal (MGO) and other beneficial compounds.<br/>As a medical and wellness company, we must meet standards for wound care that are much higher than those for edible honey. All our production is geared to meet these stringent requirements, making quality and purity vital.<br/><br/>Every batch of honey is tested for:<br/>• Methylglyoxal (MGO) Levels: Thoroughly tested to guarantee potency and effectiveness.<br/>• DNA Analysis: Verifying the honey’s botanical origin and purity.<br/>• Microbial Testing: Ensuring the absence of harmful bacteria and contaminants.<br/>• SQF Certification: A globally recognized program ensuring that products meet rigorous HACCP-based safety and quality management standards.</p>",
+            "row_heading_5": "How should I store First Honey products to maintain quality?",
+            "row_content_5": "<p>A cool, dry place away from direct sunlight works best! Proper storage helps preserve the beneficial properties of these products.</p>"
           }
         }
       },
       "block_order": [
-        "featured_collection_Aky8TV",
-        "featured_collection_cDjLyG",
-        "featured_collection_CBimpb"
+        "text_content_bzmDUi",
+        "text_content_im6CWf",
+        "collapsible_content_6kdRGF"
       ],
-      "disabled": true,
-      "name": "t:sections.collection-list.presets.name",
+      "name": "Media w/ content",
       "settings": {
-        "title": "",
+        "section_heading": "",
+        "section_heading_size": "h0",
+        "desktop_heading_alignment": "center",
         "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 3,
+        "video": "shopify://files/videos/SkinTherapySec_V2_f92713b2-ac02-4a37-9972-42a01162c49b.mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "image": "shopify://shop_images/MGO9001.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
         "color_scheme": "",
-        "show_view_all": false,
-        "show_icon": false,
-        "text_align": "center",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
+        "open_first_collapsible_row": true,
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "mobile_row_reverse": false,
         "padding_top": 80,
-        "padding_bottom": 60
+        "padding_bottom": 80
       }
     },
     "multicolumn_MAWq8k": {
@@ -252,88 +273,21 @@
         "padding_bottom": 0
       }
     },
-    "related-products": {
-      "type": "related-products",
-      "disabled": true,
-      "settings": {
-        "heading": "You may also like",
-        "heading_size": "h2",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "columns_mobile": "2",
-        "color_scheme": "scheme-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "padding_top": 36,
-        "padding_bottom": 28
-      }
-    },
-    "media_with_content_cpwzVU": {
-      "type": "media-with-content",
+    "176178986590a7c4d8": {
+      "type": "apps",
       "blocks": {
-        "text_content_bzmDUi": {
-          "type": "text_content",
+        "yotpo_product_reviews_reviews_f63trd": {
+          "type": "shopify://apps/yotpo-product-reviews/blocks/reviews/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
           "settings": {
-            "heading": "Product Details",
-            "description": "<p>Relief for distressed skin is here with First Honey® Mānuka Honey Cream to hydrate and protect dry, fragile skin. </p><p>A customer favorite for those struggling with eczema, rosacea, and psoriasis, this deeply nourishing eczema cream will calm, soothe and moisturize.<br/><br/>Infused with the highest quality medical-grade Mānuka honey, harvested from our own bees in New Zealand, this eczema cream is a dermatologist-tested product to assist with irritated skin.  </p>"
-          }
-        },
-        "text_content_im6CWf": {
-          "type": "text_content",
-          "settings": {
-            "heading": "Ingredients",
-            "description": "<p>Aqua, Manuka Honey,<br/>Stearyl Alcohol, Coco-Caprylate, Stearic<br/>Acid, Caprylic/Capric Triglyceride, Behenyl<br/>Alcohol, Isopentyl Laurate, Glyceryl<br/>Behenate, Tapioca Starch, Cetyl Palmitate,<br/>Olea Europaea Fruit Oil, Gluconolactone,<br/>Glyceryl Stearate Citrate, Sorbitan Olivate,<br/>Sorbitan Palmitate, Butyrospermum<br/>Parkii Butter, Betaine, Glyceryl Caprylate,<br/>Xanthan Gum, Jojoba Esters, Helianthus<br/>Annuus Seed Oil, Polyglyceryl-3 Cocoate,<br/>Polyglyceryl-4 Caprate, Polyglyceryl-6<br/>Caprylate, Polyglyceryl-6 Ricinoleate,<br/>Aminomethyl Propanol, Sodium Benzoate,<br/>Aleurites Moluccanus Seed Oil, Lavandula<br/>Angustifolia Oil, Mentha Piperita Oil,<br/>Potassium Sorbate, Pongamia Glabra<br/>Seed Oil, Vanilla, Glycerin, Caprylhydroxamic<br/>Acid, Panthenol, Rosmarinus Officinalis<br/>Extract, Bisabolol, Polyglyceryl-3<br/>Polyricinoleate, Tocopherol.</p>"
-          }
-        },
-        "collapsible_content_6kdRGF": {
-          "type": "collapsible_content",
-          "settings": {
-            "heading": "FAQ",
-            "row_heading_1": "What is Mānuka Honey?",
-            "row_content_1": "<p>Mānuka Honey is harvested from nectar of the Mānuka tree, native to the pristine forests of New Zealand. This honey contains natural amino acids, Vitamins B and C, antioxidants, minerals, proteins, and bioactive compounds. Mānuka honey also boasts high levels of MGO (methylglyoxal), a compound known for its potent antibacterial properties.</p>",
-            "row_heading_2": "What makes Mānuka Honey different from regular honey?",
-            "row_content_2": "<p>Mānuka Honey is distinguished by its high MGO (Methylglyoxal) content, which provides unique antibacterial properties not found in regular honey. It is sourced exclusively from the nectar of the Mānuka bush native to New Zealand.</p>",
-            "row_heading_3": "Why is it significant that First Honey® products contain no antibiotics?",
-            "row_content_3": "<p>According to the FDA, CDC, and World Health Organization, antibiotic resistance, which can result from the overuse of antibiotics, is one of the biggest problems facing medicine today. Many of the common, over-the-counter wound care ointments contain three antibiotics, yielding an exposure that’s equivalent to a prescription antibiotic pill given by a medical professional.</p>",
-            "row_heading_4": "Is your Mānuka Honey certified for quality and authenticity?",
-            "row_content_4": "<p>Yes! All our Mānuka honey is certified for quality and authenticity through rigorous testing protocols. These checks provide consumer certainty guaranteeing that our products meet strict standards for purity and potency. Unlike many other Mānuka companies that source honey from multiple farms or beekeepers, we control every step of production, from our family farm to the extraction process, so origin and authenticity is never a question for us! In addition to this our honey undergoes independent laboratory testing to confirm high levels of methylglyoxal (MGO) and other beneficial compounds.<br/>As a medical and wellness company, we must meet standards for wound care that are much higher than those for edible honey. All our production is geared to meet these stringent requirements, making quality and purity vital.<br/><br/>Every batch of honey is tested for:<br/>• Methylglyoxal (MGO) Levels: Thoroughly tested to guarantee potency and effectiveness.<br/>• DNA Analysis: Verifying the honey’s botanical origin and purity.<br/>• Microbial Testing: Ensuring the absence of harmful bacteria and contaminants.<br/>• SQF Certification: A globally recognized program ensuring that products meet rigorous HACCP-based safety and quality management standards.</p>",
-            "row_heading_5": "How should I store First Honey products to maintain quality?",
-            "row_content_5": "<p>A cool, dry place away from direct sunlight works best! Proper storage helps preserve the beneficial properties of these products.</p>"
+            "product": "{{product}}"
           }
         }
       },
       "block_order": [
-        "text_content_bzmDUi",
-        "text_content_im6CWf",
-        "collapsible_content_6kdRGF"
+        "yotpo_product_reviews_reviews_f63trd"
       ],
-      "name": "Media w/ content",
       "settings": {
-        "section_heading": "",
-        "section_heading_size": "h0",
-        "desktop_heading_alignment": "center",
-        "heading_size": "h1",
-        "video": "shopify://files/videos/SkinTherapySec_V2_f92713b2-ac02-4a37-9972-42a01162c49b.mp4",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "image": "shopify://shop_images/MGO9001.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "open_first_collapsible_row": true,
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "mobile_row_reverse": false,
-        "padding_top": 80,
-        "padding_bottom": 80
+        "include_margins": true
       }
     },
     "multicolumn_CwXWB4": {
@@ -406,21 +360,85 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 80,
         "padding_bottom": 80
+      }
+    },
+    "collection_list_6TKJrQ": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_Aky8TV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "first-aid"
+          }
+        },
+        "featured_collection_cDjLyG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "skin-treatments"
+          }
+        },
+        "featured_collection_CBimpb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dietary-supplements"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_Aky8TV",
+        "featured_collection_cDjLyG",
+        "featured_collection_CBimpb"
+      ],
+      "disabled": true,
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "show_icon": false,
+        "text_align": "center",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 80,
+        "padding_bottom": 60
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "columns_mobile": "2",
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "padding_top": 36,
+        "padding_bottom": 28
       }
     }
   },
   "order": [
     "main",
     "multicolumn_LKeDgQ",
-    "collection_list_6TKJrQ",
-    "multicolumn_MAWq8k",
-    "related-products",
     "media_with_content_cpwzVU",
-    "multicolumn_CwXWB4"
+    "multicolumn_MAWq8k",
+    "176178986590a7c4d8",
+    "multicolumn_CwXWB4",
+    "collection_list_6TKJrQ",
+    "related-products"
   ]
 }
