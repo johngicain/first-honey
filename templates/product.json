@@ -286,6 +286,54 @@
         "padding_bottom": 40
       }
     },
+    "reviews_aRCgWX": {
+      "type": "reviews",
+      "blocks": {
+        "reviews_xVfJ9q": {
+          "type": "reviews",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-02-03_at_12.57.00_PM.png",
+            "title": "Reviews",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "author": "",
+            "rating": "five"
+          }
+        },
+        "reviews_dJVfab": {
+          "type": "reviews",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-02-03_at_12.45.08_PM.png",
+            "title": "Reviews",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "author": "",
+            "rating": "five"
+          }
+        }
+      },
+      "block_order": [
+        "reviews_xVfJ9q",
+        "reviews_dJVfab"
+      ],
+      "name": "Reviews",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "heading_font_weight": "normal",
+        "alignment": "left",
+        "description": "",
+        "column_heading_color": "",
+        "column_heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-75694dd1-01d1-4418-bb69-51c62d72aa35",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
     "multicolumn_MAWq8k": {
       "type": "multicolumn",
       "blocks": {
@@ -510,54 +558,6 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
-    },
-    "reviews_aRCgWX": {
-      "type": "reviews",
-      "blocks": {
-        "reviews_xVfJ9q": {
-          "type": "reviews",
-          "settings": {
-            "image": "shopify://shop_images/Screenshot_2025-02-03_at_12.57.00_PM.png",
-            "title": "Reviews",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "author": "",
-            "rating": "five"
-          }
-        },
-        "reviews_dJVfab": {
-          "type": "reviews",
-          "settings": {
-            "image": "shopify://shop_images/Screenshot_2025-02-03_at_12.45.08_PM.png",
-            "title": "Reviews",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "author": "",
-            "rating": "five"
-          }
-        }
-      },
-      "block_order": [
-        "reviews_xVfJ9q",
-        "reviews_dJVfab"
-      ],
-      "name": "Reviews",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "heading_font_weight": "normal",
-        "alignment": "left",
-        "description": "",
-        "column_heading_color": "",
-        "column_heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-75694dd1-01d1-4418-bb69-51c62d72aa35",
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
     }
   },
   "order": [
@@ -565,11 +565,11 @@
     "marquee_columns_4kDczb",
     "media_with_content_cpwzVU",
     "multicolumn_LKeDgQ",
+    "reviews_aRCgWX",
     "multicolumn_MAWq8k",
     "176178986590a7c4d8",
     "multicolumn_CwXWB4",
     "collection_list_6TKJrQ",
-    "related-products",
-    "reviews_aRCgWX"
+    "related-products"
   ]
 }
