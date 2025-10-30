@@ -366,6 +366,17 @@ h5,
   }
 }
 
+.reviews .slider-buttons {
+  margin-bottom: 3rem;
+}
+
+.reviews .slider.slider--desktop .slider__slide {
+  width: 100%;
+  padding: 0 2rem;
+  display: flex;
+  justify-content: center;
+}
+
 .reviews .slider.slider--desktop .multicolumn-card {
   box-sizing: border-box;
 }
