@@ -75,69 +75,85 @@
         "padding_bottom": 80
       }
     },
-    "multicolumn_LKeDgQ": {
-      "type": "multicolumn",
+    "marquee_columns_4kDczb": {
+      "type": "marquee-columns",
       "blocks": {
-        "column_EmtLaN": {
-          "type": "column",
+        "text_TRG3bX": {
+          "type": "text",
           "settings": {
-            "image": "shopify://shop_images/Asset_14.svg",
-            "title": "Dermatologist tested",
-            "text": "<p>Perfect for sensitive skin, this bundle includes our all-purpose Mānuka honey skin balm; moisturizing foot cream for cracked heels; and sterile honey ointment for wound care.</p>",
-            "link_label": "",
-            "link": "",
-            "card_style_dark": false
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/1.svg",
+            "text": "SQF Certified"
           }
         },
-        "column_Dj3PY3": {
-          "type": "column",
+        "text_BV9YLA": {
+          "type": "text",
           "settings": {
-            "image": "shopify://shop_images/Asset_13.svg",
-            "title": "MGO certified",
-            "text": "<p>Lab tested and certified to provide 600+ MGO methylglyoxal, the compound that's unique to Manuka honey, and known for its beneficial antibacterial properties.</p>",
-            "link_label": "",
-            "link": "",
-            "card_style_dark": false
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/2.svg",
+            "text": "100% natural"
           }
         },
-        "column_YVt7a4": {
-          "type": "column",
+        "text_r7CH9y": {
+          "type": "text",
           "settings": {
-            "image": "shopify://shop_images/Asset_12.svg",
-            "title": "Clinical insights",
-            "text": "<p>\"Medical-grade Mānuka honey not only fights bacteria but also stimulates tissue regeneration and reduces inflammation, creating an optimal environment for healing.\" - Dr. Gregory Schultz Ph.D</p>",
-            "link_label": "",
-            "link": "",
-            "card_style_dark": false
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/3.svg",
+            "text": "Sustainably sourced"
+          }
+        },
+        "text_MJVymA": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/4.svg",
+            "text": "Non GMO"
+          }
+        },
+        "text_gBUmMW": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/5.svg",
+            "text": "Farmed in New Zealand"
+          }
+        },
+        "text_Xmid8j": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/6.svg",
+            "text": "Glyphosate free"
           }
         }
       },
       "block_order": [
-        "column_EmtLaN",
-        "column_Dj3PY3",
-        "column_YVt7a4"
+        "text_TRG3bX",
+        "text_BV9YLA",
+        "text_r7CH9y",
+        "text_MJVymA",
+        "text_gBUmMW",
+        "text_Xmid8j"
       ],
-      "name": "t:sections.multicolumn.presets.name",
+      "name": "Marquee columns",
       "settings": {
-        "card_style_overlay": false,
-        "row_layout": true,
-        "justify_content": "start",
+        "speed": "1",
         "title": "",
         "heading_size": "h1",
-        "text": "",
-        "text_style": "body",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-de2fa94f-78dd-4016-a21f-9767f70b1683",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 40,
-        "padding_bottom": 40
+        "heading_font_weight": "normal",
+        "alignment": "center",
+        "description": "",
+        "column_heading_color": "",
+        "column_heading_size": "h2",
+        "color_scheme": "scheme-75694dd1-01d1-4418-bb69-51c62d72aa35",
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "media_with_content_cpwzVU": {
@@ -203,6 +219,71 @@
         "mobile_row_reverse": false,
         "padding_top": 80,
         "padding_bottom": 80
+      }
+    },
+    "multicolumn_LKeDgQ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_EmtLaN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Asset_14.svg",
+            "title": "Dermatologist tested",
+            "text": "<p>Perfect for sensitive skin, this bundle includes our all-purpose Mānuka honey skin balm; moisturizing foot cream for cracked heels; and sterile honey ointment for wound care.</p>",
+            "link_label": "",
+            "link": "",
+            "card_style_dark": false
+          }
+        },
+        "column_Dj3PY3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Asset_13.svg",
+            "title": "MGO certified",
+            "text": "<p>Lab tested and certified to provide 600+ MGO methylglyoxal, the compound that's unique to Manuka honey, and known for its beneficial antibacterial properties.</p>",
+            "link_label": "",
+            "link": "",
+            "card_style_dark": false
+          }
+        },
+        "column_YVt7a4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Asset_12.svg",
+            "title": "Clinical insights",
+            "text": "<p>\"Medical-grade Mānuka honey not only fights bacteria but also stimulates tissue regeneration and reduces inflammation, creating an optimal environment for healing.\" - Dr. Gregory Schultz Ph.D</p>",
+            "link_label": "",
+            "link": "",
+            "card_style_dark": false
+          }
+        }
+      },
+      "block_order": [
+        "column_EmtLaN",
+        "column_Dj3PY3",
+        "column_YVt7a4"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "card_style_overlay": false,
+        "row_layout": true,
+        "justify_content": "start",
+        "title": "",
+        "heading_size": "h1",
+        "text": "",
+        "text_style": "body",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-de2fa94f-78dd-4016-a21f-9767f70b1683",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 40,
+        "padding_bottom": 40
       }
     },
     "multicolumn_MAWq8k": {
@@ -350,7 +431,7 @@
         "row_layout": false,
         "justify_content": "start",
         "title": "Follow us @firsthoneynz",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "text": "",
         "text_style": "body",
         "image_width": "full",
@@ -360,7 +441,7 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 80,
@@ -429,98 +510,17 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
-    },
-    "marquee_columns_4kDczb": {
-      "type": "marquee-columns",
-      "blocks": {
-        "text_TRG3bX": {
-          "type": "text",
-          "settings": {
-            "text_color": "#000000",
-            "background_color": "#ffffff",
-            "image": "shopify://shop_images/1.svg",
-            "text": "SQF Certified"
-          }
-        },
-        "text_BV9YLA": {
-          "type": "text",
-          "settings": {
-            "text_color": "#000000",
-            "background_color": "#ffffff",
-            "image": "shopify://shop_images/2.svg",
-            "text": "100% natural"
-          }
-        },
-        "text_r7CH9y": {
-          "type": "text",
-          "settings": {
-            "text_color": "#000000",
-            "background_color": "#ffffff",
-            "image": "shopify://shop_images/3.svg",
-            "text": "Sustainably sourced"
-          }
-        },
-        "text_MJVymA": {
-          "type": "text",
-          "settings": {
-            "text_color": "#000000",
-            "background_color": "#ffffff",
-            "image": "shopify://shop_images/4.svg",
-            "text": "Non GMO"
-          }
-        },
-        "text_gBUmMW": {
-          "type": "text",
-          "settings": {
-            "text_color": "#000000",
-            "background_color": "#ffffff",
-            "image": "shopify://shop_images/5.svg",
-            "text": "Farmed in New Zealand"
-          }
-        },
-        "text_Xmid8j": {
-          "type": "text",
-          "settings": {
-            "text_color": "#000000",
-            "background_color": "#ffffff",
-            "image": "shopify://shop_images/6.svg",
-            "text": "Glyphosate free"
-          }
-        }
-      },
-      "block_order": [
-        "text_TRG3bX",
-        "text_BV9YLA",
-        "text_r7CH9y",
-        "text_MJVymA",
-        "text_gBUmMW",
-        "text_Xmid8j"
-      ],
-      "name": "Marquee columns",
-      "settings": {
-        "speed": "1",
-        "title": "",
-        "heading_size": "h1",
-        "heading_font_weight": "normal",
-        "alignment": "center",
-        "description": "",
-        "column_heading_color": "",
-        "column_heading_size": "h2",
-        "color_scheme": "scheme-75694dd1-01d1-4418-bb69-51c62d72aa35",
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
     }
   },
   "order": [
     "main",
-    "multicolumn_LKeDgQ",
+    "marquee_columns_4kDczb",
     "media_with_content_cpwzVU",
+    "multicolumn_LKeDgQ",
     "multicolumn_MAWq8k",
     "176178986590a7c4d8",
     "multicolumn_CwXWB4",
     "collection_list_6TKJrQ",
-    "related-products",
-    "marquee_columns_4kDczb"
+    "related-products"
   ]
 }
