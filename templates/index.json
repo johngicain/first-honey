@@ -149,7 +149,8 @@
         "button_TpAzkB"
       ],
       "custom_css": [
-        "h2 {padding-top: 20px;}"
+        "h2 {padding-top: 20px;}",
+        ".image-with-text__text.body {padding-right: 20px;}"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
@@ -309,6 +310,11 @@
         "heading_ehPTTC",
         "text_pQ7U3e",
         "button_nKF3wF"
+      ],
+      "custom_css": [
+        "h2 {padding-top: 20px;}",
+        "h2,.image-with-text__text.body {padding-left: 20px;}",
+        "a {margin-left: 20px;}"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
