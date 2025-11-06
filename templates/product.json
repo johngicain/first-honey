@@ -67,6 +67,10 @@
         "recharge_subscriptions_subscription_widget_v2_bBjWnK",
         "buy_buttons"
       ],
+      "custom_css": [
+        ".shopify-block.recharge-subscription-widget {justify-content: left !important;}",
+        ".product-form__buttons button {margin-bottom: 5px !important;}"
+      ],
       "settings": {
         "enable_sticky_info": true,
         "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
