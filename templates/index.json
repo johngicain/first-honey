@@ -148,6 +148,9 @@
         "text_hULKAe",
         "button_TpAzkB"
       ],
+      "custom_css": [
+        "h2 {padding-top: 20px;}"
+      ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/manuka_sqaure.jpg",
@@ -179,7 +182,10 @@
         "yotpo_product_reviews_reviews_carousel_qa8AwB"
       ],
       "settings": {
-        "include_margins": true
+        "include_margins": true,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "image_with_text_GMYRRf": {
