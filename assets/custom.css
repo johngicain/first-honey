@@ -443,10 +443,6 @@ h5,
   margin-bottom: 1rem;
 }
 
-.product .product__title h1 {
-  font-family: "aeonikregular";
-}
-
 .product .product__review {
   position: relative;
   font-size: 1.3rem;
