@@ -398,6 +398,7 @@
         "layout": "row",
         "container_color_scheme": "scheme-1",
         "color_scheme": "scheme-2",
+        "caret_color": "#ffcd00",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
