@@ -148,10 +148,7 @@
         "text_hULKAe",
         "button_TpAzkB"
       ],
-      "custom_css": [
-        "h2 {padding-top: 20px;}",
-        ".image-with-text__text.body {padding-right: 20px;}"
-      ],
+      "custom_css": [],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/manuka_sqaure.jpg",
@@ -311,11 +308,7 @@
         "text_pQ7U3e",
         "button_nKF3wF"
       ],
-      "custom_css": [
-        "h2 {padding-top: 20px;}",
-        "h2,.image-with-text__text.body {padding-left: 20px;}",
-        "a {margin-left: 20px;}"
-      ],
+      "custom_css": [],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/DSC01495_a92c8e36-e250-4421-bd12-0fd69a438f8d.jpg",
