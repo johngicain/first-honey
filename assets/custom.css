@@ -510,6 +510,10 @@ h5,
   line-height: 2.5rem;
 }
 
+.accordion .icon-caret {
+  height: 1rem;
+}
+
 .reviews .slider-buttons {
   margin-bottom: 3rem;
 }
