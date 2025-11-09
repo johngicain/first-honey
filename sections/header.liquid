@@ -279,11 +279,26 @@
       {%- endfor -%}
 
       <a href="{{ routes.cart_url }}" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble">
-        <span>{{ 'templates.cart.cart' | t }}</span>
-        {%- if cart != empty -%}
-          <span aria-hidden="true">({{ cart.item_count }})</span>
-          <span class="visually-hidden">{{ 'sections.header.cart_count' | t: count: cart.item_count }}</span>
-        {%- endif -%}
+        <div class="display-mobile-only">
+          {%- liquid
+            if cart == empty
+              echo 'icon-cart-empty.svg' | inline_asset_content
+            else
+              echo 'icon-cart.svg' | inline_asset_content
+            endif
+          -%}
+          {%- if cart != empty -%}
+            <span class="item-count" aria-hidden="true">{{ cart.item_count }}</span>
+            <span class="visually-hidden">{{ 'sections.header.cart_count' | t: count: cart.item_count }}</span>
+          {%- endif -%}
+        </div>
+        <div class="display-desktop-only">
+          <span>{{ 'templates.cart.cart' | t }}</span>
+          {%- if cart != empty -%}
+            <span class="item-count" aria-hidden="true">{{ cart.item_count }}</span>
+            <span class="visually-hidden">{{ 'sections.header.cart_count' | t: count: cart.item_count }}</span>
+          {%- endif -%}
+        </div>
       </a>
     </div>
   </header>
