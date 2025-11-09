@@ -299,7 +299,7 @@
         "show_icon": false,
         "text_align": "center",
         "columns_mobile": "1",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "padding_top": 60,
         "padding_bottom": 60
       }
