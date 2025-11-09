@@ -12,6 +12,12 @@
       padding-bottom: {{ section.settings.padding_bottom }}px;
     }
   }
+
+  {%- if section.settings.color_scheme != 'scheme-1' -%}
+    .image-with-text__text-item #ImageWithText--{{ section.id }} {
+      padding: 3.5rem 3rem 3rem !important;
+    }
+  {%- endif -%}
 {%- endstyle -%}
 
 {%- liquid
