@@ -66,6 +66,18 @@ h5,
   gap: 0.5rem;
 }
 
+.drawer__inner .cart__dynamic-checkout-buttons {
+  margin: 0;
+}
+
+/* .drawer__footer
+  .cart__dynamic-checkout-buttons
+  .dynamic-checkout__content
+  .wallet-cart-grid {
+  display: flex;
+  flex-direction: column !important;
+} */
+
 .marquee-wrapper {
   overflow: hidden;
 }
