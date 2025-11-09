@@ -22,8 +22,10 @@ h5,
   font-family: "TiemposHeadline-Regular", sans-serif;
 }
 
-.header__icon.link {
-  font-weight: bold;
+.header__icon.link,
+.header__menu-item {
+  font-family: "aeonikregular", sans-serif;
+  font-weight: 600 !important;
   text-transform: uppercase;
   text-decoration: none;
   text-underline-offset: 0;
