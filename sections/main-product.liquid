@@ -37,6 +37,23 @@
         padding-bottom: {{ section.settings.padding_bottom }}px;
       }
     }
+
+    #MainProduct-{{ section.id }} .product-form__submit,
+    #MainProduct-{{ section.id }} .product-form__submit::after {
+      border-radius: {{ section.settings.submit_button_border_radius }}px;
+    }
+
+    #MainProduct-{{ section.id }} .quantity::after {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgb(var(--color-background));
+      z-index: -1;
+      border-radius: {{ section.settings.quantity_input_border_radius }}px;
+    }
   {%- endstyle -%}
 
   <script src="{{ 'product-info.js' | asset_url }}" defer="defer"></script>
@@ -2256,6 +2273,30 @@
       "id": "enable_video_looping",
       "default": false,
       "label": "t:sections.main-product.settings.enable_video_looping.label"
+    },
+    {
+      "type": "header",
+      "content": "Button & Input Styling"
+    },
+    {
+      "type": "range",
+      "id": "submit_button_border_radius",
+      "min": 0,
+      "max": 50,
+      "step": 1,
+      "unit": "px",
+      "label": "Submit button border radius",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "quantity_input_border_radius",
+      "min": 0,
+      "max": 50,
+      "step": 1,
+      "unit": "px",
+      "label": "Quantity input border radius",
+      "default": 0
     },
     {
       "type": "header",

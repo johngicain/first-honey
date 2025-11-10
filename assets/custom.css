@@ -469,14 +469,9 @@ h5,
   height: 44px;
 }
 
-.product .quantity::after {
-  border-radius: 0;
-}
-
 .product .price-per-item__container .quantity__button {
   min-height: unset;
   height: 44px;
-  border-radius: 0;
 }
 
 .product .quantity .quantity__button {
@@ -484,7 +479,6 @@ h5,
 }
 
 .product .product-form .product-form__submit {
-  color: rgb(var(--color-foreground));
   font-weight: bold;
   text-transform: uppercase;
   min-height: calc(4.5rem + var(--buttons-border-width) * 2);

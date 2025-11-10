@@ -2366,10 +2366,12 @@
           },
           "options__3": {
             "label": "Large"
-          }
+          },
+          "info": "Media width is relative to information container"
         },
         "image_zoom": {
           "label": "Zoom",
+          "info": "Click and hover zoom only works on desktop.",
           "options__1": {
             "label": "Open lightbox"
           },
@@ -2382,6 +2384,7 @@
         },
         "media_position": {
           "label": "Position",
+          "info": "Position is automatically optimized for mobile.",
           "options__1": {
             "label": "Left"
           },
