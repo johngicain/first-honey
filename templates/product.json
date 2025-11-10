@@ -87,6 +87,71 @@
         "padding_bottom": 80
       }
     },
+    "multicolumn_LKeDgQ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_EmtLaN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Asset_14.svg",
+            "title": "Dermatologist tested",
+            "text": "<p>Perfect for sensitive skin, this bundle includes our all-purpose Mānuka honey skin balm; moisturizing foot cream for cracked heels; and sterile honey ointment for wound care.</p>",
+            "link_label": "",
+            "link": "",
+            "card_style_dark": false
+          }
+        },
+        "column_Dj3PY3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Asset_13.svg",
+            "title": "MGO certified",
+            "text": "<p>Lab tested and certified to provide 600+ MGO methylglyoxal, the compound that's unique to Manuka honey, and known for its beneficial antibacterial properties.</p>",
+            "link_label": "",
+            "link": "",
+            "card_style_dark": false
+          }
+        },
+        "column_YVt7a4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Asset_12.svg",
+            "title": "Clinical insights",
+            "text": "<p>\"Medical-grade Mānuka honey not only fights bacteria but also stimulates tissue regeneration and reduces inflammation, creating an optimal environment for healing.\" - Dr. Gregory Schultz Ph.D</p>",
+            "link_label": "",
+            "link": "",
+            "card_style_dark": false
+          }
+        }
+      },
+      "block_order": [
+        "column_EmtLaN",
+        "column_Dj3PY3",
+        "column_YVt7a4"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "card_style_overlay": false,
+        "row_layout": true,
+        "justify_content": "start",
+        "title": "",
+        "heading_size": "h1",
+        "text": "",
+        "text_style": "body",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-de2fa94f-78dd-4016-a21f-9767f70b1683",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
     "media_with_content_cpwzVU": {
       "type": "media-with-content",
       "blocks": {
@@ -150,71 +215,6 @@
         "mobile_row_reverse": false,
         "padding_top": 80,
         "padding_bottom": 80
-      }
-    },
-    "multicolumn_LKeDgQ": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_EmtLaN": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Asset_14.svg",
-            "title": "Dermatologist tested",
-            "text": "<p>Perfect for sensitive skin, this bundle includes our all-purpose Mānuka honey skin balm; moisturizing foot cream for cracked heels; and sterile honey ointment for wound care.</p>",
-            "link_label": "",
-            "link": "",
-            "card_style_dark": false
-          }
-        },
-        "column_Dj3PY3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Asset_13.svg",
-            "title": "MGO certified",
-            "text": "<p>Lab tested and certified to provide 600+ MGO methylglyoxal, the compound that's unique to Manuka honey, and known for its beneficial antibacterial properties.</p>",
-            "link_label": "",
-            "link": "",
-            "card_style_dark": false
-          }
-        },
-        "column_YVt7a4": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Asset_12.svg",
-            "title": "Clinical insights",
-            "text": "<p>\"Medical-grade Mānuka honey not only fights bacteria but also stimulates tissue regeneration and reduces inflammation, creating an optimal environment for healing.\" - Dr. Gregory Schultz Ph.D</p>",
-            "link_label": "",
-            "link": "",
-            "card_style_dark": false
-          }
-        }
-      },
-      "block_order": [
-        "column_EmtLaN",
-        "column_Dj3PY3",
-        "column_YVt7a4"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "card_style_overlay": false,
-        "row_layout": true,
-        "justify_content": "start",
-        "title": "",
-        "heading_size": "h1",
-        "text": "",
-        "text_style": "body",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-de2fa94f-78dd-4016-a21f-9767f70b1683",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 40,
-        "padding_bottom": 40
       }
     },
     "reviews_aRCgWX": {
