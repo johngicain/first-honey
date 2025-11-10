@@ -162,11 +162,11 @@ h5,
 }
 
 .media-with-content__content .accordion__title h2.h1 {
-  color: #e0c4ad;
+  color: rgb(var(--color-foreground));
 }
 
 .media-with-content__content .accordion__title.active h2.h1 {
-  color: rgb(var(--color-foreground));
+  color: rgb(var(--color-button));
 }
 
 .media-with-content__content .accordion__title,
