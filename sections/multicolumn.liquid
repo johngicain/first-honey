@@ -127,10 +127,10 @@
               {%- endif -%}
               <div class="multicolumn-card__info {% if section.settings.card_style_overlay == true %}{% if block.settings.card_style_dark == true %}card__style--dark{% endif %}{% endif %} {% if section.settings.row_layout == true %}justify__content--{{ section.settings.justify_content }}{% endif %}">
                 {%- if block.settings.title != blank -%}
-                  <h3 class="inline-richtext">{{ block.settings.title }}</h3>
+                  <h3 class="inline-richtext" {% if section.settings.card_style_overlay and block.settings.text_color != blank %}style="color: {{ block.settings.text_color }};"{% endif %}>{{ block.settings.title }}</h3>
                 {%- endif -%}
                 {%- if block.settings.text != blank -%}
-                  <div class="rte">{{ block.settings.text }}</div>
+                  <div class="rte" {% if section.settings.card_style_overlay and block.settings.text_color != blank %}style="color: {{ block.settings.text_color }};"{% endif %}>{{ block.settings.text }}</div>
                 {%- endif -%}
                 {%- if block.settings.link_label != blank -%}
                   <a
@@ -491,6 +491,11 @@
           "id": "card_style_dark",
           "default": false,
           "label": "Enable dark mode"
+        },
+        {
+          "type": "color",
+          "id": "text_color",
+          "label": "Text color"
         }
       ]
     }
