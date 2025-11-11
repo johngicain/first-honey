@@ -170,7 +170,7 @@
         "text_cWKXBw": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>We design our packaging to do less harm and more good. Whenever possible, we use recycled, recyclable, refillable, or biodegradable materials. First Honey products are packaged in glass or post-consumer recycled resin (PCR), and our unit cartons are made from FSC-certified recycled paper. Because how we package healing should reflect the care we put into what's inside.</p>",
             "text_style": "body"
           }
         }
@@ -181,18 +181,19 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/design-with-care.png",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "large",
         "layout": "image_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "section_color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "padding_top": 0,
+        "padding_bottom": 80
       }
     }
   },
