@@ -85,14 +85,14 @@
         "heading_fVTLhx": {
           "type": "heading",
           "settings": {
-            "heading": "A legacy of care",
-            "heading_size": "h1"
+            "heading": "Clinical research",
+            "heading_size": "h2"
           }
         },
         "text_CxVEXg": {
           "type": "text",
           "settings": {
-            "text": "<p>First Honey began with a simple belief: healing should feel as good as it works. Rooted in a long legacy of beekeeping in New Zealand, our story is grounded in generations of care-for the land, for the bees, and for the power of nature to restore. That legacy shaped our values, but it was the desire to create something better for our own families that sparked the brand. We saw how often people had to choose between products that were gentle or effective-natural or clinical. So we set out to offer something different: medical-grade healing that's clean, powerful, and proven. We created First Honey to share that difference with others. Not just sweet. Not just soothing. But a new standard of care-where science meets nature, and healing feels whole.</p><p><strong>Sarah Scarlet</strong><br/>Founder</p>",
+            "text": "<p>Based on evidence from in vitro, in vivo, and clinical studies,\" Manuka honey's multifunctional bioactive compounds have demonstrated:<br/><br/>✓ Antioxidant activity<br/>✓ Anti-inflammatory properties<br/>✓ Immunomodulatory effects<br/>✓ Antimicrobial action<br/>✓ Support for tissue regeneration</p><p>These findings help explain why Mänuka honey continues to be explored for a wide range of therapeutic applications.<br/><br/><br/></p>",
             "text_style": "body"
           }
         }
@@ -103,10 +103,10 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/a-legacy-of-care.png",
+        "image": "shopify://shop_images/clinical-research.png",
         "height": "adapt",
         "desktop_image_width": "large",
-        "layout": "text_first",
+        "layout": "image_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
         "desktop_content_position": "top",
@@ -151,10 +151,10 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/magic-manuka.png",
+        "image": "shopify://shop_images/why-it-matters.png",
         "height": "adapt",
         "desktop_image_width": "large",
-        "layout": "image_first",
+        "layout": "text_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
         "desktop_content_position": "top",
