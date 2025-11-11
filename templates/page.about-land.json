@@ -124,30 +124,21 @@
         "heading_e33Vdg": {
           "type": "heading",
           "settings": {
-            "heading": "Magic Mānuka",
+            "heading": "Why it matters",
             "heading_size": "h1"
           }
         },
         "text_7LNJ7A": {
           "type": "text",
           "settings": {
-            "text": "<p>Mānuka honey is one of nature's most powerful healers. Rich in over 2,000 natural bioactive compounds-including methylglyoxal (MGO), a potent antibacterial agent-it helps repair skin, reduce inflammation, and accelerate healing.</p><p>Our proprietary medical-grade process turns this natural wonder into a clean, effective solution for:</p><ul><li>Cuts, scrapes, and burns.</li><li>Wound healing and post-op recovery.</li><li>Immune and digestive support.</li><li>Sensitive skin and everyday irritation.</li></ul><p>It's not just honey. It's healing that works.<br/><br/></p>",
+            "text": "<p>We believe healing shouldn't harm your body or the world around you. That's why we harvest our honey without antibiotics, synthetic pesticides, or environmental shortcuts. These practices don't just damage ecosystems they contribute to rising antibiotic<br/>resistance and long-term harm to human health.<br/><br/>By keeping our hives free from those interventions, we protect pollinators, preserve soil health, and ensure every drop of honey supports healing-not resistance.We test every batch to be free from glyphosate and contaminants, because when nature is clean, the medicine is too. What's better for the bees is better for the planet-and better for you!<br/><br/></p>",
             "text_style": "body"
-          }
-        },
-        "button_XyA3r8": {
-          "type": "button",
-          "settings": {
-            "button_label": "Learn more",
-            "button_link": "",
-            "button_style_secondary": true
           }
         }
       },
       "block_order": [
         "heading_e33Vdg",
-        "text_7LNJ7A",
-        "button_XyA3r8"
+        "text_7LNJ7A"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
