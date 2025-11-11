@@ -40,74 +40,6 @@
         "padding_bottom": 60
       }
     },
-    "multicolumn_nEyAhj": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_zfWycL": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/clean.png",
-            "title": "",
-            "text": "<p>Healing shouldn't require trade-offs. At First Honey, clean means more than natural. It means pure, potent, and proven. No toxins. No antibiotics. No over-processed formulas. Just results you can trust-powered by Mānuka honey from untouched New Zealand landscapes. We believe healing should feel good in every way: safe on your skin, safe for your family, and safe for the planet.</p>",
-            "link_label": "",
-            "link": "",
-            "card_style_dark": false,
-            "text_color": ""
-          }
-        },
-        "column_9a8WMH": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/clinical.png",
-            "title": "",
-            "text": "<p>Not just natural. Clinically proven. Every batch of First Honey is made to the highest medical standards-ISO 13485 certified, FDA 510(k) cleared, and independently tested for potency and purity.</p><ul><li>FDA cleared for wound care.</li><li>Medical device manufacturing standards.</li><li>Verified for MGO, DHA, and Leptosperin.</li><li>Used by doctors, nurses, and skin specialists.</li></ul><p>This isn't folklore. It's clean medicine.<br/><br/><br/><br/><br/></p>",
-            "link_label": "",
-            "link": "",
-            "card_style_dark": false,
-            "text_color": ""
-          }
-        },
-        "column_MicbrT": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/kind.png",
-            "title": "",
-            "text": "<p>We believe healing and care are deeply connected-to each other, to the earth, and to how we live. That's why everything we do is rooted in kindness. Kind to your skin, with gentle, effective formulas. Kind to the planet, with sustainable harvesting and respect for our bees and land. Kind to the future, because every choice matters. Clean healing isn't just what we do-it's how we do it.</p>",
-            "link_label": "",
-            "link": "",
-            "card_style_dark": false,
-            "text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_zfWycL",
-        "column_9a8WMH",
-        "column_MicbrT"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "card_style_overlay": false,
-        "row_layout": false,
-        "justify_content": "start",
-        "title": "",
-        "heading_size": "h1",
-        "text": "",
-        "text_style": "body",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-0d0fc8d2-85d1-4b44-9c98-b17bd3d869af",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 40
-      }
-    },
     "image_with_text_PXLj99": {
       "type": "image-with-text",
       "blocks": {
@@ -199,7 +131,6 @@
   "order": [
     "main",
     "rich_text_kP78Re",
-    "multicolumn_nEyAhj",
     "image_with_text_PXLj99",
     "image_with_text_qw4WEE"
   ]
