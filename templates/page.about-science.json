@@ -204,6 +204,84 @@
         "padding_bottom": 80
       }
     },
+    "image_with_text_wikUYh": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_kJxPjq": {
+          "type": "heading",
+          "settings": {
+            "heading": "Independent testing",
+            "heading_size": "h1"
+          }
+        },
+        "text_HTrX9A": {
+          "type": "text",
+          "settings": {
+            "text": "<p>First Honey began with a simple belief: healing should feel as good as it works.</p><p>Rooted in a long legacy of beekeeping in New Zealand, our story is grounded in generations of care-for the land, for the bees, and for the power of nature to restore. That legacy shaped ourvalues, but it was the desire to create something better for our own families that sparked the brand.</p><p>We saw how often people had to choose between products that were gentle or effective-natural or clinical. So we set out to offer something different: medical-grade healing that's clean, powerful, and proven.</p><p>We created First Honey to share that difference with others. Not just sweet. Not just soothing. But a new standard of care-where science meets nature, and healing feels whole.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_kJxPjq",
+        "text_HTrX9A"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/independent-testing.png",
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_ehzcAB": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_FH3NXB": {
+          "type": "heading",
+          "settings": {
+            "heading": "Clinical application",
+            "heading_size": "h1"
+          }
+        },
+        "text_KGEDH8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>First Honey is an FDA 510(k)-cleared Manuka honey for use in medical devices-tested and approved for wound and burn care. We work with physicians, researchers, and wound care specialists to ensure our products meet the highest clinical standards for safety and effectiveness.<br/><br/>Our honey has been shown to:<br/>✓ Lower pH<br/>✓ Promote cell regeneration<br/>✓ Decrease biofilm<br/>✓ Support healing and reduce infection rates<br/><br/><br/></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FH3NXB",
+        "text_KGEDH8"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/clinical-application.png",
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "marquee_columns_UxfHLB": {
       "type": "marquee-columns",
       "blocks": {
@@ -273,6 +351,8 @@
     "image_with_text_PXLj99",
     "image_with_text_qw4WEE",
     "image_with_text_cDpp8W",
+    "image_with_text_wikUYh",
+    "image_with_text_ehzcAB",
     "marquee_columns_UxfHLB"
   ]
 }
