@@ -62,7 +62,8 @@
           "type": "text",
           "settings": {
             "text": "<p>MGO, or methylglyoxal, is the antibacterial compound that gives Mānuka honey its unique power—and makes it so rare. It forms naturally in the nectar of the Mānuka flower and is transferred into the honey by bees, along with other bioactive compounds. The higher the MGO, the stronger the antibacterial activity.</p>",
-            "text_style": "body"
+            "text_style": "body",
+            "font_size": 12
           }
         }
       },
@@ -101,7 +102,8 @@
           "type": "text",
           "settings": {
             "text": "<p>The Mānuka forests of the Wairarapa region are at the heart of our honey. Their isolation, biodiversity, and untouched environment shape everything we do—and everything our honey becomes.<br/><br/>These forests sequester large amounts of carbon from the atmosphere, helping reduce the impact of climate change. We support this natural balance with ongoing planting programs and thousands of new Mānuka trees established so far.<br/><br/>We work in step with the seasons and follow practices that protect the health of the hives and the surrounding ecosystem. Every drop carries the purity of this place—and the care that began long before it reached your hands.</p>",
-            "text_style": "body"
+            "text_style": "body",
+            "font_size": 12
           }
         }
       },
@@ -140,7 +142,8 @@
           "type": "text",
           "settings": {
             "text": "<p>Mānuka honey isn't just powerful because of where it comes from-but because of what's inside. Each drop contains over 200 naturally occurring compounds-amino acids, antioxidants, enzymes, and bioactives like methylglyoxal (MGO) and hydrogen peroxide-working together to support the body's healing process. These components help create an environment where wounds can recover more quickly, bacteria is kept in check, and the skin is supported at every stage. Studies show medical-grade Manuka honey is effective against antibiotic-resistant bacteria such as staph, MRSA, and pseudomonas, making it a safe, trusted option in modern wound care.<br/><br/></p>",
-            "text_style": "body"
+            "text_style": "body",
+            "font_size": 12
           }
         }
       },
@@ -179,7 +182,8 @@
           "type": "text",
           "settings": {
             "text": "<p>Based on evidence from in vitro, in vivo, and clinical studies,* Mānuka honey's multifunctional bioactive compounds have demonstrated:<br/><br/><strong>✓ </strong>Antioxidant activity<br/><strong>✓ </strong>Anti-inflammatory properties<br/><strong>✓ </strong>Immunomodulatory effects<br/><strong>✓ </strong>Antimicrobial action<br/><strong>✓ </strong>Support for tissue regeneration</p><p>These findings help explain why Mānuka honey continues to be explored for a wide range of therapeutic applications.</p>",
-            "text_style": "body"
+            "text_style": "body",
+            "font_size": 12
           }
         }
       },
@@ -218,7 +222,8 @@
           "type": "text",
           "settings": {
             "text": "<p>First Honey began with a simple belief: healing should feel as good as it works.</p><p>Rooted in a long legacy of beekeeping in New Zealand, our story is grounded in generations of care-for the land, for the bees, and for the power of nature to restore. That legacy shaped ourvalues, but it was the desire to create something better for our own families that sparked the brand.</p><p>We saw how often people had to choose between products that were gentle or effective-natural or clinical. So we set out to offer something different: medical-grade healing that's clean, powerful, and proven.</p><p>We created First Honey to share that difference with others. Not just sweet. Not just soothing. But a new standard of care-where science meets nature, and healing feels whole.</p>",
-            "text_style": "body"
+            "text_style": "body",
+            "font_size": 12
           }
         }
       },
@@ -257,7 +262,8 @@
           "type": "text",
           "settings": {
             "text": "<p>First Honey is an FDA 510(k)-cleared Manuka honey for use in medical devices-tested and approved for wound and burn care. We work with physicians, researchers, and wound care specialists to ensure our products meet the highest clinical standards for safety and effectiveness.<br/><br/>Our honey has been shown to:<br/><strong>✓ </strong>Lower pH<br/><strong>✓ </strong>Promote cell regeneration<br/><strong>✓ </strong>Decrease biofilm<br/><strong>✓ </strong>Support healing and reduce infection rates<br/><br/><br/></p>",
-            "text_style": "body"
+            "text_style": "body",
+            "font_size": 12
           }
         }
       },
@@ -289,7 +295,8 @@
           "type": "text",
           "settings": {
             "text": "<p>\"Some of the benefits my patients receive when using medical grade Mānuka honey dressings include decreased biofilm, decreased pain, decreased time to heal and decreased infection - which all adds up to a great wound dressing.\"<br/><br/><strong>Stephen Bergquist, MD, CWSP</strong><br/>Jackson-Madison County<br/>Hospital, Tennessee</p>",
-            "text_style": "body"
+            "text_style": "body",
+            "font_size": 12
           }
         }
       },
