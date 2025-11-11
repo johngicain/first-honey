@@ -60,7 +60,7 @@
           "settings": {
             "image": "shopify://shop_images/clinical.png",
             "title": "",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Not just natural. Clinically proven. Every batch of First Honey is made to the highest medical standards-ISO 13485 certified, FDA 510(k) cleared, and independently tested for potency and purity.</p><ul><li>FDA cleared for wound care.</li><li>Medical device manufacturing standards.</li><li>Verified for MGO, DHA, and Leptosperin.</li><li>Used by doctors, nurses, and skin specialists.</li></ul><p>This isn't folklore. It's clean medicine.<br/><br/><br/><br/><br/></p>",
             "link_label": "",
             "link": "",
             "card_style_dark": false,
