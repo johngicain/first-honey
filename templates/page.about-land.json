@@ -195,6 +195,63 @@
         "padding_top": 0,
         "padding_bottom": 80
       }
+    },
+    "marquee_columns_UxfHLB": {
+      "type": "marquee-columns",
+      "blocks": {
+        "text_DT8j43": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "text": "Powerful results"
+          }
+        },
+        "text_fYhdrw": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "text": "Antibiotic free"
+          }
+        },
+        "text_RRFGfb": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "text": "Sustainable formulas"
+          }
+        },
+        "text_Q4F7f3": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "text": "GMO-free"
+          }
+        }
+      },
+      "block_order": [
+        "text_DT8j43",
+        "text_fYhdrw",
+        "text_RRFGfb",
+        "text_Q4F7f3"
+      ],
+      "name": "Marquee columns",
+      "settings": {
+        "speed": "1",
+        "title": "",
+        "heading_size": "h1",
+        "heading_font_weight": "normal",
+        "alignment": "left",
+        "description": "",
+        "column_heading_color": "",
+        "column_heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
     }
   },
   "order": [
@@ -203,6 +260,7 @@
     "image_with_text_LQQ4jn",
     "image_with_text_PXLj99",
     "image_with_text_qw4WEE",
-    "image_with_text_cDpp8W"
+    "image_with_text_cDpp8W",
+    "marquee_columns_UxfHLB"
   ]
 }
