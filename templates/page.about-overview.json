@@ -23,7 +23,7 @@
         "column_zfWycL": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/CArtboard_1-100.webp",
+            "image": "shopify://shop_images/clean.png",
             "title": "",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
@@ -35,7 +35,7 @@
         "column_9a8WMH": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/FH-Collection-Nutrition-2048x2048.webp",
+            "image": "shopify://shop_images/clinical.png",
             "title": "",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
@@ -47,7 +47,7 @@
         "column_MicbrT": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/AArtboard_1-100.webp",
+            "image": "shopify://shop_images/kind.png",
             "title": "",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
@@ -109,6 +109,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/a-legacy-of-care.png",
         "height": "adapt",
         "desktop_image_width": "large",
         "layout": "text_first",
@@ -156,6 +157,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/magic-manuka.png",
         "height": "adapt",
         "desktop_image_width": "large",
         "layout": "image_first",
