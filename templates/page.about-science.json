@@ -278,8 +278,39 @@
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
         "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 40,
+        "padding_bottom": 80
+      }
+    },
+    "image_with_text_mUBCMh": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_QT77rm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"Some of the benefits my patients receive when using medical grade Mānuka honey dressings include decreased biofilm, decreased pain, decreased time to heal and decreased infection - which all adds up to a great wound dressing.\"<br/><br/><strong>Stephen Bergquist, MD, CWSP</strong><br/>Jackson-Madison County<br/>Hospital, Tennessee</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_QT77rm"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/stephen-bergquist.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 80
       }
     },
     "marquee_columns_UxfHLB": {
@@ -353,6 +384,7 @@
     "image_with_text_cDpp8W",
     "image_with_text_wikUYh",
     "image_with_text_ehzcAB",
+    "image_with_text_mUBCMh",
     "marquee_columns_UxfHLB"
   ]
 }
