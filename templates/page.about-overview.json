@@ -17,6 +17,29 @@
         "padding_bottom": 28
       }
     },
+    "rich_text_kP78Re": {
+      "type": "rich-text",
+      "blocks": {
+        "text_BHyzMg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Too many products are built for shelf life, not skin. We believe healing should<br/>be both effective and kind-safe for your skin, your family, and the planet.</p><p><br/>The future of healing is clean-rooted in nature, backed by science, and free<br/>from compromise. It should work fast, feel good, and be trusted to care for<br/>your body as gently as it does powerfully.</p><p><br/>That's why we created First Honey: a new kind of care, made with medical-<br/>grade Mānuka honey from New Zealand and backed by serious science.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_BHyzMg"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-0d0fc8d2-85d1-4b44-9c98-b17bd3d869af",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
     "multicolumn_nEyAhj": {
       "type": "multicolumn",
       "blocks": {
@@ -81,7 +104,7 @@
         "color_scheme": "scheme-0d0fc8d2-85d1-4b44-9c98-b17bd3d869af",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 40,
+        "padding_top": 0,
         "padding_bottom": 40
       }
     },
@@ -175,6 +198,7 @@
   },
   "order": [
     "main",
+    "rich_text_kP78Re",
     "multicolumn_nEyAhj",
     "image_with_text_PXLj99",
     "image_with_text_qw4WEE"
