@@ -178,7 +178,7 @@
         "text_cWKXBw": {
           "type": "text",
           "settings": {
-            "text": "<p>Based on evidence from in vitro, in vivo, and clinical studies,* Mānuka honey's multifunctional bioactive compounds have demonstrated:<br/><br/>✓ Antioxidant activity<br/>✓ Anti-inflammatory properties<br/>✓ Immunomodulatory effects<br/>✓ Antimicrobial action<br/>✓ Support for tissue regeneration</p><p>These findings help explain why Mānuka honey continues to be explored for a wide range of therapeutic applications.</p>",
+            "text": "<p>Based on evidence from in vitro, in vivo, and clinical studies,* Mānuka honey's multifunctional bioactive compounds have demonstrated:<br/><br/><strong>✓ </strong>Antioxidant activity<br/><strong>✓ </strong>Anti-inflammatory properties<br/><strong>✓ </strong>Immunomodulatory effects<br/><strong>✓ </strong>Antimicrobial action<br/><strong>✓ </strong>Support for tissue regeneration</p><p>These findings help explain why Mānuka honey continues to be explored for a wide range of therapeutic applications.</p>",
             "text_style": "body"
           }
         }
