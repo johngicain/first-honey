@@ -256,7 +256,7 @@
         "text_KGEDH8": {
           "type": "text",
           "settings": {
-            "text": "<p>First Honey is an FDA 510(k)-cleared Manuka honey for use in medical devices-tested and approved for wound and burn care. We work with physicians, researchers, and wound care specialists to ensure our products meet the highest clinical standards for safety and effectiveness.<br/><br/>Our honey has been shown to:<br/>✓ Lower pH<br/>✓ Promote cell regeneration<br/>✓ Decrease biofilm<br/>✓ Support healing and reduce infection rates<br/><br/><br/></p>",
+            "text": "<p>First Honey is an FDA 510(k)-cleared Manuka honey for use in medical devices-tested and approved for wound and burn care. We work with physicians, researchers, and wound care specialists to ensure our products meet the highest clinical standards for safety and effectiveness.<br/><br/>Our honey has been shown to:<br/><strong>✓ </strong>Lower pH<br/><strong>✓ </strong>Promote cell regeneration<br/><strong>✓ </strong>Decrease biofilm<br/><strong>✓ </strong>Support healing and reduce infection rates<br/><br/><br/></p>",
             "text_style": "body"
           }
         }
