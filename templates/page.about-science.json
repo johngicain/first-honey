@@ -74,7 +74,7 @@
       "settings": {
         "image": "shopify://shop_images/the-power-behind-manuka.png",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "text_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
@@ -112,7 +112,7 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/where-it-begins.png",
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "large",
         "layout": "image_first",
         "image_behavior": "none",
@@ -151,7 +151,7 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/the-strength-within.png",
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "large",
         "layout": "text_first",
         "image_behavior": "none",
@@ -190,7 +190,7 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/apipure-system.png",
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "large",
         "layout": "image_first",
         "image_behavior": "none",
@@ -229,7 +229,7 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/independent-testing.png",
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "large",
         "layout": "text_first",
         "image_behavior": "none",
@@ -268,7 +268,7 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/clinical-application.png",
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "large",
         "layout": "image_first",
         "image_behavior": "none",
@@ -300,7 +300,7 @@
       "settings": {
         "image": "shopify://shop_images/stephen-bergquist.png",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "text_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
