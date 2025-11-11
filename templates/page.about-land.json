@@ -30,7 +30,7 @@
         "text_BHyzMg": {
           "type": "text",
           "settings": {
-            "text": "<p>Too many products are built for shelf life, not skin. We believe healing should<br/>be both effective and kind-safe for your skin, your family, and the planet.</p><p><br/>The future of healing is clean-rooted in nature, backed by science, and free<br/>from compromise. It should work fast, feel good, and be trusted to care for<br/>your body as gently as it does powerfully.</p><p><br/>That's why we created First Honey: a new kind of care, made with medical-<br/>grade Mānuka honey from New Zealand and backed by serious science.<br/><br/></p>"
+            "text": "<p>Our story begins in the wild, remote Mānuka forests of New Zealand's Wairarapa region—an untouched environment where bees gather nectar just a few weeks each year, during the fleeting Mānuka bloom.</p>"
           }
         }
       },
@@ -46,6 +46,37 @@
         "full_width": true,
         "padding_top": 60,
         "padding_bottom": 60
+      }
+    },
+    "image_with_text_LQQ4jn": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_pEdLUg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"The Manuka flower blooms for just 2-6 weeks per year. For the rest of the year, we patiently wait and tend to our hives, the land and the forests. We work with the cycles of seasons, learning to flow with nature because you can't force it. Every year deepens your connection to the land and you realize we are all connected.\"</p><p><strong>Dan Watson</strong><br/>Co-Founder & Master Beekeper</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_pEdLUg"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/dan-watson.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "image_with_text_PXLj99": {
@@ -139,6 +170,7 @@
   "order": [
     "main",
     "rich_text_kP78Re",
+    "image_with_text_LQQ4jn",
     "image_with_text_PXLj99",
     "image_with_text_qw4WEE"
   ]
