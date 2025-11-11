@@ -82,12 +82,51 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 40,
-        "padding_bottom": 60
+        "padding_bottom": 40
+      }
+    },
+    "image_with_text_PXLj99": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_fVTLhx": {
+          "type": "heading",
+          "settings": {
+            "heading": "A legacy of care",
+            "heading_size": "h1"
+          }
+        },
+        "text_CxVEXg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_fVTLhx",
+        "text_CxVEXg"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-0d0fc8d2-85d1-4b44-9c98-b17bd3d869af",
+        "color_scheme": "scheme-0d0fc8d2-85d1-4b44-9c98-b17bd3d869af",
+        "padding_top": 20,
+        "padding_bottom": 80
       }
     }
   },
   "order": [
     "main",
-    "multicolumn_nEyAhj"
+    "multicolumn_nEyAhj",
+    "image_with_text_PXLj99"
   ]
 }
