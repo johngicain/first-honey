@@ -125,7 +125,7 @@
                   </div>
                 </div>
               {%- endif -%}
-              <div class="multicolumn-card__info {% if section.settings.card_style_overlay == true %}{% if block.settings.card_style_dark == true %}card__style--dark{% endif %}{% endif %} {% if section.settings.row_layout == true %}justify__content--{{ section.settings.justify_content }}{% endif %}">
+              <div class="multicolumn-card__info {% if section.settings.card_style_overlay == true %}{% if block.settings.card_style_dark == true %}card__style--dark{% endif %}{% endif %} {% if section.settings.row_layout == true %}justify__content--{{ section.settings.justify_content }}{% endif %}" style="font-size: {{ block.settings.font_size }}px;">
                 {%- if block.settings.title != blank -%}
                   <h3 class="inline-richtext" {% if section.settings.card_style_overlay and block.settings.text_color != blank %}style="color: {{ block.settings.text_color }};"{% endif %}>{{ block.settings.title }}</h3>
                 {%- endif -%}
@@ -496,6 +496,16 @@
           "type": "color",
           "id": "text_color",
           "label": "Text color"
+        },
+        {
+          "type": "range",
+          "id": "font_size",
+          "min": 12,
+          "max": 32,
+          "step": 1,
+          "unit": "px",
+          "label": "Font size",
+          "default": 16
         }
       ]
     }

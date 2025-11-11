@@ -78,6 +78,11 @@ h5,
   flex-direction: column !important;
 } */
 
+/* .multicolumn-card .multicolumn-card__info,
+.image-with-text__content .image-with-text__text {
+  font-size: 1.2rem;
+} */
+
 .marquee-wrapper {
   overflow: hidden;
 }
