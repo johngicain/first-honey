@@ -20,6 +20,13 @@
     "rich_text_kP78Re": {
       "type": "rich-text",
       "blocks": {
+        "heading_EeRBRA": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ko au te taiao te taiao ko au",
+            "heading_size": "hxxl"
+          }
+        },
         "text_BHyzMg": {
           "type": "text",
           "settings": {
@@ -28,6 +35,7 @@
         }
       },
       "block_order": [
+        "heading_EeRBRA",
         "text_BHyzMg"
       ],
       "name": "t:sections.rich-text.presets.name",
