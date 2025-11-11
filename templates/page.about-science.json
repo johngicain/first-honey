@@ -51,20 +51,28 @@
     "image_with_text_LQQ4jn": {
       "type": "image-with-text",
       "blocks": {
+        "heading_DNawxX": {
+          "type": "heading",
+          "settings": {
+            "heading": "The power behind Mānuka",
+            "heading_size": "h1"
+          }
+        },
         "text_pEdLUg": {
           "type": "text",
           "settings": {
-            "text": "<p>\"The Manuka flower blooms for just 2-6 weeks per year. For the rest of the year, we patiently wait and tend to our hives, the land and the forests. We work with the cycles of seasons, learning to flow with nature because you can't force it. Every year deepens your connection to the land and you realize we are all connected.\"</p><p><strong>Dan Watson</strong><br/>Co-Founder & Master Beekeper</p>",
+            "text": "<p>MGO, or methylglyoxal, is the antibacterial compound that gives Mānuka honey its unique power—and makes it so rare. It forms naturally in the nectar of the Mānuka flower and is transferred into the honey by bees, along with other bioactive compounds. The higher the MGO, the stronger the antibacterial activity.</p>",
             "text_style": "body"
           }
         }
       },
       "block_order": [
+        "heading_DNawxX",
         "text_pEdLUg"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/dan-watson.png",
+        "image": "shopify://shop_images/the-power-behind-manuka.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -85,14 +93,14 @@
         "heading_fVTLhx": {
           "type": "heading",
           "settings": {
-            "heading": "Clinical research",
+            "heading": "Where it begins",
             "heading_size": "h1"
           }
         },
         "text_CxVEXg": {
           "type": "text",
           "settings": {
-            "text": "<p>Based on evidence from in vitro, in vivo, and clinical studies,\" Manuka honey's multifunctional bioactive compounds have demonstrated:<br/><br/>✓ Antioxidant activity<br/>✓ Anti-inflammatory properties<br/>✓ Immunomodulatory effects<br/>✓ Antimicrobial action<br/>✓ Support for tissue regeneration</p><p>These findings help explain why Mänuka honey continues to be explored for a wide range of therapeutic applications.<br/><br/><br/></p>",
+            "text": "<p>The Mānuka forests of the Wairarapa region are at the heart of our honey. Their isolation, biodiversity, and untouched environment shape everything we do—and everything our honey becomes.<br/><br/>These forests sequester large amounts of carbon from the atmosphere, helping reduce the impact of climate change. We support this natural balance with ongoing planting programs and thousands of new Mānuka trees established so far.<br/><br/>We work in step with the seasons and follow practices that protect the health of the hives and the surrounding ecosystem. Every drop carries the purity of this place—and the care that began long before it reached your hands.</p>",
             "text_style": "body"
           }
         }
@@ -103,7 +111,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/clinical-research.png",
+        "image": "shopify://shop_images/where-it-begins.png",
         "height": "adapt",
         "desktop_image_width": "large",
         "layout": "image_first",
@@ -142,7 +150,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/why-it-matters.png",
+        "image": "shopify://shop_images/the-strength-within.png",
         "height": "adapt",
         "desktop_image_width": "large",
         "layout": "text_first",
@@ -181,7 +189,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/design-with-care.png",
+        "image": "shopify://shop_images/apipure-system.png",
         "height": "adapt",
         "desktop_image_width": "large",
         "layout": "image_first",
