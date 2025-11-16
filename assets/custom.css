@@ -494,7 +494,8 @@ h5,
   position: relative;
   font-size: 1.3rem;
   line-height: 2rem;
-  background: #fff3e6;
+  background: rgba(var(--color-button), 0.3);
+  /* background: rgb(var(--color-button-text)); */
   padding: 1rem 1.5rem 0.5rem;
 }
 
