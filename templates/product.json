@@ -55,6 +55,10 @@
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
           }
+        },
+        "recharge_subscriptions_subscription_widget_v2_CE3Eej": {
+          "type": "shopify://apps/recharge-subscriptions/blocks/subscription-widget-v2/371eed76-0b44-4869-9813-730372ea378e",
+          "settings": {}
         }
       },
       "block_order": [
@@ -65,7 +69,8 @@
         "variant_picker",
         "description",
         "price",
-        "buy_buttons"
+        "buy_buttons",
+        "recharge_subscriptions_subscription_widget_v2_CE3Eej"
       ],
       "custom_css": [
         ".shopify-block.recharge-subscription-widget {justify-content: left !important;}",
