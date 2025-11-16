@@ -51,6 +51,7 @@
         "desktop_content_position": "middle-left",
         "desktop_content_alignment": "left",
         "show_text_box": true,
+        "text_box_opacity": 80,
         "desktop_max_width": 300,
         "color_scheme": "scheme-1",
         "stack_images_on_mobile": false,
@@ -131,7 +132,8 @@
           "type": "text",
           "settings": {
             "text": "<p>Since ancient times, humans have relied on the natural healing power of honey. Mānuka honey — imbued with the incredible properties of New Zealand’s native Mānuka plants — is the most healing honey of all, promoting skin regeneration and repelling microbes.</p><p>First Honey uses medical-grade Mānuka honey in all our products — preserving a natural healing tradition while carefully formulating, testing, and purifying our products for superior medicinal results.</p><p>Perfect for soothing and treating cuts, burns, eczema flare-ups, and distressed skin of all types, First Honey provides care that is powerful, natural, and kind.</p>",
-            "text_style": "body"
+            "text_style": "body",
+            "font_size": 16
           }
         },
         "button_TpAzkB": {
@@ -227,7 +229,8 @@
           "type": "text",
           "settings": {
             "text": "<p>Learn more about the various healing benefits of medical grade Mānuka honey and why these doctors recommend it to their patients. In our Q&As, we cover topics such as how to care for aging skin, best treatments for eczema, holistic breastfeeding practices and more.</p>",
-            "text_style": "body"
+            "text_style": "body",
+            "font_size": 16
           }
         },
         "button_rdDXVA": {
@@ -318,7 +321,8 @@
           "type": "text",
           "settings": {
             "text": "<p>Founded by brother and sister Dan Watson and Sarah Scarlet, First Honey is based in New Zealand, where nature flourishes without outside influence. That’s where our bees live, where our Mānuka plants sprout in pollution-free forests, and where our honey is refined in our state-of-the-art facility.</p><p>Growing up in a beekeeping family in New Zealand, Dan and Sarah were raised knowing nature — not chemical irritant — is the solution to our scrapes. Now, we aim to be stewards of our birthplace and make the healing power of Mānuka available to all by blending traditional apiary techniques with modern science — all built on a foundation of respect for our natural environment.</p><p>Nature got us here. We’re just bringing it to the world.</p>",
-            "text_style": "body"
+            "text_style": "body",
+            "font_size": 16
           }
         },
         "button_nKF3wF": {
