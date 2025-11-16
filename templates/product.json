@@ -30,6 +30,10 @@
             "product": "{{product}}"
           }
         },
+        "review_description_wc9GBR": {
+          "type": "review_description",
+          "settings": {}
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -61,6 +65,7 @@
         "vendor",
         "title",
         "okendo_star_rating_AgdPWQ",
+        "review_description_wc9GBR",
         "variant_picker",
         "description",
         "price",
@@ -101,7 +106,8 @@
             "link_label": "",
             "link": "",
             "card_style_dark": false,
-            "text_color": ""
+            "text_color": "",
+            "font_size": 16
           }
         },
         "column_Dj3PY3": {
@@ -113,7 +119,8 @@
             "link_label": "",
             "link": "",
             "card_style_dark": false,
-            "text_color": ""
+            "text_color": "",
+            "font_size": 16
           }
         },
         "column_YVt7a4": {
@@ -125,7 +132,8 @@
             "link_label": "",
             "link": "",
             "card_style_dark": false,
-            "text_color": ""
+            "text_color": "",
+            "font_size": 16
           }
         }
       },
@@ -282,7 +290,8 @@
             "link_label": "",
             "link": "",
             "card_style_dark": false,
-            "text_color": ""
+            "text_color": "",
+            "font_size": 16
           }
         },
         "column_hYrKhg": {
@@ -294,7 +303,8 @@
             "link_label": "",
             "link": "",
             "card_style_dark": false,
-            "text_color": ""
+            "text_color": "",
+            "font_size": 16
           }
         },
         "column_6HQJyE": {
@@ -306,7 +316,8 @@
             "link_label": "",
             "link": "",
             "card_style_dark": false,
-            "text_color": "#000000"
+            "text_color": "#000000",
+            "font_size": 16
           }
         }
       },
@@ -392,7 +403,8 @@
             "link_label": "",
             "link": "",
             "card_style_dark": false,
-            "text_color": ""
+            "text_color": "",
+            "font_size": 16
           }
         },
         "column_AqPXtN": {
@@ -404,7 +416,8 @@
             "link_label": "",
             "link": "",
             "card_style_dark": false,
-            "text_color": ""
+            "text_color": "",
+            "font_size": 16
           }
         },
         "column_6TtD6B": {
@@ -416,7 +429,8 @@
             "link_label": "",
             "link": "",
             "card_style_dark": false,
-            "text_color": ""
+            "text_color": "",
+            "font_size": 16
           }
         },
         "column_btDafc": {
@@ -428,7 +442,8 @@
             "link_label": "",
             "link": "",
             "card_style_dark": false,
-            "text_color": ""
+            "text_color": "",
+            "font_size": 16
           }
         }
       },
