@@ -30,7 +30,8 @@
         "text_BHyzMg": {
           "type": "text",
           "settings": {
-            "text": "<p>Mānuka honey is unlike any other.<br/><br/>Produced from the nectar of Leptospermum scoparium—a wildflower native to New Zealand—this rare honey is harvested during a short bloom that lasts just a few weeks each year. In that window, bees create something extraordinary: a honey rich in naturally occurring compounds like methylglyoxal (MGO), known for its powerful antibacterial properties.<br/><br/>At First Honey, we go even further. We source only high-potency Manuka from remote, pollution-free forests, then refine it using our proprietary ApiPure™ system-preserving its natural strength and purifying it to medical-grade standards.<br/><br/></p>"
+            "text": "<p>Mānuka honey is unlike any other.<br/><br/>Produced from the nectar of Leptospermum scoparium—a wildflower native to New Zealand—this rare honey is harvested during a short bloom that lasts just a few weeks each year. In that window, bees create something extraordinary: a honey rich in naturally occurring compounds like methylglyoxal (MGO), known for its powerful antibacterial properties.<br/><br/>At First Honey, we go even further. We source only high-potency Manuka from remote, pollution-free forests, then refine it using our proprietary ApiPure™ system-preserving its natural strength and purifying it to medical-grade standards.<br/><br/></p>",
+            "text_width": "max-width"
           }
         }
       },
@@ -42,6 +43,7 @@
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
+        "layout": "row",
         "color_scheme": "scheme-0d0fc8d2-85d1-4b44-9c98-b17bd3d869af",
         "full_width": true,
         "padding_top": 60,
@@ -82,6 +84,8 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
+        "content_width": "max-width",
+        "remove_padding_top": false,
         "section_color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
         "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
         "padding_top": 40,
@@ -122,6 +126,8 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
+        "content_width": "max-width",
+        "remove_padding_top": false,
         "section_color_scheme": "scheme-0d0fc8d2-85d1-4b44-9c98-b17bd3d869af",
         "color_scheme": "scheme-0d0fc8d2-85d1-4b44-9c98-b17bd3d869af",
         "padding_top": 0,
@@ -162,6 +168,8 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
+        "content_width": "max-width",
+        "remove_padding_top": false,
         "section_color_scheme": "scheme-0d0fc8d2-85d1-4b44-9c98-b17bd3d869af",
         "color_scheme": "scheme-0d0fc8d2-85d1-4b44-9c98-b17bd3d869af",
         "padding_top": 20,
@@ -202,6 +210,8 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
+        "content_width": "max-width",
+        "remove_padding_top": false,
         "section_color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
         "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
         "padding_top": 40,
@@ -242,6 +252,8 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
+        "content_width": "max-width",
+        "remove_padding_top": false,
         "section_color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
         "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
         "padding_top": 40,
@@ -282,6 +294,8 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
+        "content_width": "max-width",
+        "remove_padding_top": false,
         "section_color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
         "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
         "padding_top": 40,
@@ -314,6 +328,8 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
+        "content_width": "max-width",
+        "remove_padding_top": false,
         "section_color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
         "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
         "padding_top": 40,
