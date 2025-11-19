@@ -30,7 +30,8 @@
         "text_BHyzMg": {
           "type": "text",
           "settings": {
-            "text": "<p>Our story begins in the wild, remote Mānuka forests of New Zealand's Wairarapa region—an untouched environment where bees gather nectar just a few weeks each year, during the fleeting Mānuka bloom.</p>"
+            "text": "<p>Our story begins in the wild, remote Mānuka forests of New Zealand's Wairarapa region—an untouched environment where bees gather nectar just a few weeks each year, during the fleeting Mānuka bloom.</p>",
+            "text_width": "compress-width"
           }
         }
       },
