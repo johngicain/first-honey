@@ -40,8 +40,9 @@
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "layout": "row",
         "color_scheme": "scheme-0d0fc8d2-85d1-4b44-9c98-b17bd3d869af",
         "full_width": true,
         "padding_top": 60,

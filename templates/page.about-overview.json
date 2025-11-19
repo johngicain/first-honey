@@ -23,7 +23,7 @@
         "heading_RaEKjf": {
           "type": "heading",
           "settings": {
-            "heading": "Clean healing revolution",
+            "heading": "Clean <em>healing revolution</em>",
             "heading_size": "hxxl"
           }
         },
@@ -40,8 +40,9 @@
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "layout": "row",
         "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
         "full_width": true,
         "padding_top": 60,
