@@ -43,6 +43,14 @@ h5,
   .layout-row .rich-text__blocks .rich-text__text {
     margin-top: 0;
   }
+
+  .rich-text__text.compress-width {
+    max-width: 60%;
+  }
+
+  .rich-text__text.semi-compress-width {
+    max-width: 80%;
+  }
 }
 
 .header__icon.link,
