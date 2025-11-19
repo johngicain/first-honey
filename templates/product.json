@@ -1,0 +1,612 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "Best Seller",
+            "text_style": "subtitle",
+            "enable_button_style": true
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "okendo_star_rating_AgdPWQ": {
+          "type": "shopify://apps/okendo/blocks/star-rating/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "review_description_wc9GBR": {
+          "type": "review_description",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "okendo_star_rating_AgdPWQ",
+        "review_description_wc9GBR",
+        "variant_picker",
+        "description",
+        "price",
+        "buy_buttons"
+      ],
+      "custom_css": [
+        ".shopify-block.recharge-subscription-widget {justify-content: left !important;}",
+        ".product-form__buttons button {margin-bottom: 5px !important;}"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-39e30c39-7c9a-4b79-88db-67dd234e69ea",
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "show",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "submit_button_border_radius": 50,
+        "quantity_input_border_radius": 50,
+        "padding_top": 40,
+        "padding_bottom": 80
+      }
+    },
+    "multicolumn_LKeDgQ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_EmtLaN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Asset_14.svg",
+            "title": "Dermatologist tested",
+            "text": "<p>Perfect for sensitive skin, this bundle includes our all-purpose Mānuka honey skin balm; moisturizing foot cream for cracked heels; and sterile honey ointment for wound care.</p>",
+            "link_label": "",
+            "link": "",
+            "card_style_dark": false,
+            "text_color": "",
+            "font_size": 16
+          }
+        },
+        "column_Dj3PY3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Asset_13.svg",
+            "title": "MGO certified",
+            "text": "<p>Lab tested and certified to provide 600+ MGO methylglyoxal, the compound that's unique to Manuka honey, and known for its beneficial antibacterial properties.</p>",
+            "link_label": "",
+            "link": "",
+            "card_style_dark": false,
+            "text_color": "",
+            "font_size": 16
+          }
+        },
+        "column_YVt7a4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Asset_12.svg",
+            "title": "Clinical insights",
+            "text": "<p>\"Medical-grade Mānuka honey not only fights bacteria but also stimulates tissue regeneration and reduces inflammation, creating an optimal environment for healing.\" - Dr. Gregory Schultz Ph.D</p>",
+            "link_label": "",
+            "link": "",
+            "card_style_dark": false,
+            "text_color": "",
+            "font_size": 16
+          }
+        }
+      },
+      "block_order": [
+        "column_EmtLaN",
+        "column_Dj3PY3",
+        "column_YVt7a4"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "card_style_overlay": false,
+        "row_layout": true,
+        "justify_content": "start",
+        "title": "",
+        "heading_size": "h1",
+        "text": "",
+        "text_style": "body",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-de2fa94f-78dd-4016-a21f-9767f70b1683",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "media_with_content_cpwzVU": {
+      "type": "media-with-content",
+      "blocks": {
+        "text_content_bzmDUi": {
+          "type": "text_content",
+          "settings": {
+            "heading": "Product Details",
+            "description": "<p>Relief for distressed skin is here with First Honey® Mānuka Honey Cream to hydrate and protect dry, fragile skin. </p><p>A customer favorite for those struggling with eczema, rosacea, and psoriasis, this deeply nourishing eczema cream will calm, soothe and moisturize.<br/><br/>Infused with the highest quality medical-grade Mānuka honey, harvested from our own bees in New Zealand, this eczema cream is a dermatologist-tested product to assist with irritated skin.  </p>"
+          }
+        },
+        "text_content_im6CWf": {
+          "type": "text_content",
+          "settings": {
+            "heading": "Ingredients",
+            "description": "<p>Aqua, Manuka Honey,<br/>Stearyl Alcohol, Coco-Caprylate, Stearic<br/>Acid, Caprylic/Capric Triglyceride, Behenyl<br/>Alcohol, Isopentyl Laurate, Glyceryl<br/>Behenate, Tapioca Starch, Cetyl Palmitate,<br/>Olea Europaea Fruit Oil, Gluconolactone,<br/>Glyceryl Stearate Citrate, Sorbitan Olivate,<br/>Sorbitan Palmitate, Butyrospermum<br/>Parkii Butter, Betaine, Glyceryl Caprylate,<br/>Xanthan Gum, Jojoba Esters, Helianthus<br/>Annuus Seed Oil, Polyglyceryl-3 Cocoate,<br/>Polyglyceryl-4 Caprate, Polyglyceryl-6<br/>Caprylate, Polyglyceryl-6 Ricinoleate,<br/>Aminomethyl Propanol, Sodium Benzoate,<br/>Aleurites Moluccanus Seed Oil, Lavandula<br/>Angustifolia Oil, Mentha Piperita Oil,<br/>Potassium Sorbate, Pongamia Glabra<br/>Seed Oil, Vanilla, Glycerin, Caprylhydroxamic<br/>Acid, Panthenol, Rosmarinus Officinalis<br/>Extract, Bisabolol, Polyglyceryl-3<br/>Polyricinoleate, Tocopherol.</p>"
+          }
+        },
+        "collapsible_content_6kdRGF": {
+          "type": "collapsible_content",
+          "settings": {
+            "heading": "FAQ",
+            "row_heading_1": "What is Mānuka Honey?",
+            "row_content_1": "<p>Mānuka Honey is harvested from nectar of the Mānuka tree, native to the pristine forests of New Zealand. This honey contains natural amino acids, Vitamins B and C, antioxidants, minerals, proteins, and bioactive compounds. Mānuka honey also boasts high levels of MGO (methylglyoxal), a compound known for its potent antibacterial properties.</p>",
+            "row_heading_2": "What makes Mānuka Honey different from regular honey?",
+            "row_content_2": "<p>Mānuka Honey is distinguished by its high MGO (Methylglyoxal) content, which provides unique antibacterial properties not found in regular honey. It is sourced exclusively from the nectar of the Mānuka bush native to New Zealand.</p>",
+            "row_heading_3": "Why is it significant that First Honey® products contain no antibiotics?",
+            "row_content_3": "<p>According to the FDA, CDC, and World Health Organization, antibiotic resistance, which can result from the overuse of antibiotics, is one of the biggest problems facing medicine today. Many of the common, over-the-counter wound care ointments contain three antibiotics, yielding an exposure that’s equivalent to a prescription antibiotic pill given by a medical professional.</p>",
+            "row_heading_4": "Is your Mānuka Honey certified for quality and authenticity?",
+            "row_content_4": "<p>Yes! All our Mānuka honey is certified for quality and authenticity through rigorous testing protocols. These checks provide consumer certainty guaranteeing that our products meet strict standards for purity and potency. Unlike many other Mānuka companies that source honey from multiple farms or beekeepers, we control every step of production, from our family farm to the extraction process, so origin and authenticity is never a question for us! In addition to this our honey undergoes independent laboratory testing to confirm high levels of methylglyoxal (MGO) and other beneficial compounds.<br/>As a medical and wellness company, we must meet standards for wound care that are much higher than those for edible honey. All our production is geared to meet these stringent requirements, making quality and purity vital.<br/><br/>Every batch of honey is tested for:<br/>• Methylglyoxal (MGO) Levels: Thoroughly tested to guarantee potency and effectiveness.<br/>• DNA Analysis: Verifying the honey’s botanical origin and purity.<br/>• Microbial Testing: Ensuring the absence of harmful bacteria and contaminants.<br/>• SQF Certification: A globally recognized program ensuring that products meet rigorous HACCP-based safety and quality management standards.</p>",
+            "row_heading_5": "How should I store First Honey products to maintain quality?",
+            "row_content_5": "<p>A cool, dry place away from direct sunlight works best! Proper storage helps preserve the beneficial properties of these products.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_content_bzmDUi",
+        "text_content_im6CWf",
+        "collapsible_content_6kdRGF"
+      ],
+      "name": "Media w/ content",
+      "settings": {
+        "section_heading": "",
+        "section_heading_size": "h0",
+        "desktop_heading_alignment": "center",
+        "heading_size": "h1",
+        "video": "shopify://files/videos/SkinTherapySec_V2_f92713b2-ac02-4a37-9972-42a01162c49b.mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "image": "shopify://shop_images/MGO9001.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0d0fc8d2-85d1-4b44-9c98-b17bd3d869af",
+        "color_scheme": "scheme-0d0fc8d2-85d1-4b44-9c98-b17bd3d869af",
+        "open_first_collapsible_row": true,
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "mobile_row_reverse": false,
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "reviews_aRCgWX": {
+      "type": "reviews",
+      "blocks": {
+        "reviews_xVfJ9q": {
+          "type": "reviews",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-02-03_at_12.57.00_PM.png",
+            "title": "Reviews",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "author": "",
+            "rating": "five"
+          }
+        },
+        "reviews_dJVfab": {
+          "type": "reviews",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-02-03_at_12.45.08_PM.png",
+            "title": "Reviews",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "author": "",
+            "rating": "five"
+          }
+        }
+      },
+      "block_order": [
+        "reviews_xVfJ9q",
+        "reviews_dJVfab"
+      ],
+      "name": "Reviews",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "heading_font_weight": "normal",
+        "alignment": "left",
+        "description": "",
+        "column_heading_color": "",
+        "column_heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "padding_top": 60,
+        "padding_bottom": 80
+      }
+    },
+    "multicolumn_MAWq8k": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_fMXLVd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/gettyimages-1166747721-170667a_upscayl_4x_ultrasharp.png",
+            "title": "Pure",
+            "text": "<p>Aotearoa New Zealand. 42 degrees south of the equator our beautiful islands sit surrounded by water, quietly evolving over millions of years. Fertile soil, pure air, high sunshine hours, and clean rainfall have given us a unique ecosystem and gifted us the Manuka tree that gives us our magical honey.<br/></p>",
+            "link_label": "",
+            "link": "",
+            "card_style_dark": false,
+            "text_color": "",
+            "font_size": 16
+          }
+        },
+        "column_hYrKhg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/gettyimages-1764729807-170667a_upscayl_4x_ultrasharp.png",
+            "title": "Potent",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "card_style_dark": false,
+            "text_color": "",
+            "font_size": 16
+          }
+        },
+        "column_6HQJyE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSC07807_upscayl_4x_ultrasharp.png",
+            "title": "Promise",
+            "text": "<p>\"From caring for our hives, to developing our products and ongoing research Dan and I pour our hearts into every part of First Honey. We are always so aware of the impact our honey is having, in people's lives, health, and healing.\"<br/><strong>Sarah Scarlet</strong></p>",
+            "link_label": "",
+            "link": "",
+            "card_style_dark": false,
+            "text_color": "#000000",
+            "font_size": 16
+          }
+        }
+      },
+      "block_order": [
+        "column_fMXLVd",
+        "column_hYrKhg",
+        "column_6HQJyE"
+      ],
+      "custom_css": [
+        ".multicolumn-list {row-gap: 0;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "card_style_overlay": true,
+        "row_layout": false,
+        "justify_content": "start",
+        "title": "",
+        "heading_size": "h1",
+        "text": "",
+        "text_style": "body",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-bd30a6a5-70da-498b-874f-8d80e9967df5",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 40
+      }
+    },
+    "17627411021d18d813": {
+      "type": "apps",
+      "blocks": {
+        "okendo_reviews_widget_HhwDxM": {
+          "type": "shopify://apps/okendo/blocks/reviews-widget/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "product": "{{product}}",
+            "widget_type": "reviews_widget"
+          }
+        }
+      },
+      "block_order": [
+        "okendo_reviews_widget_HhwDxM"
+      ],
+      "settings": {
+        "include_margins": false,
+        "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "columns_mobile": "2",
+        "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "padding_top": 36,
+        "padding_bottom": 60
+      }
+    },
+    "multicolumn_CwXWB4": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_9rnmzc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/MGO_900_Recipe.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "card_style_dark": false,
+            "text_color": "",
+            "font_size": 16
+          }
+        },
+        "column_AqPXtN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/MGO9003.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "card_style_dark": false,
+            "text_color": "",
+            "font_size": 16
+          }
+        },
+        "column_6TtD6B": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0117_0c3c7298-90fc-4f4f-ad06-57675652656e.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "card_style_dark": false,
+            "text_color": "",
+            "font_size": 16
+          }
+        },
+        "column_btDafc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FH_Honey_600_MGO.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "card_style_dark": false,
+            "text_color": "",
+            "font_size": 16
+          }
+        }
+      },
+      "block_order": [
+        "column_9rnmzc",
+        "column_AqPXtN",
+        "column_6TtD6B",
+        "column_btDafc"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "card_style_overlay": false,
+        "row_layout": false,
+        "justify_content": "start",
+        "title": "Follow us @firsthoneynz",
+        "heading_size": "h2",
+        "text": "",
+        "text_style": "body",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 80
+      }
+    },
+    "marquee_columns_4kDczb": {
+      "type": "marquee-columns",
+      "blocks": {
+        "text_TRG3bX": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/1.svg",
+            "text": "SQF Certified"
+          }
+        },
+        "text_BV9YLA": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/2.svg",
+            "text": "100% natural"
+          }
+        },
+        "text_r7CH9y": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/3.svg",
+            "text": "Sustainably sourced"
+          }
+        },
+        "text_MJVymA": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/4.svg",
+            "text": "Non GMO"
+          }
+        },
+        "text_gBUmMW": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/5.svg",
+            "text": "Farmed in New Zealand"
+          }
+        },
+        "text_Xmid8j": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/6.svg",
+            "text": "Glyphosate free"
+          }
+        }
+      },
+      "block_order": [
+        "text_TRG3bX",
+        "text_BV9YLA",
+        "text_r7CH9y",
+        "text_MJVymA",
+        "text_gBUmMW",
+        "text_Xmid8j"
+      ],
+      "name": "Marquee columns",
+      "settings": {
+        "speed": "1",
+        "title": "",
+        "heading_size": "h1",
+        "heading_font_weight": "normal",
+        "alignment": "center",
+        "description": "",
+        "column_heading_color": "",
+        "column_heading_size": "h2",
+        "color_scheme": "scheme-75694dd1-01d1-4418-bb69-51c62d72aa35",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "collection_list_6TKJrQ": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_Aky8TV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "first-aid"
+          }
+        },
+        "featured_collection_cDjLyG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "skin-treatments"
+          }
+        },
+        "featured_collection_CBimpb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dietary-supplements"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_Aky8TV",
+        "featured_collection_cDjLyG",
+        "featured_collection_CBimpb"
+      ],
+      "disabled": true,
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "show_icon": false,
+        "text_align": "center",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 80,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multicolumn_LKeDgQ",
+    "media_with_content_cpwzVU",
+    "reviews_aRCgWX",
+    "multicolumn_MAWq8k",
+    "17627411021d18d813",
+    "related-products",
+    "multicolumn_CwXWB4",
+    "marquee_columns_4kDczb",
+    "collection_list_6TKJrQ"
+  ]
+}

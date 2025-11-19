@@ -1,0 +1,281 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "rich_text_kP78Re": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RaEKjf": {
+          "type": "heading",
+          "settings": {
+            "heading": "Clean healing revolution",
+            "heading_size": "hxxl"
+          }
+        },
+        "text_BHyzMg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Too many products are built for shelf life, not skin. We believe healing should<br/>be both effective and kind-safe for your skin, your family, and the planet.</p><p><br/>The future of healing is clean-rooted in nature, backed by science, and free<br/>from compromise. It should work fast, feel good, and be trusted to care for<br/>your body as gently as it does powerfully.</p><p><br/>That's why we created First Honey: a new kind of care, made with medical-<br/>grade Mānuka honey from New Zealand and backed by serious science.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RaEKjf",
+        "text_BHyzMg"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "multicolumn_nEyAhj": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_zfWycL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/clean.png",
+            "title": "",
+            "text": "<p>Healing shouldn't require trade-offs. At First Honey, clean means more than natural. It means pure, potent, and proven. No toxins. No antibiotics. No over-processed formulas. Just results you can trust-powered by Mānuka honey from untouched New Zealand landscapes. We believe healing should feel good in every way: safe on your skin, safe for your family, and safe for the planet.</p>",
+            "link_label": "",
+            "link": "",
+            "card_style_dark": false,
+            "text_color": "",
+            "font_size": 12
+          }
+        },
+        "column_9a8WMH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/clinical.png",
+            "title": "",
+            "text": "<p>Not just natural. Clinically proven. Every batch of First Honey is made to the highest medical standards-ISO 13485 certified, FDA 510(k) cleared, and independently tested for potency and purity.</p><p><strong>✓</strong> FDA cleared for wound care.<br/><strong>✓</strong> Medical device manufacturing standards.<br/><strong>✓</strong> Verified for MGO, DHA, and Leptosperin.<br/><strong>✓</strong> Used by doctors, nurses, and skin specialists.</p><p>This isn't folklore. It's clean medicine.</p>",
+            "link_label": "",
+            "link": "",
+            "card_style_dark": false,
+            "text_color": "",
+            "font_size": 12
+          }
+        },
+        "column_MicbrT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/kind.png",
+            "title": "",
+            "text": "<p>We believe healing and care are deeply connected-to each other, to the earth, and to how we live. That's why everything we do is rooted in kindness. Kind to your skin, with gentle, effective formulas. Kind to the planet, with sustainable harvesting and respect for our bees and land. Kind to the future, because every choice matters. Clean healing isn't just what we do-it's how we do it.</p>",
+            "link_label": "",
+            "link": "",
+            "card_style_dark": false,
+            "text_color": "",
+            "font_size": 12
+          }
+        }
+      },
+      "block_order": [
+        "column_zfWycL",
+        "column_9a8WMH",
+        "column_MicbrT"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "card_style_overlay": false,
+        "row_layout": false,
+        "justify_content": "start",
+        "title": "",
+        "heading_size": "h1",
+        "text": "",
+        "text_style": "body",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 80
+      }
+    },
+    "image_with_text_PXLj99": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_fVTLhx": {
+          "type": "heading",
+          "settings": {
+            "heading": "A legacy of care",
+            "heading_size": "h1"
+          }
+        },
+        "text_CxVEXg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>First Honey began with a simple belief: healing should feel as good as it works. Rooted in a long legacy of beekeeping in New Zealand, our story is grounded in generations of care-for the land, for the bees, and for the power of nature to restore. That legacy shaped our values, but it was the desire to create something better for our own families that sparked the brand. We saw how often people had to choose between products that were gentle or effective-natural or clinical. So we set out to offer something different: medical-grade healing that's clean, powerful, and proven. We created First Honey to share that difference with others. Not just sweet. Not just soothing. But a new standard of care-where science meets nature, and healing feels whole.</p><p><strong>Sarah Scarlet</strong><br/>Founder</p>",
+            "text_style": "body",
+            "font_size": 12
+          }
+        }
+      },
+      "block_order": [
+        "heading_fVTLhx",
+        "text_CxVEXg"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/a-legacy-of-care.png",
+        "height": "small",
+        "desktop_image_width": "large",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "padding_top": 20,
+        "padding_bottom": 80
+      }
+    },
+    "image_with_text_qw4WEE": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_e33Vdg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Magic Mānuka",
+            "heading_size": "h1"
+          }
+        },
+        "text_7LNJ7A": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Mānuka honey is one of nature's most powerful healers. Rich in over 2,000 natural bioactive compounds-including methylglyoxal (MGO), a potent antibacterial agent-it helps repair skin, reduce inflammation, and accelerate healing.</p><p>Our proprietary medical-grade process turns this natural wonder into a clean, effective solution for:</p><p>✓ Cuts, scrapes, and burns.<br/>✓ Wound healing and post-op recovery.<br/>✓ Immune and digestive support.<br/>✓ Sensitive skin and everyday irritation.</p><p>It's not just honey. It's healing that works.</p>",
+            "text_style": "body",
+            "font_size": 12
+          }
+        },
+        "button_XyA3r8": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn more",
+            "button_link": "",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_e33Vdg",
+        "text_7LNJ7A",
+        "button_XyA3r8"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/magic-manuka.png",
+        "height": "small",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "padding_top": 20,
+        "padding_bottom": 100
+      }
+    },
+    "marquee_columns_ejnrhG": {
+      "type": "marquee-columns",
+      "blocks": {
+        "text_pzEDPA": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/icon-check-mark.png",
+            "text": "Powerful results"
+          }
+        },
+        "text_MWYdt9": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/icon-check-mark.png",
+            "text": "Antibiotic free"
+          }
+        },
+        "text_9im7w9": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/icon-check-mark.png",
+            "text": "Sustainable formulas"
+          }
+        },
+        "text_W6VtMW": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/icon-check-mark.png",
+            "text": "GMO-free"
+          }
+        }
+      },
+      "block_order": [
+        "text_pzEDPA",
+        "text_MWYdt9",
+        "text_9im7w9",
+        "text_W6VtMW"
+      ],
+      "name": "Marquee columns",
+      "settings": {
+        "speed": "1",
+        "title": "",
+        "heading_size": "h1",
+        "heading_font_weight": "normal",
+        "alignment": "left",
+        "description": "",
+        "column_heading_color": "",
+        "column_heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_kP78Re",
+    "multicolumn_nEyAhj",
+    "image_with_text_PXLj99",
+    "image_with_text_qw4WEE",
+    "marquee_columns_ejnrhG"
+  ]
+}

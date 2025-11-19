@@ -1,0 +1,397 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "rich_text_kP78Re": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_EeRBRA": {
+          "type": "heading",
+          "settings": {
+            "heading": "The honey behind the healing",
+            "heading_size": "hxxl"
+          }
+        },
+        "text_BHyzMg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Mānuka honey is unlike any other.<br/><br/>Produced from the nectar of Leptospermum scoparium—a wildflower native to New Zealand—this rare honey is harvested during a short bloom that lasts just a few weeks each year. In that window, bees create something extraordinary: a honey rich in naturally occurring compounds like methylglyoxal (MGO), known for its powerful antibacterial properties.<br/><br/>At First Honey, we go even further. We source only high-potency Manuka from remote, pollution-free forests, then refine it using our proprietary ApiPure™ system-preserving its natural strength and purifying it to medical-grade standards.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_EeRBRA",
+        "text_BHyzMg"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "scheme-0d0fc8d2-85d1-4b44-9c98-b17bd3d869af",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "image_with_text_LQQ4jn": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_DNawxX": {
+          "type": "heading",
+          "settings": {
+            "heading": "The power behind Mānuka",
+            "heading_size": "h1"
+          }
+        },
+        "text_pEdLUg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>MGO, or methylglyoxal, is the antibacterial compound that gives Mānuka honey its unique power—and makes it so rare. It forms naturally in the nectar of the Mānuka flower and is transferred into the honey by bees, along with other bioactive compounds. The higher the MGO, the stronger the antibacterial activity.</p>",
+            "text_style": "body",
+            "font_size": 12
+          }
+        }
+      },
+      "block_order": [
+        "heading_DNawxX",
+        "text_pEdLUg"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/the-power-behind-manuka.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "padding_top": 40,
+        "padding_bottom": 80
+      }
+    },
+    "image_with_text_PXLj99": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_fVTLhx": {
+          "type": "heading",
+          "settings": {
+            "heading": "Where it begins",
+            "heading_size": "h1"
+          }
+        },
+        "text_CxVEXg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Mānuka forests of the Wairarapa region are at the heart of our honey. Their isolation, biodiversity, and untouched environment shape everything we do—and everything our honey becomes.<br/><br/>These forests sequester large amounts of carbon from the atmosphere, helping reduce the impact of climate change. We support this natural balance with ongoing planting programs and thousands of new Mānuka trees established so far.<br/><br/>We work in step with the seasons and follow practices that protect the health of the hives and the surrounding ecosystem. Every drop carries the purity of this place—and the care that began long before it reached your hands.</p>",
+            "text_style": "body",
+            "font_size": 12
+          }
+        }
+      },
+      "block_order": [
+        "heading_fVTLhx",
+        "text_CxVEXg"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/where-it-begins.png",
+        "height": "small",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-0d0fc8d2-85d1-4b44-9c98-b17bd3d869af",
+        "color_scheme": "scheme-0d0fc8d2-85d1-4b44-9c98-b17bd3d869af",
+        "padding_top": 0,
+        "padding_bottom": 80
+      }
+    },
+    "image_with_text_qw4WEE": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_e33Vdg": {
+          "type": "heading",
+          "settings": {
+            "heading": "The strength within",
+            "heading_size": "h1"
+          }
+        },
+        "text_7LNJ7A": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Mānuka honey isn't just powerful because of where it comes from-but because of what's inside. Each drop contains over 200 naturally occurring compounds-amino acids, antioxidants, enzymes, and bioactives like methylglyoxal (MGO) and hydrogen peroxide-working together to support the body's healing process. These components help create an environment where wounds can recover more quickly, bacteria is kept in check, and the skin is supported at every stage. Studies show medical-grade Manuka honey is effective against antibiotic-resistant bacteria such as staph, MRSA, and pseudomonas, making it a safe, trusted option in modern wound care.<br/><br/></p>",
+            "text_style": "body",
+            "font_size": 12
+          }
+        }
+      },
+      "block_order": [
+        "heading_e33Vdg",
+        "text_7LNJ7A"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/the-strength-within.png",
+        "height": "small",
+        "desktop_image_width": "large",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-0d0fc8d2-85d1-4b44-9c98-b17bd3d869af",
+        "color_scheme": "scheme-0d0fc8d2-85d1-4b44-9c98-b17bd3d869af",
+        "padding_top": 20,
+        "padding_bottom": 80
+      }
+    },
+    "image_with_text_cDpp8W": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_7epfUz": {
+          "type": "heading",
+          "settings": {
+            "heading": "ApiPure&trade; system",
+            "heading_size": "h1"
+          }
+        },
+        "text_cWKXBw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Based on evidence from in vitro, in vivo, and clinical studies,* Mānuka honey's multifunctional bioactive compounds have demonstrated:<br/><br/><strong>✓ </strong>Antioxidant activity<br/><strong>✓ </strong>Anti-inflammatory properties<br/><strong>✓ </strong>Immunomodulatory effects<br/><strong>✓ </strong>Antimicrobial action<br/><strong>✓ </strong>Support for tissue regeneration</p><p>These findings help explain why Mānuka honey continues to be explored for a wide range of therapeutic applications.</p>",
+            "text_style": "body",
+            "font_size": 12
+          }
+        }
+      },
+      "block_order": [
+        "heading_7epfUz",
+        "text_cWKXBw"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/apipure-system.png",
+        "height": "small",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "padding_top": 40,
+        "padding_bottom": 80
+      }
+    },
+    "image_with_text_wikUYh": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_kJxPjq": {
+          "type": "heading",
+          "settings": {
+            "heading": "Independent testing",
+            "heading_size": "h1"
+          }
+        },
+        "text_HTrX9A": {
+          "type": "text",
+          "settings": {
+            "text": "<p>First Honey began with a simple belief: healing should feel as good as it works.</p><p>Rooted in a long legacy of beekeeping in New Zealand, our story is grounded in generations of care-for the land, for the bees, and for the power of nature to restore. That legacy shaped ourvalues, but it was the desire to create something better for our own families that sparked the brand.</p><p>We saw how often people had to choose between products that were gentle or effective-natural or clinical. So we set out to offer something different: medical-grade healing that's clean, powerful, and proven.</p><p>We created First Honey to share that difference with others. Not just sweet. Not just soothing. But a new standard of care-where science meets nature, and healing feels whole.</p>",
+            "text_style": "body",
+            "font_size": 12
+          }
+        }
+      },
+      "block_order": [
+        "heading_kJxPjq",
+        "text_HTrX9A"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/independent-testing.png",
+        "height": "small",
+        "desktop_image_width": "large",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "padding_top": 40,
+        "padding_bottom": 80
+      }
+    },
+    "image_with_text_ehzcAB": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_FH3NXB": {
+          "type": "heading",
+          "settings": {
+            "heading": "Clinical application",
+            "heading_size": "h1"
+          }
+        },
+        "text_KGEDH8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>First Honey is an FDA 510(k)-cleared Manuka honey for use in medical devices-tested and approved for wound and burn care. We work with physicians, researchers, and wound care specialists to ensure our products meet the highest clinical standards for safety and effectiveness.<br/><br/>Our honey has been shown to:<br/><strong>✓ </strong>Lower pH<br/><strong>✓ </strong>Promote cell regeneration<br/><strong>✓ </strong>Decrease biofilm<br/><strong>✓ </strong>Support healing and reduce infection rates<br/><br/><br/></p>",
+            "text_style": "body",
+            "font_size": 12
+          }
+        }
+      },
+      "block_order": [
+        "heading_FH3NXB",
+        "text_KGEDH8"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/clinical-application.png",
+        "height": "small",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "padding_top": 40,
+        "padding_bottom": 80
+      }
+    },
+    "image_with_text_mUBCMh": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_QT77rm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"Some of the benefits my patients receive when using medical grade Mānuka honey dressings include decreased biofilm, decreased pain, decreased time to heal and decreased infection - which all adds up to a great wound dressing.\"<br/><br/><strong>Stephen Bergquist, MD, CWSP</strong><br/>Jackson-Madison County<br/>Hospital, Tennessee</p>",
+            "text_style": "body",
+            "font_size": 12
+          }
+        }
+      },
+      "block_order": [
+        "text_QT77rm"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/stephen-bergquist.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "padding_top": 40,
+        "padding_bottom": 100
+      }
+    },
+    "marquee_columns_UxfHLB": {
+      "type": "marquee-columns",
+      "blocks": {
+        "text_DT8j43": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/icon-check-mark.png",
+            "text": "Powerful results"
+          }
+        },
+        "text_fYhdrw": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/icon-check-mark.png",
+            "text": "Antibiotic free"
+          }
+        },
+        "text_RRFGfb": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/icon-check-mark.png",
+            "text": "Sustainable formulas"
+          }
+        },
+        "text_Q4F7f3": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/icon-check-mark.png",
+            "text": "GMO-free"
+          }
+        }
+      },
+      "block_order": [
+        "text_DT8j43",
+        "text_fYhdrw",
+        "text_RRFGfb",
+        "text_Q4F7f3"
+      ],
+      "name": "Marquee columns",
+      "settings": {
+        "speed": "1",
+        "title": "",
+        "heading_size": "h1",
+        "heading_font_weight": "normal",
+        "alignment": "left",
+        "description": "",
+        "column_heading_color": "",
+        "column_heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_kP78Re",
+    "image_with_text_LQQ4jn",
+    "image_with_text_PXLj99",
+    "image_with_text_qw4WEE",
+    "image_with_text_cDpp8W",
+    "image_with_text_wikUYh",
+    "image_with_text_ehzcAB",
+    "image_with_text_mUBCMh",
+    "marquee_columns_UxfHLB"
+  ]
+}

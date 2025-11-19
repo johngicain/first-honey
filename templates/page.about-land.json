@@ -1,0 +1,274 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "rich_text_kP78Re": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_EeRBRA": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ko au te taiao te taiao ko au",
+            "heading_size": "hxxl"
+          }
+        },
+        "text_BHyzMg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our story begins in the wild, remote Mānuka forests of New Zealand's Wairarapa region—an untouched environment where bees gather nectar just a few weeks each year, during the fleeting Mānuka bloom.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_EeRBRA",
+        "text_BHyzMg"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-0d0fc8d2-85d1-4b44-9c98-b17bd3d869af",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "image_with_text_LQQ4jn": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_pEdLUg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"The Manuka flower blooms for just 2-6 weeks per year. For the rest of the year, we patiently wait and tend to our hives, the land and the forests. We work with the cycles of seasons, learning to flow with nature because you can't force it. Every year deepens your connection to the land and you realize we are all connected.\"</p><p><strong>Dan Watson</strong><br/>Co-Founder & Master Beekeper</p>",
+            "text_style": "body",
+            "font_size": 12
+          }
+        }
+      },
+      "block_order": [
+        "text_pEdLUg"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/dan-watson.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_PXLj99": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_fVTLhx": {
+          "type": "heading",
+          "settings": {
+            "heading": "Clinical research",
+            "heading_size": "h1"
+          }
+        },
+        "text_CxVEXg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Based on evidence from in vitro, in vivo, and clinical studies,\" Manuka honey's multifunctional bioactive compounds have demonstrated:<br/><br/><strong>✓ </strong>Antioxidant activity<br/><strong>✓ </strong>Anti-inflammatory properties<br/><strong>✓ </strong>Immunomodulatory effects<br/><strong>✓ </strong>Antimicrobial action<br/><strong>✓ </strong>Support for tissue regeneration</p><p>These findings help explain why Mänuka honey continues to be explored for a wide range of therapeutic applications.<br/><br/><br/></p>",
+            "text_style": "body",
+            "font_size": 12
+          }
+        }
+      },
+      "block_order": [
+        "heading_fVTLhx",
+        "text_CxVEXg"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/clinical-research.png",
+        "height": "small",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-0d0fc8d2-85d1-4b44-9c98-b17bd3d869af",
+        "color_scheme": "scheme-0d0fc8d2-85d1-4b44-9c98-b17bd3d869af",
+        "padding_top": 20,
+        "padding_bottom": 80
+      }
+    },
+    "image_with_text_qw4WEE": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_e33Vdg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why it matters",
+            "heading_size": "h1"
+          }
+        },
+        "text_7LNJ7A": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We believe healing shouldn't harm your body or the world around you. That's why we harvest our honey without antibiotics, synthetic pesticides, or environmental shortcuts. These practices don't just damage ecosystems they contribute to rising antibiotic<br/>resistance and long-term harm to human health.<br/><br/>By keeping our hives free from those interventions, we protect pollinators, preserve soil health, and ensure every drop of honey supports healing-not resistance.We test every batch to be free from glyphosate and contaminants, because when nature is clean, the medicine is too. What's better for the bees is better for the planet-and better for you!<br/><br/></p>",
+            "text_style": "body",
+            "font_size": 12
+          }
+        }
+      },
+      "block_order": [
+        "heading_e33Vdg",
+        "text_7LNJ7A"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/why-it-matters.png",
+        "height": "small",
+        "desktop_image_width": "large",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-0d0fc8d2-85d1-4b44-9c98-b17bd3d869af",
+        "color_scheme": "scheme-0d0fc8d2-85d1-4b44-9c98-b17bd3d869af",
+        "padding_top": 20,
+        "padding_bottom": 80
+      }
+    },
+    "image_with_text_cDpp8W": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_7epfUz": {
+          "type": "heading",
+          "settings": {
+            "heading": "Designed with care",
+            "heading_size": "h1"
+          }
+        },
+        "text_cWKXBw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We design our packaging to do less harm and more good. Whenever possible, we use recycled, recyclable, refillable, or biodegradable materials. First Honey products are packaged in glass or post-consumer recycled resin (PCR), and our unit cartons are made from FSC-certified recycled paper. Because how we package healing should reflect the care we put into what's inside.</p>",
+            "text_style": "body",
+            "font_size": 12
+          }
+        }
+      },
+      "block_order": [
+        "heading_7epfUz",
+        "text_cWKXBw"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/design-with-care.png",
+        "height": "small",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "padding_top": 20,
+        "padding_bottom": 100
+      }
+    },
+    "marquee_columns_UxfHLB": {
+      "type": "marquee-columns",
+      "blocks": {
+        "text_DT8j43": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/icon-check-mark.png",
+            "text": "Powerful results"
+          }
+        },
+        "text_fYhdrw": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/icon-check-mark.png",
+            "text": "Antibiotic free"
+          }
+        },
+        "text_RRFGfb": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/icon-check-mark.png",
+            "text": "Sustainable formulas"
+          }
+        },
+        "text_Q4F7f3": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "image": "shopify://shop_images/icon-check-mark.png",
+            "text": "GMO-free"
+          }
+        }
+      },
+      "block_order": [
+        "text_DT8j43",
+        "text_fYhdrw",
+        "text_RRFGfb",
+        "text_Q4F7f3"
+      ],
+      "name": "Marquee columns",
+      "settings": {
+        "speed": "1",
+        "title": "",
+        "heading_size": "h1",
+        "heading_font_weight": "normal",
+        "alignment": "left",
+        "description": "",
+        "column_heading_color": "",
+        "column_heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_kP78Re",
+    "image_with_text_LQQ4jn",
+    "image_with_text_PXLj99",
+    "image_with_text_qw4WEE",
+    "image_with_text_cDpp8W",
+    "marquee_columns_UxfHLB"
+  ]
+}
