@@ -23,13 +23,13 @@
 
   {%- if section.settings.layout == 'text_first' and section.settings.content_width == 'compress-width' -%}
     #ImageWithText--{{ section.id }} {
+      margin-right: 3.5rem;
       margin-left: auto;
-      padding-right: 3.5rem;
     }
   {%- elsif section.settings.layout == 'image_first' -%}
     #ImageWithText--{{ section.id }} {
-      padding-left: 3.5rem;
       margin-right: auto;
+      margin-left: 3.5rem;
     }
   {%- endif -%}
 
