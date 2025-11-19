@@ -23,13 +23,13 @@
 
   {%- if section.settings.layout == 'text_first' and section.settings.content_width == 'compress-width' -%}
     #ImageWithText--{{ section.id }} {
-      margin-right: 0;
+      margin-right: 3.5rem;
       margin-left: auto;
     }
   {%- elsif section.settings.layout == 'image_first' -%}
     #ImageWithText--{{ section.id }} {
       margin-right: auto;
-      margin-left: 0;
+      margin-left: 3.5rem;
     }
   {%- endif -%}
 
@@ -39,6 +39,17 @@
         padding-top: 0 !important;
       }
     }
+  {%- endif -%}
+
+  {%- if section.settings.enable_custom_background -%}
+    #ImageWithText--{{ section.id }} {
+      height: auto;
+    }
+    {%- if section.settings.custom_background_color != blank -%}
+      #ImageWithText--{{ section.id }} {
+        background-color: {{ section.settings.custom_background_color }};
+      }
+    {%- endif -%}
   {%- endif -%}
 {%- endstyle -%}
 
@@ -329,6 +340,18 @@
       "id": "remove_padding_top",
       "default": false,
       "label": "Remove padding top (desktop)"
+    },
+    {
+      "type": "checkbox",
+      "id": "enable_custom_background",
+      "default": false,
+      "label": "Enable custom background color"
+    },
+    {
+      "type": "color",
+      "id": "custom_background_color",
+      "label": "Background color",
+      "default": "#ffffff"
     },
     {
       "type": "header",

@@ -33,6 +33,24 @@ h5,
   line-height: 2.1rem;
 }
 
+@media screen and (min-width: 750px) {
+  .image-with-text__text-item {
+    display: flex;
+  }
+
+  .image-with-text__media-item--top .image-with-text__text-item {
+    justify-content: center;
+  }
+
+  .image-with-text__media-item--middle .image-with-text__text-item {
+    justify-content: center;
+  }
+
+  .image-with-text__media-item--bottom .image-with-text__text-item {
+    justify-content: center;
+  }
+}
+
 @media screen and (min-width: 1024px) {
   .layout-row .rich-text__blocks {
     display: grid;
