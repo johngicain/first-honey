@@ -30,7 +30,8 @@
         "text_BHyzMg": {
           "type": "text",
           "settings": {
-            "text": "<p>Too many products are built for shelf life, not skin. We believe healing should<br/>be both effective and kind-safe for your skin, your family, and the planet.</p><p><br/>The future of healing is clean-rooted in nature, backed by science, and free<br/>from compromise. It should work fast, feel good, and be trusted to care for<br/>your body as gently as it does powerfully.</p><p><br/>That's why we created First Honey: a new kind of care, made with medical-<br/>grade Mānuka honey from New Zealand and backed by serious science.<br/><br/></p>"
+            "text": "<p>Too many products are built for shelf life, not skin. We believe healing should<br/>be both effective and kind-safe for your skin, your family, and the planet.</p><p><br/>The future of healing is clean-rooted in nature, backed by science, and free<br/>from compromise. It should work fast, feel good, and be trusted to care for<br/>your body as gently as it does powerfully.</p><p><br/>That's why we created First Honey: a new kind of care, made with medical-<br/>grade Mānuka honey from New Zealand and backed by serious science.<br/><br/></p>",
+            "text_width": "max-width"
           }
         }
       },
@@ -154,6 +155,8 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
+        "content_width": "max-width",
+        "remove_padding_top": true,
         "section_color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
         "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
         "padding_top": 20,
@@ -203,6 +206,8 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
+        "content_width": "max-width",
+        "remove_padding_top": true,
         "section_color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
         "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
         "padding_top": 20,
