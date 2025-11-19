@@ -48,7 +48,12 @@ h5,
     max-width: 60%;
   }
 
-  .rich-text__text.semi-compress-width {
+  .image-with-text__content.compress-width {
+    max-width: 50%;
+  }
+
+  .rich-text__text.semi-compress-width,
+  .image-with-text__content.semi-compress-width {
     max-width: 80%;
   }
 }

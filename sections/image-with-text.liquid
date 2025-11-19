@@ -15,7 +15,29 @@
 
   {%- if section.settings.color_scheme != 'scheme-1' -%}
     .image-with-text__text-item #ImageWithText--{{ section.id }} {
-      padding: 3.5rem 3rem 3rem !important;
+      padding: 3.5rem 3rem 3rem;
+      padding-left: 3rem !important;
+      padding-right: 3rem !important;
+    }
+  {%- endif -%}
+
+  {%- if section.settings.layout == 'text_first' and section.settings.content_width == 'compress-width' -%}
+    #ImageWithText--{{ section.id }} {
+      margin-right: 0;
+      margin-left: auto;
+    }
+  {%- elsif section.settings.layout == 'image_first' -%}
+    #ImageWithText--{{ section.id }} {
+      margin-right: auto;
+      margin-left: 0;
+    }
+  {%- endif -%}
+
+  {%- if section.settings.remove_padding_top -%}
+    @media screen and (min-width: 750px) {
+      #ImageWithText--{{ section.id }} {
+        padding-top: 0 !important;
+      }
     }
   {%- endif -%}
 {%- endstyle -%}
@@ -68,7 +90,7 @@
         <div class="image-with-text__text-item grid__item">
           <div
             id="ImageWithText--{{ section.id }}"
-            class="image-with-text__content image-with-text__content--{{ section.settings.desktop_content_position }} image-with-text__content--desktop-{{ section.settings.desktop_content_alignment }} image-with-text__content--mobile-{{ section.settings.mobile_content_alignment }} image-with-text__content--{{ section.settings.height }} content-container{% unless remove_color_classes %} gradient color-{{ section.settings.color_scheme }}{% else %} background-transparent{% endunless %}"
+            class="image-with-text__content image-with-text__content--{{ section.settings.desktop_content_position }} image-with-text__content--desktop-{{ section.settings.desktop_content_alignment }} image-with-text__content--mobile-{{ section.settings.mobile_content_alignment }} image-with-text__content--{{ section.settings.height }} {{ section.settings.content_width }} content-container{% unless remove_color_classes %} gradient color-{{ section.settings.color_scheme }}{% else %} background-transparent{% endunless %}"
           >
             {%- for block in section.blocks -%}
               {% case block.type %}
@@ -285,6 +307,28 @@
       ],
       "default": "left",
       "label": "t:sections.image-with-text.settings.mobile_content_alignment.label"
+    },
+    {
+      "type": "select",
+      "id": "content_width",
+      "options": [
+        {
+          "value": "compress-width",
+          "label": "Compress width"
+        },
+        {
+          "value": "max-width",
+          "label": "Max width"
+        }
+      ],
+      "default": "max-width",
+      "label": "Content width"
+    },
+    {
+      "type": "checkbox",
+      "id": "remove_padding_top",
+      "default": false,
+      "label": "Remove padding top (desktop)"
     },
     {
       "type": "header",
