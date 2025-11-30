@@ -119,7 +119,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/where-it-begins.png",
+        "image": "shopify://shop_images/Where_it_begins-desktop.png",
         "height": "small",
         "desktop_image_width": "large",
         "layout": "image_first",
@@ -163,7 +163,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/the-strength-within.png",
+        "image": "shopify://shop_images/Strength_within-desktop.png",
         "height": "small",
         "desktop_image_width": "large",
         "layout": "text_first",
@@ -207,7 +207,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/apipure-system.png",
+        "image": "shopify://shop_images/ApiPure_system-desktop.png",
         "height": "small",
         "desktop_image_width": "large",
         "layout": "image_first",
@@ -251,7 +251,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/independent-testing.png",
+        "image": "shopify://shop_images/Independent_testing-desktop.png",
         "height": "small",
         "desktop_image_width": "large",
         "layout": "text_first",
@@ -295,7 +295,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/clinical-application.png",
+        "image": "shopify://shop_images/Clinical_application-desktop.png",
         "height": "small",
         "desktop_image_width": "large",
         "layout": "image_first",
@@ -331,7 +331,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/stephen-bergquist.png",
+        "image": "shopify://shop_images/Stephen_Bergquist-desktop.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
