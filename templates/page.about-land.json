@@ -67,7 +67,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/dan-watson.png",
+        "image": "shopify://shop_images/Dan_Watson-desktop.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -111,7 +111,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/clinical-research.png",
+        "image": "shopify://shop_images/Clinical_research-desktop.png",
         "height": "small",
         "desktop_image_width": "large",
         "layout": "image_first",
@@ -155,7 +155,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/why-it-matters.png",
+        "image": "shopify://shop_images/Why_it_matters-desktop.png",
         "height": "small",
         "desktop_image_width": "large",
         "layout": "text_first",
