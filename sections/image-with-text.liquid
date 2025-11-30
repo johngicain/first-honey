@@ -51,6 +51,14 @@
       }
     {%- endif -%}
   {%- endif -%}
+
+  {%- for block in section.blocks -%}
+    {%- if block.type == 'button' and block.settings.button_border_radius != blank -%}
+      #ImageWithText--{{ section.id }} .button::after {
+        border-radius: {{ block.settings.button_border_radius }}px;
+      }
+    {%- endif -%}
+  {%- endfor -%}
 {%- endstyle -%}
 
 {%- liquid
@@ -546,6 +554,17 @@
           "id": "button_style_secondary",
           "default": false,
           "label": "t:sections.image-with-text.blocks.button.settings.outline_button.label"
+        },
+        {
+          "type": "range",
+          "id": "button_border_radius",
+          "min": 0,
+          "max": 50,
+          "step": 1,
+          "unit": "px",
+          "label": "Button Border Radius",
+          "default": 0,
+          "info": "Applies to button::after pseudo-element"
         }
       ]
     }
