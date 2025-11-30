@@ -218,6 +218,23 @@
         "padding_bottom": 100
       }
     },
+    "image_text_simple_rpcqiE": {
+      "type": "image-text-simple",
+      "name": "Image with bottom text",
+      "settings": {
+        "image": "shopify://shop_images/Clean_Healing_Revolution-desktop.png",
+        "header_text": "<em>Join the clean healing revolution</em>",
+        "heading_size": "h0",
+        "heading_width": "compress-width",
+        "description": "<p>Nature's wisdom.<br/>Medical Precision.<br/>Powerful results.</p>",
+        "text_alignment": "center",
+        "enable_overlap": true,
+        "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "description_color": "#b58870",
+        "padding_top": 0,
+        "padding_bottom": 80
+      }
+    },
     "marquee_columns_ejnrhG": {
       "type": "marquee-columns",
       "blocks": {
@@ -286,6 +303,7 @@
     "multicolumn_nEyAhj",
     "image_with_text_PXLj99",
     "image_with_text_qw4WEE",
+    "image_text_simple_rpcqiE",
     "marquee_columns_ejnrhG"
   ]
 }
