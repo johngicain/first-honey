@@ -199,7 +199,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/design-with-care.png",
+        "image": "shopify://shop_images/Designed_with_care-desktop.png",
         "height": "small",
         "desktop_image_width": "large",
         "layout": "image_first",
