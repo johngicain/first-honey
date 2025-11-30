@@ -187,7 +187,7 @@
           "type": "button",
           "settings": {
             "button_label": "Learn more",
-            "button_link": "",
+            "button_link": "shopify://pages/magic-manuka",
             "button_style_secondary": true
           }
         }
@@ -212,8 +212,8 @@
         "remove_padding_top": true,
         "enable_custom_background": false,
         "custom_background_color": "#ffffff",
-        "section_color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
-        "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
+        "section_color_scheme": "scheme-0d0fc8d2-85d1-4b44-9c98-b17bd3d869af",
+        "color_scheme": "scheme-0d0fc8d2-85d1-4b44-9c98-b17bd3d869af",
         "padding_top": 20,
         "padding_bottom": 100
       }
