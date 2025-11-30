@@ -188,7 +188,8 @@
           "settings": {
             "button_label": "Learn more",
             "button_link": "shopify://pages/magic-manuka",
-            "button_style_secondary": true
+            "button_style_secondary": true,
+            "button_border_radius": 50
           }
         }
       },
