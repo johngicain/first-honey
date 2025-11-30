@@ -56,7 +56,7 @@
         "column_zfWycL": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/clean.png",
+            "image": "shopify://shop_images/CLEAN-desktop.png",
             "title": "",
             "text": "<p>Healing shouldn't require trade-offs. At First Honey, clean means more than natural. It means pure, potent, and proven. No toxins. No antibiotics. No over-processed formulas. Just results you can trust-powered by Mānuka honey from untouched New Zealand landscapes. We believe healing should feel good in every way: safe on your skin, safe for your family, and safe for the planet.</p>",
             "link_label": "",
@@ -82,7 +82,7 @@
         "column_MicbrT": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/kind.png",
+            "image": "shopify://shop_images/KIND-desktop.png",
             "title": "",
             "text": "<p>We believe healing and care are deeply connected-to each other, to the earth, and to how we live. That's why everything we do is rooted in kindness. Kind to your skin, with gentle, effective formulas. Kind to the planet, with sustainable harvesting and respect for our bees and land. Kind to the future, because every choice matters. Clean healing isn't just what we do-it's how we do it.</p>",
             "link_label": "",
@@ -157,6 +157,8 @@
         "mobile_content_alignment": "left",
         "content_width": "max-width",
         "remove_padding_top": true,
+        "enable_custom_background": false,
+        "custom_background_color": "#ffffff",
         "section_color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
         "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
         "padding_top": 20,
@@ -208,6 +210,8 @@
         "mobile_content_alignment": "left",
         "content_width": "max-width",
         "remove_padding_top": true,
+        "enable_custom_background": false,
+        "custom_background_color": "#ffffff",
         "section_color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
         "color_scheme": "scheme-571a3a58-5c3d-49d1-ba51-a18c365a5934",
         "padding_top": 20,
