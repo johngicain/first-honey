@@ -3,7 +3,7 @@
 {%- style -%}
   .section-{{ section.id }}-padding {
     padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
-    padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
+    padding-bottom: {{ section.settings.padding_bottom | times: 0 | round: 0 }}px;
   }
 
   @media screen and (min-width: 750px) {
@@ -23,13 +23,13 @@
 
   {%- if section.settings.layout == 'text_first' and section.settings.content_width == 'compress-width' -%}
     #ImageWithText--{{ section.id }} {
-      margin-right: 3.5rem;
+      /* margin-right: 3.5rem; */
       margin-left: auto;
     }
   {%- elsif section.settings.layout == 'image_first' -%}
     #ImageWithText--{{ section.id }} {
       margin-right: auto;
-      margin-left: 3.5rem;
+      /* margin-left: 3.5rem; */
     }
   {%- endif -%}
 

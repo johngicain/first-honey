@@ -1,0 +1,255 @@
+{%- style -%}
+  .section-{{ section.id }}-padding {
+    padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
+    padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-{{ section.id }}-padding {
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+  }
+
+  #ImageTextSimple--{{ section.id }} {
+    max-width: 100%;
+    margin: 0 auto;
+  }
+
+  .image-text-simple__image {
+    width: 100%;
+    margin-bottom: 2rem;
+  }
+
+  {%- if section.settings.enable_overlap -%}
+    .image-text-simple__image {
+      margin-bottom: 0;
+    }
+  {%- endif -%}
+
+  .image-text-simple__image img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .image-text-simple__content {
+    text-align: {{ section.settings.text_alignment }};
+  }
+
+  {%- if section.settings.enable_overlap -%}
+    .image-text-simple__content {
+        margin-top: -5rem;
+      }
+    @media screen and (min-width: 750px) {
+      .image-text-simple__content {
+        margin-top: -6rem;
+      }
+    }
+  {%- endif -%}
+
+  .image-text-simple__heading {
+    margin-bottom: 2rem;
+  }
+
+  {%- if section.settings.heading_width == 'compress-width' -%}
+    .image-text-simple__heading {
+      max-width: 500px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  {%- else -%}
+    .image-text-simple__heading {
+      max-width: 100%;
+    }
+  {%- endif -%}
+
+  .image-text-simple__description {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  {%- if section.settings.description_color != blank -%}
+    .image-text-simple__description {
+      color: {{ section.settings.description_color }};
+    }
+  {%- endif -%}
+{%- endstyle -%}
+
+<div class="section-{{ section.id }}-padding gradient color-{{ section.settings.color_scheme }}">
+  <div class="page-width">
+    <div id="ImageTextSimple--{{ section.id }}" class="image-text-simple">
+      {%- if section.settings.image != blank -%}
+        <div class="image-text-simple__image">
+          {%- assign widths = '375, 550, 750, 1100, 1500, 1780, 2000, 3000, 3840' -%}
+          {%- assign sizes = '(min-width: 1200px) 1100px, (min-width: 750px) calc(100vw - 100px), calc(100vw - 40px)' -%}
+          {{
+            section.settings.image
+            | image_url: width: 1500
+            | image_tag: sizes: sizes, widths: widths, loading: 'lazy'
+          }}
+        </div>
+      {%- endif -%}
+
+      <div class="image-text-simple__content">
+        {%- if section.settings.header_text != blank -%}
+          <h2 class="image-text-simple__heading {{ section.settings.heading_size }}">
+            {{ section.settings.header_text }}
+          </h2>
+        {%- endif -%}
+
+        {%- if section.settings.description != blank -%}
+          <div class="image-text-simple__description rte">
+            {{ section.settings.description }}
+          </div>
+        {%- endif -%}
+      </div>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Image with Text",
+  "class": "section",
+  "disabled_on": {
+    "groups": ["header", "footer"]
+  },
+  "settings": [
+    {
+      "type": "image_picker",
+      "id": "image",
+      "label": "Image"
+    },
+    {
+      "type": "header",
+      "content": "Text Content"
+    },
+    {
+      "type": "inline_richtext",
+      "id": "header_text",
+      "label": "Header Text",
+      "default": "Header Text"
+    },
+    {
+      "type": "select",
+      "id": "heading_size",
+      "options": [
+        {
+          "value": "h2",
+          "label": "Small"
+        },
+        {
+          "value": "h1",
+          "label": "Medium"
+        },
+        {
+          "value": "h0",
+          "label": "Large"
+        },
+        {
+          "value": "hxl",
+          "label": "Extra Large"
+        }
+      ],
+      "default": "h1",
+      "label": "Heading Size"
+    },
+    {
+      "type": "select",
+      "id": "heading_width",
+      "options": [
+        {
+          "value": "full-width",
+          "label": "Full Width"
+        },
+        {
+          "value": "compress-width",
+          "label": "Compress Width"
+        }
+      ],
+      "default": "full-width",
+      "label": "Heading Width"
+    },
+    {
+      "type": "richtext",
+      "id": "description",
+      "label": "Description",
+      "default": "<p>Add a description here</p>"
+    },
+    {
+      "type": "select",
+      "id": "text_alignment",
+      "options": [
+        {
+          "value": "left",
+          "label": "Left"
+        },
+        {
+          "value": "center",
+          "label": "Center"
+        },
+        {
+          "value": "right",
+          "label": "Right"
+        }
+      ],
+      "default": "center",
+      "label": "Text Alignment"
+    },
+    {
+      "type": "checkbox",
+      "id": "enable_overlap",
+      "label": "Enable Content Overlap",
+      "default": false,
+      "info": "Overlap content at the bottom of the image"
+    },
+    {
+      "type": "header",
+      "content": "Colors"
+    },
+    {
+      "type": "color_scheme",
+      "id": "color_scheme",
+      "label": "Color Scheme",
+      "default": "scheme-1"
+    },
+    {
+      "type": "color",
+      "id": "description_color",
+      "label": "Description Color",
+      "default": "#000000"
+    },
+    {
+      "type": "header",
+      "content": "Section Padding"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "Padding Top",
+      "default": 36
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "Padding Bottom",
+      "default": 36
+    }
+  ],
+  "presets": [
+    {
+      "name": "Image with Header Text"
+    }
+  ]
+}
+{% endschema %}
+
