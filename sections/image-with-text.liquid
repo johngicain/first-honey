@@ -21,16 +21,61 @@
     }
   {%- endif -%}
 
+
+
+  {%- if section.settings.content_width == 'compress-width' -%}
+    .section-{{ section.id }} .image-with-text__text-item::before {
+      content: "";
+      position: absolute;
+      top: 2.1rem;
+      left: 48%;
+      width: 0px;
+      height: 0px;
+      border-style: solid;
+      border-width: 10px 17.3px 10px 0;
+      border-color: transparent {{ section.settings.custom_background_color }} transparent transparent;
+      transform: rotate(-30deg);
+    }
+
+    @media screen and (min-width: 750px) {
+      .section-{{ section.id }} .image-with-text__text-item::before {
+        top: 45%;
+      }
+    }
+
+    #ImageWithText--{{ section.id }} {
+      margin: 3.5rem 0;
+    }
+  {% endif %}
+
   {%- if section.settings.layout == 'text_first' and section.settings.content_width == 'compress-width' -%}
-    #ImageWithText--{{ section.id }} {
-      /* margin-right: 3.5rem; */
-      margin-left: auto;
+    @media screen and (min-width: 750px) {
+      #ImageWithText--{{ section.id }} {
+        margin-right: 3.5rem;
+        margin-left: auto;
+      }
+
+      .section-{{ section.id }} .image-with-text__text-item::before {
+        left: auto;
+        right: 2.5rem;
+        transform: rotate(60deg);
+      }
     }
-  {%- elsif section.settings.layout == 'image_first' -%}
-    #ImageWithText--{{ section.id }} {
-      margin-right: auto;
-      /* margin-left: 3.5rem; */
+  {%- elsif section.settings.layout == 'image_first' and section.settings.content_width == 'compress-width' -%}
+    @media screen and (min-width: 750px) {
+      #ImageWithText--{{ section.id }} {
+        margin-left: 3.5rem;
+        margin-right: auto;
+      }
+
+      .section-{{ section.id }} .image-with-text__text-item::before {
+        left: 2rem;
+        right: auto;
+        transform: rotate(0deg);
+      }
     }
+
+    
   {%- endif -%}
 
   {%- if section.settings.remove_padding_top -%}
@@ -71,7 +116,7 @@
   endif
 -%}
 
-<div class="section-{{ section.id }}-padding gradient color-{{ section.settings.section_color_scheme }}">
+<div class="section-{{ section.id }} section-{{ section.id }}-padding gradient color-{{ section.settings.section_color_scheme }}">
   <div class="page-width">
     <div class="image-with-text image-with-text--{{ section.settings.content_layout }} isolate{% if settings.text_boxes_border_thickness > 0 and settings.text_boxes_border_opacity > 0 and settings.media_border_thickness > 0 and settings.media_border_opacity > 0 %} collapse-borders{% endif %}{% unless section.settings.color_scheme == section.settings.section_color_scheme and settings.media_border_thickness > 0 and settings.text_boxes_shadow_opacity == 0 and settings.text_boxes_border_thickness == 0 or settings.text_boxes_border_opacity == 0 %} collapse-corners{% endunless %}{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
       <div class="image-with-text__grid grid grid--gapless grid--1-col grid--{% if section.settings.desktop_image_width == 'medium' %}2-col-tablet{% else %}3-col-tablet{% endif %}{% if section.settings.layout == 'text_first' %} image-with-text__grid--reverse{% endif %}">
