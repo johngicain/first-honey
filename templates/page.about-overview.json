@@ -24,7 +24,16 @@
           "type": "heading",
           "settings": {
             "heading": "Clean <em>healing revolution</em>",
-            "heading_size": "hxxl"
+            "heading_size": "hxxl",
+            "heading_image": "shopify://shop_images/join_the_desktop.png",
+            "show_heading_image": true,
+            "heading_image_width": 150,
+            "heading_image_position": "top-right",
+            "heading_image_top": 0,
+            "heading_image_left": 0,
+            "heading_image_right": 0,
+            "heading_image_bottom": 0,
+            "heading_image_mobile_position": "absolute"
           }
         },
         "text_BHyzMg": {
