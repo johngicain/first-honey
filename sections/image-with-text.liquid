@@ -23,7 +23,7 @@
 
 
 
-  {%- if section.settings.content_width == 'compress-width' -%}
+  {%- if section.settings.content_width == 'compress-width' and section.settings.enable_custom_background -%}
     .section-{{ section.id }} .image-with-text__text-item::before {
       content: "";
       position: absolute;
