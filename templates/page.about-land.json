@@ -24,7 +24,16 @@
           "type": "heading",
           "settings": {
             "heading": "Ko au te taiao te taiao ko au",
-            "heading_size": "hxxl"
+            "heading_size": "hxxl",
+            "heading_image": "shopify://shop_images/i_am_nature_desktop.png",
+            "show_heading_image": true,
+            "heading_image_width": 400,
+            "heading_image_position": "bottom-right",
+            "heading_image_top": 0,
+            "heading_image_left": 0,
+            "heading_image_right": -120,
+            "heading_image_bottom": -80,
+            "heading_image_mobile_position": "relative"
           }
         },
         "text_BHyzMg": {
