@@ -77,6 +77,7 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/Dan_Watson-desktop.png",
+        "mobile_image": "shopify://shop_images/Dan_Watson-desktop.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -110,7 +111,7 @@
           "settings": {
             "text": "<p>Based on evidence from in vitro, in vivo, and clinical studies,\" Manuka honey's multifunctional bioactive compounds have demonstrated:<br/><br/><strong>✓ </strong>Antioxidant activity<br/><strong>✓ </strong>Anti-inflammatory properties<br/><strong>✓ </strong>Immunomodulatory effects<br/><strong>✓ </strong>Antimicrobial action<br/><strong>✓ </strong>Support for tissue regeneration</p><p>These findings help explain why Mänuka honey continues to be explored for a wide range of therapeutic applications.</p>",
             "text_style": "body",
-            "font_size": 12
+            "font_size": 14
           }
         }
       },
@@ -121,6 +122,7 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/Clinical_research-desktop.png",
+        "mobile_image": "shopify://shop_images/Where_it_begins-mobile.png",
         "height": "small",
         "desktop_image_width": "large",
         "layout": "image_first",
@@ -154,7 +156,7 @@
           "settings": {
             "text": "<p>We believe healing shouldn't harm your body or the world around you. That's why we harvest our honey without antibiotics, synthetic pesticides, or environmental shortcuts. These practices don't just damage ecosystems they contribute to rising antibiotic<br/>resistance and long-term harm to human health.<br/><br/>By keeping our hives free from those interventions, we protect pollinators, preserve soil health, and ensure every drop of honey supports healing-not resistance.We test every batch to be free from glyphosate and contaminants, because when nature is clean, the medicine is too. What's better for the bees is better for the planet-and better for you!<br/><br/></p>",
             "text_style": "body",
-            "font_size": 12
+            "font_size": 14
           }
         }
       },
@@ -165,6 +167,7 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/Why_it_matters-desktop.png",
+        "mobile_image": "shopify://shop_images/Why_it_matters-mobile.png",
         "height": "small",
         "desktop_image_width": "large",
         "layout": "text_first",
@@ -198,7 +201,7 @@
           "settings": {
             "text": "<p>We design our packaging to do less harm and more good. Whenever possible, we use recycled, recyclable, refillable, or biodegradable materials. First Honey products are packaged in glass or post-consumer recycled resin (PCR), and our unit cartons are made from FSC-certified recycled paper. Because how we package healing should reflect the care we put into what's inside.</p>",
             "text_style": "body",
-            "font_size": 12
+            "font_size": 14
           }
         }
       },
@@ -209,6 +212,7 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/Designed_with_care-desktop.png",
+        "mobile_image": "shopify://shop_images/Design_with_care-mobile.png",
         "height": "small",
         "desktop_image_width": "large",
         "layout": "image_first",
