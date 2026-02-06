@@ -18,6 +18,10 @@
 }
 
 .image-with-text__media img {
+  width: 100%;
+  max-width: 100%;
+  height: 100%;
+  height: auto;
   object-position: top;
 }
 
@@ -59,6 +63,7 @@
 }
 
 .image-with-text__media--placeholder.image-with-text__media--adapt {
+  position: relative;
   height: 20rem;
 }
 

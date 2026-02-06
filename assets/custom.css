@@ -1,11 +1,28 @@
 @font-face {
   font-family: "TiemposHeadline-Regular";
-  src: url("https://cdn.shopify.com/s/files/1/0424/8190/9915/files/TiemposHeadline-Regular.woff2?v=1679586469")
+  src:
+    url("https://cdn.shopify.com/s/files/1/0424/8190/9915/files/TiemposHeadline-Regular.woff2?v=1679586469")
       format("woff2"),
     url("https://cdn.shopify.com/s/files/1/0424/8190/9915/files/TiemposHeadline-Regular.woff?v=1760321000")
       format("woff");
   font-weight: normal;
   font-style: normal;
+}
+
+@font-face {
+  font-family: "Aeonik-Regular";
+  src:
+    url("//firsthoney.com/cdn/shop/t/36/assets/Aeonik-Regular.woff?v=33064362117424711871744048055")
+      format("woff"),
+    url("//firsthoney.com/cdn/shop/t/36/assets/Aeonik-Regular.woff2?v=138712701591275446501744048055")
+      format("woff2"),
+    url("//firsthoney.com/cdn/shop/t/36/assets/Aeonik-Regular.eot?v=85726189907121344951744048055")
+      format("embedded-opentype"),
+    url("//firsthoney.com/cdn/shop/t/36/assets/Aeonik-Regular.otf?v=76218297509844525231744048055")
+      format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
 h1,
@@ -20,6 +37,10 @@ h5,
 .h4,
 .h5 {
   font-family: "TiemposHeadline-Regular", sans-serif;
+}
+
+p {
+  font-family: "Aeonik-Regular", "Harmonia Sans", sans-serif;
 }
 
 .layout-row .rich-text__blocks {
