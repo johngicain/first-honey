@@ -43,11 +43,11 @@
   } */
 
   .image-with-text__media--medium {
-    height: 46rem;
+    height: 50rem;
   }
 
   .image-with-text__media--large {
-    height: 69.5rem;
+    height: 60rem;
   }
 }
 
