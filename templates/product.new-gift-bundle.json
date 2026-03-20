@@ -14,6 +14,7 @@
       "blocks": {
         "vendor": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Best Seller",
             "text_style": "subtitle",
@@ -96,8 +97,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Asset_14.svg",
-            "title": "Dermatologist tested",
-            "text": "<p>Perfect for sensitive skin, this bundle includes our all-purpose Mānuka honey skin balm; moisturizing foot cream for cracked heels; and sterile honey ointment for wound care.</p>",
+            "title": "The total Mānuka solution",
+            "text": "<p>Combining premium 600+ MGO Mānuka honey for internal health with skin-healing solutions, this luxe set has it all. From soothing creams to antioxidant-rich honey, it’s the perfect care package—inside and out.</p>",
             "link_label": "",
             "link": "",
             "card_style_dark": false,
@@ -110,7 +111,7 @@
           "settings": {
             "image": "shopify://shop_images/Asset_13.svg",
             "title": "MGO certified",
-            "text": "<p>Lab tested and certified to provide 600+ MGO methylglyoxal, the compound that's unique to Manuka honey, and known for its beneficial antibacterial properties.</p>",
+            "text": "<p>Lab tested and certified to provide 600+ MGO methylglyoxal, the compound that is unique to Mānuka honey, and known for its beneficial antibacterial properties.</p>",
             "link_label": "",
             "link": "",
             "card_style_dark": false,
@@ -122,8 +123,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Asset_12.svg",
-            "title": "Clinical insights",
-            "text": "<p>\"Medical-grade Mānuka honey not only fights bacteria but also stimulates tissue regeneration and reduces inflammation, creating an optimal environment for healing.\" - Dr. Gregory Schultz Ph.D</p>",
+            "title": "Immune support",
+            "text": "<p>Mānuka honey stands out as an antioxidant-rich superfood; over 70% of these antioxidants are not found in any other honey or food. One of these is Leptosperin, a powerful polyphenol compound from the nectar of the Mānuka tree.</p>",
             "link_label": "",
             "link": "",
             "card_style_dark": false,
@@ -166,15 +167,15 @@
         "text_content_bzmDUi": {
           "type": "text_content",
           "settings": {
-            "heading": "Product Details",
-            "description": "<p>Relief for distressed skin is here with First Honey® Mānuka Honey Cream to hydrate and protect dry, fragile skin. </p><p>A customer favorite for those struggling with eczema, rosacea, and psoriasis, this deeply nourishing eczema cream will calm, soothe and moisturize.<br/><br/>Infused with the highest quality medical-grade Mānuka honey, harvested from our own bees in New Zealand, this eczema cream is a dermatologist-tested product to assist with irritated skin.  </p>"
+            "heading": "Gift Bundle",
+            "description": "<p>Looking for the perfect gift?<br/><br/>Our exclusive care package with First Honey® skincare products and a premium jar of 600+ MGO Mānuka Honey has you covered inside and out.<br/><br/>See product details for a full description of this gift bundle.</p>"
           }
         },
         "text_content_im6CWf": {
           "type": "text_content",
           "settings": {
-            "heading": "Ingredients",
-            "description": "<p>Aqua, Manuka Honey,<br/>Stearyl Alcohol, Coco-Caprylate, Stearic<br/>Acid, Caprylic/Capric Triglyceride, Behenyl<br/>Alcohol, Isopentyl Laurate, Glyceryl<br/>Behenate, Tapioca Starch, Cetyl Palmitate,<br/>Olea Europaea Fruit Oil, Gluconolactone,<br/>Glyceryl Stearate Citrate, Sorbitan Olivate,<br/>Sorbitan Palmitate, Butyrospermum<br/>Parkii Butter, Betaine, Glyceryl Caprylate,<br/>Xanthan Gum, Jojoba Esters, Helianthus<br/>Annuus Seed Oil, Polyglyceryl-3 Cocoate,<br/>Polyglyceryl-4 Caprate, Polyglyceryl-6<br/>Caprylate, Polyglyceryl-6 Ricinoleate,<br/>Aminomethyl Propanol, Sodium Benzoate,<br/>Aleurites Moluccanus Seed Oil, Lavandula<br/>Angustifolia Oil, Mentha Piperita Oil,<br/>Potassium Sorbate, Pongamia Glabra<br/>Seed Oil, Vanilla, Glycerin, Caprylhydroxamic<br/>Acid, Panthenol, Rosmarinus Officinalis<br/>Extract, Bisabolol, Polyglyceryl-3<br/>Polyricinoleate, Tocopherol.</p>"
+            "heading": "Product Details",
+            "description": "<p>Packaged in a luxe gift box this bundle includes:<br/><strong><br/>Mānuka Honey Ointment</strong> , our best-selling all-natural healing ointment. <strong>Skin Therapy Cream</strong>, a soothing multipurpose skin balm. <strong>Foot Rescue Cream</strong>, to revive and nourish dry, cracked feet and heels. <strong>Premium Mānuka Honey 600+ MGO</strong>, 8oz jar of our antioxidant-rich Mānuka honey for gut health and immune support.</p>"
           }
         },
         "collapsible_content_6kdRGF": {
@@ -205,7 +206,7 @@
         "section_heading_size": "h0",
         "desktop_heading_alignment": "center",
         "heading_size": "h1",
-        "video": "shopify://files/videos/SkinTherapySec_V2_f92713b2-ac02-4a37-9972-42a01162c49b.mp4",
+        "video": "shopify://files/videos/FH Manuka Honey 600.mov",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "",
         "image": "shopify://shop_images/MGO9001.jpg",
