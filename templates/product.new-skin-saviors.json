@@ -226,15 +226,34 @@
         "padding_bottom": 80
       }
     },
+    "image_banner_bT8d6b": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Skin_Bundle.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "text_box_opacity": 30,
+        "desktop_max_width": 750,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
     "reviews_aRCgWX": {
       "type": "reviews",
       "blocks": {
         "reviews_xVfJ9q": {
           "type": "reviews",
           "settings": {
-            "image": "shopify://shop_images/Screenshot_2025-02-03_at_12.57.00_PM.png",
-            "title": "Reviews",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "image": "shopify://shop_images/mintmusicco_amateur_selfie_of_older_woman_natural_skin_no_makeu_b9dace03-4734-4898-b2df-4eeed41fe3d1.jpg",
+            "title": "What scar",
+            "text": "<p>This stuff is amazing... I had a skin cancer removed, when the skin was healed back together I started using this. Have never had such a fast recovery. You can hardly see a scar!</p>",
             "author": "",
             "rating": "five"
           }
@@ -242,9 +261,19 @@
         "reviews_dJVfab": {
           "type": "reviews",
           "settings": {
-            "image": "shopify://shop_images/Screenshot_2025-02-03_at_12.45.08_PM.png",
-            "title": "Reviews",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "image": "shopify://shop_images/mintmusicco_amateur_selfie_mom_organic_outdoors_natural_skin_no_e195365c-fa79-4353-8e84-81377af8e7ce.jpg",
+            "title": "Magic!!!",
+            "text": "<p>This cream is absolutely fabulous! I've tried at least 30 (truly!) different creams on my feet for deep cracks, and literally cracked skin from dryness. Nothing worked... until I found this cream!</p>",
+            "author": "",
+            "rating": "five"
+          }
+        },
+        "reviews_gqbGFC": {
+          "type": "reviews",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0117.jpg",
+            "title": "Best skin cream!",
+            "text": "<p>My husband has chronic psoriasis, and we have tried Rx creams and lots of store creams and nothing has been as effective as this for relieving the terrible itching. This cream stops the itch instantly.</p>",
             "author": "",
             "rating": "five"
           }
@@ -252,7 +281,8 @@
       },
       "block_order": [
         "reviews_xVfJ9q",
-        "reviews_dJVfab"
+        "reviews_dJVfab",
+        "reviews_gqbGFC"
       ],
       "name": "Reviews",
       "settings": {
@@ -602,6 +632,7 @@
     "main",
     "multicolumn_LKeDgQ",
     "media_with_content_cpwzVU",
+    "image_banner_bT8d6b",
     "reviews_aRCgWX",
     "multicolumn_MAWq8k",
     "17627411021d18d813",
