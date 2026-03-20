@@ -205,7 +205,7 @@
         "section_heading_size": "h0",
         "desktop_heading_alignment": "center",
         "heading_size": "h1",
-        "video": "shopify://files/videos/SkinTherapySec_V2_f92713b2-ac02-4a37-9972-42a01162c49b.mp4",
+        "video": "shopify://files/videos/Manuka Honey 600.mov",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "",
         "image": "shopify://shop_images/MGO9001.jpg",
@@ -225,15 +225,34 @@
         "padding_bottom": 80
       }
     },
+    "image_banner_zA7eVd": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Mask_group.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "text_box_opacity": 30,
+        "desktop_max_width": 750,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
     "reviews_aRCgWX": {
       "type": "reviews",
       "blocks": {
         "reviews_xVfJ9q": {
           "type": "reviews",
           "settings": {
-            "image": "shopify://shop_images/Screenshot_2025-02-03_at_12.57.00_PM.png",
-            "title": "Reviews",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "image": "shopify://shop_images/mintmusicco_amateur_selfie_of_older_man_natural_skin_indoors_2d3e5fc9-21f7-4ed6-9756-3c3b0a4493ff.jpg",
+            "title": "Serious stuff",
+            "text": "<p>This honey doesn’t play games - I first used it for an ulcer, and now I’m taking it daily for immune support. Inside and out it’s a game changer!</p>",
             "author": "",
             "rating": "five"
           }
@@ -241,9 +260,19 @@
         "reviews_dJVfab": {
           "type": "reviews",
           "settings": {
-            "image": "shopify://shop_images/Screenshot_2025-02-03_at_12.45.08_PM.png",
-            "title": "Reviews",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "image": "shopify://shop_images/IMG_0273_Retouched_c4515758-ebc2-42a3-a4ed-3977407697e8.jpg",
+            "title": "Best for a sore throat",
+            "text": "<p>I'm a huge believer in Mānuka's power! Nothing beats it during cold/flu season—it’s my secret weapon for boosting immunity and soothing a sore throat!</p>",
+            "author": "",
+            "rating": "five"
+          }
+        },
+        "reviews_QnqiJc": {
+          "type": "reviews",
+          "settings": {
+            "image": "shopify://shop_images/IMG_6436_95641d56-acbc-4a32-9ecf-cb9079ccaeab.jpg",
+            "title": "Loving this!",
+            "text": "<p>As a musician and producer, my voice is everything. Manuka Honey has been a game changer for my health and performance. It’s unbeatable! 10/10 recommend to everyone no matter what their age of profession.</p>",
             "author": "",
             "rating": "five"
           }
@@ -251,7 +280,8 @@
       },
       "block_order": [
         "reviews_xVfJ9q",
-        "reviews_dJVfab"
+        "reviews_dJVfab",
+        "reviews_QnqiJc"
       ],
       "name": "Reviews",
       "settings": {
@@ -601,6 +631,7 @@
     "main",
     "multicolumn_LKeDgQ",
     "media_with_content_cpwzVU",
+    "image_banner_zA7eVd",
     "reviews_aRCgWX",
     "multicolumn_MAWq8k",
     "17627411021d18d813",
