@@ -225,33 +225,63 @@
         "padding_bottom": 80
       }
     },
+    "image_banner_UHVMyR": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Artboard_1_2x_1eaaa3f7-7bb7-483d-b025-d4302ad9fac9.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "text_box_opacity": 30,
+        "desktop_max_width": 750,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
     "reviews_aRCgWX": {
       "type": "reviews",
       "blocks": {
         "reviews_xVfJ9q": {
           "type": "reviews",
           "settings": {
-            "image": "shopify://shop_images/Screenshot_2025-02-03_at_12.57.00_PM.png",
-            "title": "Reviews",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "author": "",
+            "image": "shopify://shop_images/Screen_Shot_2025-05-07_at_10.21.05_PM_3330c267-ed50-44b3-a05d-37a2ea3d08f1.png",
+            "title": "Pure magic",
+            "text": "<p>My skin just drinks this in and the smell is heavenly! </p>",
+            "author": "<strong>Meghan L</strong>",
             "rating": "five"
           }
         },
         "reviews_dJVfab": {
           "type": "reviews",
           "settings": {
-            "image": "shopify://shop_images/Screenshot_2025-02-03_at_12.45.08_PM.png",
-            "title": "Reviews",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "author": "",
+            "image": "shopify://shop_images/Screen_Shot_2025-05-07_at_10.22.05_PM.png",
+            "title": "Love this so much",
+            "text": "<p>I can’t go without it now! I’ve ditched my $139 serum and use this morning and night - obsessed!</p>",
+            "author": "<strong>Anneke N</strong>",
+            "rating": "five"
+          }
+        },
+        "reviews_nL4HJL": {
+          "type": "reviews",
+          "settings": {
+            "image": "shopify://shop_images/Image_May_6_2025_02_20_10_PM_500adefd-bd22-498d-88d8-b1fb298b33fa.jpg",
+            "title": "It’s fantastic",
+            "text": "<p>Love it alone, love it with foundation! I use this above a moisturizer and under foundation as a primer and LOVE the results. </p>",
+            "author": "<strong>Olivia P</strong>",
             "rating": "five"
           }
         }
       },
       "block_order": [
         "reviews_xVfJ9q",
-        "reviews_dJVfab"
+        "reviews_dJVfab",
+        "reviews_nL4HJL"
       ],
       "name": "Reviews",
       "settings": {
@@ -601,6 +631,7 @@
     "main",
     "multicolumn_LKeDgQ",
     "media_with_content_cpwzVU",
+    "image_banner_UHVMyR",
     "reviews_aRCgWX",
     "multicolumn_MAWq8k",
     "17627411021d18d813",
