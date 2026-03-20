@@ -303,6 +303,101 @@
         "padding_bottom": 80
       }
     },
+    "image_banner_N6bdGy": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Artboard_1_2x_521be4e2-d909-4203-b5df-c722c1e8595b.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "text_box_opacity": 30,
+        "desktop_max_width": 750,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "image_banner_AxRFtQ": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Artboard_1_2x_0e434349-6760-4540-98ad-898648131961.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "text_box_opacity": 30,
+        "desktop_max_width": 750,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "image_banner_xMGmmb": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Artboard_1_2x_484417df-cbbb-4add-a2d8-48bd00763fd4.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "text_box_opacity": 30,
+        "desktop_max_width": 750,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "image_banner_cBqFnw": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Artboard_1_2x_e5df2f1a-54d0-45e1-93aa-b2c404aa3465.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "text_box_opacity": 30,
+        "desktop_max_width": 750,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "image_banner_AHb6Pi": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Artboard_1_2x_51279b93-0fec-4804-af43-50c525ba3a8f.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "text_box_opacity": 30,
+        "desktop_max_width": 750,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
     "multicolumn_MAWq8k": {
       "type": "multicolumn",
       "blocks": {
@@ -373,7 +468,7 @@
         "color_scheme": "scheme-bd30a6a5-70da-498b-874f-8d80e9967df5",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 0,
+        "padding_top": 40,
         "padding_bottom": 40
       }
     },
@@ -633,6 +728,11 @@
     "media_with_content_cpwzVU",
     "image_banner_UHVMyR",
     "reviews_aRCgWX",
+    "image_banner_N6bdGy",
+    "image_banner_AxRFtQ",
+    "image_banner_xMGmmb",
+    "image_banner_cBqFnw",
+    "image_banner_AHb6Pi",
     "multicolumn_MAWq8k",
     "17627411021d18d813",
     "related-products",
