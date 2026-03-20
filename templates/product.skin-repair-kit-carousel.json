@@ -14,6 +14,7 @@
       "blocks": {
         "vendor": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Best Seller",
             "text_style": "subtitle",
@@ -167,14 +168,14 @@
           "type": "text_content",
           "settings": {
             "heading": "Product Details",
-            "description": "<p>Relief for distressed skin is here with First Honey® Mānuka Honey Cream to hydrate and protect dry, fragile skin. </p><p>A customer favorite for those struggling with eczema, rosacea, and psoriasis, this deeply nourishing eczema cream will calm, soothe and moisturize.<br/><br/>Infused with the highest quality medical-grade Mānuka honey, harvested from our own bees in New Zealand, this eczema cream is a dermatologist-tested product to assist with irritated skin.  </p>"
+            "description": "<p><strong>Soothing Burn Gel:</strong> A natural skin protectant for burns. First Honey Burn Salve is formulated with Mānuka honey and Aloe to refresh and repair overexposed skin. <br/><strong>Healing Hydration: </strong>Strong humectant action of medical grade manuka honey draws moisture into the skin, while allantoin helps increase water content of cells and works as an emollient to protect the skin from moisture loss to the air <br/><strong>Cooling Burn Relief: </strong>Cooling aloe and cucumber gel allows heat to escape from the skin, while antioxidant and vitamin-intensive boosters help refresh and repair. <br/><strong>For Sunburn & Minor Burns: </strong>Free radicals from the sun continue to damage your skin for hours after sun exposure, so after-sun skin care is vital to help protect and revive your body’s largest organ. This restoring formula helps ease the pain of a burn while helping to prevent your skin from peeling. <br/><strong>From Our Farm to Your Skin: </strong>Made with Manuka honey harvested on our family farm in New Zealand, First Honey products are carefully cultivated to be monofloral with no cross-pollination ensuring the purest, most effective medical-grade Manuka available anywhere.<br/></p>"
           }
         },
         "text_content_im6CWf": {
           "type": "text_content",
           "settings": {
             "heading": "Ingredients",
-            "description": "<p>Aqua, Manuka Honey,<br/>Stearyl Alcohol, Coco-Caprylate, Stearic<br/>Acid, Caprylic/Capric Triglyceride, Behenyl<br/>Alcohol, Isopentyl Laurate, Glyceryl<br/>Behenate, Tapioca Starch, Cetyl Palmitate,<br/>Olea Europaea Fruit Oil, Gluconolactone,<br/>Glyceryl Stearate Citrate, Sorbitan Olivate,<br/>Sorbitan Palmitate, Butyrospermum<br/>Parkii Butter, Betaine, Glyceryl Caprylate,<br/>Xanthan Gum, Jojoba Esters, Helianthus<br/>Annuus Seed Oil, Polyglyceryl-3 Cocoate,<br/>Polyglyceryl-4 Caprate, Polyglyceryl-6<br/>Caprylate, Polyglyceryl-6 Ricinoleate,<br/>Aminomethyl Propanol, Sodium Benzoate,<br/>Aleurites Moluccanus Seed Oil, Lavandula<br/>Angustifolia Oil, Mentha Piperita Oil,<br/>Potassium Sorbate, Pongamia Glabra<br/>Seed Oil, Vanilla, Glycerin, Caprylhydroxamic<br/>Acid, Panthenol, Rosmarinus Officinalis<br/>Extract, Bisabolol, Polyglyceryl-3<br/>Polyricinoleate, Tocopherol.</p>"
+            "description": "<p>Allantoin (0.5%), Medical Grade Manuka Honey, Aloe Barbadensis Leaf Juice, Anthemis Nobilis Flower Oil, Argania Spinosa Kernel Oil, Benzyl Alcohol, Caprylic/Capric Triglyceride, Cucumis Sativus Fruit Extract, Ethylhexylglycerin, Helianthus Annuus Extract, Lavandula Angustifolia Oil, Lecithin, Mixed Tocopherols, Oryza Sativa Bran Extract, Propanediol, Rosa Canina Seed Oil, Rosmarinus Officinalis Leaf Extract, Sodium Acrylates Copolymer, Soya Bean Oil, Tetrahexyldecyl Ascorbate, Tocopherol, Water (Aqua).</p>"
           }
         },
         "collapsible_content_6kdRGF": {
