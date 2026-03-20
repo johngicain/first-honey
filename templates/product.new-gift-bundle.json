@@ -226,15 +226,34 @@
         "padding_bottom": 80
       }
     },
+    "image_banner_nbVTqz": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/FH_Gift_Set_with_face_oil_e4eef2ec-27a7-4d4c-b63d-69a38c8a3de5.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "text_box_opacity": 30,
+        "desktop_max_width": 750,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
     "reviews_aRCgWX": {
       "type": "reviews",
       "blocks": {
         "reviews_xVfJ9q": {
           "type": "reviews",
           "settings": {
-            "image": "shopify://shop_images/Screenshot_2025-02-03_at_12.57.00_PM.png",
-            "title": "Reviews",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "image": "shopify://shop_images/IMG_6436_95641d56-acbc-4a32-9ecf-cb9079ccaeab.jpg",
+            "title": "Unbeatable!",
+            "text": "<p>As a musician and producer, my voice has to be ready anytime. Mānuka honey has been a total game changer—for my health and my career. Highly recommend!</p>",
             "author": "",
             "rating": "five"
           }
@@ -242,9 +261,19 @@
         "reviews_dJVfab": {
           "type": "reviews",
           "settings": {
-            "image": "shopify://shop_images/Screenshot_2025-02-03_at_12.45.08_PM.png",
-            "title": "Reviews",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "image": "shopify://shop_images/IMG_0117.jpg",
+            "title": "Great products",
+            "text": "<p>My husband has been using the foot cream, his feet have never been so healthy. I also will be a lifetime user. The results are amazing and the smell is comforting. Thank you for sharing this product!</p>",
+            "author": "",
+            "rating": "five"
+          }
+        },
+        "reviews_39ENUY": {
+          "type": "reviews",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0273_Retouched.jpg",
+            "title": "Helps me sleep soundly",
+            "text": "<p>I love this honey for many reasons. It helps me sleep if I take a teaspoonful in the evening. It's wonderful in tea.</p>",
             "author": "",
             "rating": "five"
           }
@@ -252,7 +281,8 @@
       },
       "block_order": [
         "reviews_xVfJ9q",
-        "reviews_dJVfab"
+        "reviews_dJVfab",
+        "reviews_39ENUY"
       ],
       "name": "Reviews",
       "settings": {
@@ -602,6 +632,7 @@
     "main",
     "multicolumn_LKeDgQ",
     "media_with_content_cpwzVU",
+    "image_banner_nbVTqz",
     "reviews_aRCgWX",
     "multicolumn_MAWq8k",
     "17627411021d18d813",
