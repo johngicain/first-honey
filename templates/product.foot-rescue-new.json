@@ -14,6 +14,7 @@
       "blocks": {
         "vendor": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Best Seller",
             "text_style": "subtitle",
@@ -97,7 +98,7 @@
           "settings": {
             "image": "shopify://shop_images/Asset_14.svg",
             "title": "Dermatologist tested",
-            "text": "<p>Perfect for sensitive skin, this bundle includes our all-purpose Mānuka honey skin balm; moisturizing foot cream for cracked heels; and sterile honey ointment for wound care.</p>",
+            "text": "<p>Penetrates deep into thick layers of foot skin to hydrate, repair cracks, and create a protective barrier against moisture loss. The ultimate remedy for cracked heels and dry skin.</p>",
             "link_label": "",
             "link": "",
             "card_style_dark": false,
@@ -167,14 +168,14 @@
           "type": "text_content",
           "settings": {
             "heading": "Product Details",
-            "description": "<p>Relief for distressed skin is here with First Honey® Mānuka Honey Cream to hydrate and protect dry, fragile skin. </p><p>A customer favorite for those struggling with eczema, rosacea, and psoriasis, this deeply nourishing eczema cream will calm, soothe and moisturize.<br/><br/>Infused with the highest quality medical-grade Mānuka honey, harvested from our own bees in New Zealand, this eczema cream is a dermatologist-tested product to assist with irritated skin.  </p>"
+            "description": "<p>An exclusive formulation of ingredients including podiatrist-recommended medical grade Mānuka honey, and a proprietary blend of the world's most effective moisturizers, delivers everything distressed feet need to heal.<br/><br/>Not only is the skin on your feet up to 8x thicker than anywhere else on your body, it loses moisture extremely quickly. This ultra-comforting cream soothes and refines textures, and rejuvenates for energized feet throughout the day.</p>"
           }
         },
         "text_content_im6CWf": {
           "type": "text_content",
           "settings": {
             "heading": "Ingredients",
-            "description": "<p>Aqua, Manuka Honey,<br/>Stearyl Alcohol, Coco-Caprylate, Stearic<br/>Acid, Caprylic/Capric Triglyceride, Behenyl<br/>Alcohol, Isopentyl Laurate, Glyceryl<br/>Behenate, Tapioca Starch, Cetyl Palmitate,<br/>Olea Europaea Fruit Oil, Gluconolactone,<br/>Glyceryl Stearate Citrate, Sorbitan Olivate,<br/>Sorbitan Palmitate, Butyrospermum<br/>Parkii Butter, Betaine, Glyceryl Caprylate,<br/>Xanthan Gum, Jojoba Esters, Helianthus<br/>Annuus Seed Oil, Polyglyceryl-3 Cocoate,<br/>Polyglyceryl-4 Caprate, Polyglyceryl-6<br/>Caprylate, Polyglyceryl-6 Ricinoleate,<br/>Aminomethyl Propanol, Sodium Benzoate,<br/>Aleurites Moluccanus Seed Oil, Lavandula<br/>Angustifolia Oil, Mentha Piperita Oil,<br/>Potassium Sorbate, Pongamia Glabra<br/>Seed Oil, Vanilla, Glycerin, Caprylhydroxamic<br/>Acid, Panthenol, Rosmarinus Officinalis<br/>Extract, Bisabolol, Polyglyceryl-3<br/>Polyricinoleate, Tocopherol.</p>"
+            "description": "<p>Purified Water (Aqua), Mānuka Honey, Ricinus Communis Seed Oil, Butyrospermum Parkii Butter, Glycerin, Jojoba Esters, Sodium Acrylates Copolymer, Propanediol, Potassium Olivoyl Hydrolyzed Oat Protein, Glyceryl Stearate, Cetearyl Alcohol, Avena Sativa Bran Extract, Benzyl Alcohol, Hydrogenated Castor Oil, Lecithin, Caprylic/Capric Triglyceride, Sorbitol, Copernicia Cerifera Wax, Glyceryl Oleate, Phytic Acid, Mentha Piperita Oil, Citrus Aurantium Dulcis Peel Extract, Yeast Extract, Oryza Sativa Bran Extract, Benzoic Acid, Lavandula Angustifolia Oil, Dehydroacetic Acid, Helianthus Annuus Extract, Vanilla Planifolia Fruit Extract, Rosmarinus Officinalis Leaf Extract, Tocopherol.<br/></p>"
           }
         },
         "collapsible_content_6kdRGF": {
@@ -225,15 +226,34 @@
         "padding_bottom": 80
       }
     },
+    "image_banner_pcYGMK": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Foot_Rescue.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "text_box_opacity": 30,
+        "desktop_max_width": 750,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
     "reviews_aRCgWX": {
       "type": "reviews",
       "blocks": {
         "reviews_xVfJ9q": {
           "type": "reviews",
           "settings": {
-            "image": "shopify://shop_images/Screenshot_2025-02-03_at_12.57.00_PM.png",
-            "title": "Reviews",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "image": "shopify://shop_images/mintmusicco_amateur_selfie_mom_organic_outdoors_natural_skin_no_e195365c-fa79-4353-8e84-81377af8e7ce.jpg",
+            "title": "Magic!!!",
+            "text": "<p>This cream is absolutely fabulous! I've tried at least 30 (truly!) different creams on my feet for deep cracks, and literally cracked skin from dryness. Nothing worked... until I found this cream!</p>",
             "author": "",
             "rating": "five"
           }
@@ -241,9 +261,19 @@
         "reviews_dJVfab": {
           "type": "reviews",
           "settings": {
-            "image": "shopify://shop_images/Screenshot_2025-02-03_at_12.45.08_PM.png",
-            "title": "Reviews",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "image": "shopify://shop_images/Foot_Rescue_Cream_d1e6febf-e093-4e83-85cd-de6ba619c9ba.jpg",
+            "title": "Best foot cream!",
+            "text": "<p>My feet had gotten so bad after having a bad hip and subsequent hip replacement surgery. When I was finally able to reach my feet again I started using this cream. Within a week my feet were back to beautiful again.</p>",
+            "author": "",
+            "rating": "five"
+          }
+        },
+        "reviews_hG4fYh": {
+          "type": "reviews",
+          "settings": {
+            "image": "shopify://shop_images/20240409_082055.jpg",
+            "title": "Miracle cream",
+            "text": "<p>I am 70 years old and have had dry, sensitive skin my whole life. The Foot Rescue cream has been the only product that has prevented my getting really deep cracks in my feet. I can’t tell you how wonderful that is!</p>",
             "author": "",
             "rating": "five"
           }
@@ -251,7 +281,8 @@
       },
       "block_order": [
         "reviews_xVfJ9q",
-        "reviews_dJVfab"
+        "reviews_dJVfab",
+        "reviews_hG4fYh"
       ],
       "name": "Reviews",
       "settings": {
@@ -601,6 +632,7 @@
     "main",
     "multicolumn_LKeDgQ",
     "media_with_content_cpwzVU",
+    "image_banner_pcYGMK",
     "reviews_aRCgWX",
     "multicolumn_MAWq8k",
     "17627411021d18d813",
