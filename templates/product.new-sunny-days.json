@@ -96,8 +96,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Asset_14.svg",
-            "title": "Dermatologist tested",
-            "text": "<p>Perfect for sensitive skin, this bundle includes our all-purpose Mānuka honey skin balm; moisturizing foot cream for cracked heels; and sterile honey ointment for wound care.</p>",
+            "title": "Deep hydration",
+            "text": "<p>Like a drink of water for your skin—this oil replenishes essential lipids and omega-rich moisture to restore bounce, balance, and glow. Skin feels nourished, not weighed down.</p>",
             "link_label": "",
             "link": "",
             "card_style_dark": false,
@@ -109,8 +109,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Asset_13.svg",
-            "title": "MGO certified",
-            "text": "<p>Lab tested and certified to provide 600+ MGO methylglyoxal, the compound that's unique to Manuka honey, and known for its beneficial antibacterial properties.</p>",
+            "title": "Barrier defense",
+            "text": "<p>When your skin’s overwhelmed, this formula strengthens and soothes. Our BioRepair+ Complex helps defend against daily stressors and calm visible reactivity—bringing your barrier back to balance.</p>",
             "link_label": "",
             "link": "",
             "card_style_dark": false,
@@ -122,8 +122,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Asset_12.svg",
-            "title": "Clinical insights",
-            "text": "<p>\"Medical-grade Mānuka honey not only fights bacteria but also stimulates tissue regeneration and reduces inflammation, creating an optimal environment for healing.\" - Dr. Gregory Schultz Ph.D</p>",
+            "title": "Firm and smooth",
+            "text": "<p>Glow is great—but strength is better. With fatty acids and bioactives, this oil helps restore elasticity and soften the look of fine lines. Skin feels firmer, calmer, and more resilient over time.</p>",
             "link_label": "",
             "link": "",
             "card_style_dark": false,
@@ -167,30 +167,30 @@
           "type": "text_content",
           "settings": {
             "heading": "Product Details",
-            "description": "<p>Relief for distressed skin is here with First Honey® Mānuka Honey Cream to hydrate and protect dry, fragile skin. </p><p>A customer favorite for those struggling with eczema, rosacea, and psoriasis, this deeply nourishing eczema cream will calm, soothe and moisturize.<br/><br/>Infused with the highest quality medical-grade Mānuka honey, harvested from our own bees in New Zealand, this eczema cream is a dermatologist-tested product to assist with irritated skin.  </p>"
+            "description": "<p>BioRepair+ Face Oil is your daily skin ritual—designed to restore balance, bounce, and glow in one silky step. Powered by our Mānuka BioRepair+ complex, this nutrient-rich blend helps replenish essential lipids, support barrier strength, and calm visible reactivity.<br/><br/>Formulated with over 20 potent botanical oils—rich in antioxidants, fatty acids, and bioactives—it hydrates deeply, smooths texture, and brings skin back to its most radiant, resilient self.<br/><br/>Fast-absorbing, non-comedogenic, and ultra-nourishing, it’s skincare that works quietly but powerfully—for skin that’s ready to feel strong, calm, and radiant—every day.</p>"
           }
         },
         "text_content_im6CWf": {
           "type": "text_content",
           "settings": {
             "heading": "Ingredients",
-            "description": "<p>Aqua, Manuka Honey,<br/>Stearyl Alcohol, Coco-Caprylate, Stearic<br/>Acid, Caprylic/Capric Triglyceride, Behenyl<br/>Alcohol, Isopentyl Laurate, Glyceryl<br/>Behenate, Tapioca Starch, Cetyl Palmitate,<br/>Olea Europaea Fruit Oil, Gluconolactone,<br/>Glyceryl Stearate Citrate, Sorbitan Olivate,<br/>Sorbitan Palmitate, Butyrospermum<br/>Parkii Butter, Betaine, Glyceryl Caprylate,<br/>Xanthan Gum, Jojoba Esters, Helianthus<br/>Annuus Seed Oil, Polyglyceryl-3 Cocoate,<br/>Polyglyceryl-4 Caprate, Polyglyceryl-6<br/>Caprylate, Polyglyceryl-6 Ricinoleate,<br/>Aminomethyl Propanol, Sodium Benzoate,<br/>Aleurites Moluccanus Seed Oil, Lavandula<br/>Angustifolia Oil, Mentha Piperita Oil,<br/>Potassium Sorbate, Pongamia Glabra<br/>Seed Oil, Vanilla, Glycerin, Caprylhydroxamic<br/>Acid, Panthenol, Rosmarinus Officinalis<br/>Extract, Bisabolol, Polyglyceryl-3<br/>Polyricinoleate, Tocopherol.</p>"
+            "description": "<p><strong>Directions for use:</strong><br/>Start with clean, dry skin. Apply 3-5 drops of BioRepair+ Face Oil to your face, neck, and décolletage. Gently tap the oil into the skin for quick absorption, or massage in upward strokes for added relaxation and circulation. For best results, use morning and night as the final step in your skincare routine.<br/><br/><strong>Ingredients:</strong><br/>Mānuka Biorepair+Complex (Leptospermum scoparium (Mānuka) Oil, Kunzea ericoides (Kānuka) Oil, Phormium tenax (Harakeke) Seed Oil, Macropiper excelsum (Kawakawa) Extract), Squalane, Vitis vinifera (Grape) Seed Oil, Carthamus tinctorius (Safflower) Oil, Limnanthes alba (Meadowfoam) Seed Oil, Calophyllum inophyllum (Tamanu) Oil, Ribes nigrum (Blackcurrant) Seed Oil, Vaccinium macrocarpon (Cranberry) Seed Oil, Lycium barbarum (Goji) Seed Oil, Hippophae rhamnoides (Sea Buckthorn) Fruit Oil, Opuntia ficus-indica (Prickly Pear) Seed Oil, Oenothera biennis (Evening Primrose) Oil, Tanacetum annuum (Blue Tansy) Oil, Boswellia carterii (Frankincense) Oil, Rosa canina (Rosehip) Oil, Rosa damascena (Damascus Rose) Essential Oil, Daucus carota (Carrot Seed) Oil, Tocopherol (Vitamin E), Rosmarinus officinalis (Rosemary), CO2 Extract.</p>"
           }
         },
         "collapsible_content_6kdRGF": {
           "type": "collapsible_content",
           "settings": {
             "heading": "FAQ",
-            "row_heading_1": "What is Mānuka Honey?",
-            "row_content_1": "<p>Mānuka Honey is harvested from nectar of the Mānuka tree, native to the pristine forests of New Zealand. This honey contains natural amino acids, Vitamins B and C, antioxidants, minerals, proteins, and bioactive compounds. Mānuka honey also boasts high levels of MGO (methylglyoxal), a compound known for its potent antibacterial properties.</p>",
-            "row_heading_2": "What makes Mānuka Honey different from regular honey?",
-            "row_content_2": "<p>Mānuka Honey is distinguished by its high MGO (Methylglyoxal) content, which provides unique antibacterial properties not found in regular honey. It is sourced exclusively from the nectar of the Mānuka bush native to New Zealand.</p>",
-            "row_heading_3": "Why is it significant that First Honey® products contain no antibiotics?",
-            "row_content_3": "<p>According to the FDA, CDC, and World Health Organization, antibiotic resistance, which can result from the overuse of antibiotics, is one of the biggest problems facing medicine today. Many of the common, over-the-counter wound care ointments contain three antibiotics, yielding an exposure that’s equivalent to a prescription antibiotic pill given by a medical professional.</p>",
-            "row_heading_4": "Is your Mānuka Honey certified for quality and authenticity?",
-            "row_content_4": "<p>Yes! All our Mānuka honey is certified for quality and authenticity through rigorous testing protocols. These checks provide consumer certainty guaranteeing that our products meet strict standards for purity and potency. Unlike many other Mānuka companies that source honey from multiple farms or beekeepers, we control every step of production, from our family farm to the extraction process, so origin and authenticity is never a question for us! In addition to this our honey undergoes independent laboratory testing to confirm high levels of methylglyoxal (MGO) and other beneficial compounds.<br/>As a medical and wellness company, we must meet standards for wound care that are much higher than those for edible honey. All our production is geared to meet these stringent requirements, making quality and purity vital.<br/><br/>Every batch of honey is tested for:<br/>• Methylglyoxal (MGO) Levels: Thoroughly tested to guarantee potency and effectiveness.<br/>• DNA Analysis: Verifying the honey’s botanical origin and purity.<br/>• Microbial Testing: Ensuring the absence of harmful bacteria and contaminants.<br/>• SQF Certification: A globally recognized program ensuring that products meet rigorous HACCP-based safety and quality management standards.</p>",
-            "row_heading_5": "How should I store First Honey products to maintain quality?",
-            "row_content_5": "<p>A cool, dry place away from direct sunlight works best! Proper storage helps preserve the beneficial properties of these products.</p>"
+            "row_heading_1": "When and how should I use BioRepair+?",
+            "row_content_1": "<p>Use BioRepair+ morning and night, after cleansing and any water-based serums or toners. Apply a few drops to clean, slightly damp skin and gently press into the face, neck, and chest. You can follow with moisturizer if your skin needs extra hydration, or let the oil be your final step.</p>",
+            "row_heading_2": "Where does BioRepair+ fit in my skincare routine?",
+            "row_content_2": "<p>We recommend applying BioRepair+ after serums and before (or instead of) moisturizer.<br/><br/><em><strong>Suggested order:</strong></em><br/>1. Cleanser<br/>2. Toner or mist (optional)<br/>3. Water-based serums<br/>4. BioRepair+ Face Oil<br/>5. Moisturizer (if desired)</p>",
+            "row_heading_3": "Will BioRepair+ clog my pores?",
+            "row_content_3": "<p>No — BioRepair+ is formulated with non-comedogenic, fast-absorbing botanical oils that nourish without congestion.<br/><br/>It features native New Zealand botanicals like Mānuka, Kānuka, Harakeke, and Kawakawa, which are known for their anti-inflammatory and balancing properties. These work alongside lightweight oils like squalane, rosehip, grape seed, and prickly pear to restore and repair — without heaviness.</p>",
+            "row_heading_4": "Can I use BioRepair+ under makeup?",
+            "row_content_4": "<p>Yes. BioRepair+ absorbs beautifully and creates a smooth, hydrated base for makeup. Just allow a few minutes for full absorption before applying SPF or foundation.</p>",
+            "row_heading_5": "Is BioRepair+ suitable for sensitive skin?",
+            "row_content_5": "<p>Yes — BioRepair+ is designed to support sensitive and barrier-compromised skin. Its botanical blend helps calm, soothe, and strengthen.<br/><br/>However, all skin is unique. We recommend doing a patch test before your first use, especially if you're sensitive to essential oils or plant extracts. Apply a small amount behind your ear or on your inner wrist and monitor for 24 hours. Discontinue use if irritation occurs.</p>"
           }
         }
       },
