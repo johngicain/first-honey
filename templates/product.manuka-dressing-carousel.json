@@ -14,6 +14,7 @@
       "blocks": {
         "vendor": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Best Seller",
             "text_style": "subtitle",
@@ -167,14 +168,14 @@
           "type": "text_content",
           "settings": {
             "heading": "Product Details",
-            "description": "<p>Relief for distressed skin is here with First Honey® Mānuka Honey Cream to hydrate and protect dry, fragile skin. </p><p>A customer favorite for those struggling with eczema, rosacea, and psoriasis, this deeply nourishing eczema cream will calm, soothe and moisturize.<br/><br/>Infused with the highest quality medical-grade Mānuka honey, harvested from our own bees in New Zealand, this eczema cream is a dermatologist-tested product to assist with irritated skin.  </p>"
+            "description": "<p>Compared to traditional bandages, Mānuka honey wound dressings feature a better overall design and substantial benefits for naturally supporting a more effective wound healing process. Some of the top benefits of Mānuka honey wound dressings that make them a superior option are listed below:<br/>• Our dressings promote a better healing environment by maintaining proper moisture balance and lowering pH levels for optimal skin conditions. In turn, these favorable conditions assist with the development of new tissue, expediting wound closure and helping to prevent scarring.<br/>• No matter the size of a wound, it can become a breeding ground for harmful bacteria that results in life-threatening infections. Our Mānuka honey wound dressings protect against the proliferation of bacteria while preserving healthy skin microbiomes.<br/>• We’ve specially designed our Mānuka honey dressings with a skin-friendly adhesive that makes them easier to apply and less painful to remove. Aside from the discomfort associated with taking off larger bandages, the newly healed skin is often extra sensitive and prone to reinjury if not treated carefully. <br/>• We bring the same care and attention to detail to our Mānuka honey wound dressings as we do when thoughtfully developing other natural first aid products. We’re proud to provide Mānuka honey wound dressings that are natural, non-toxic, and 100% safe for the entire family.</p>"
           }
         },
         "text_content_im6CWf": {
           "type": "text_content",
           "settings": {
             "heading": "Ingredients",
-            "description": "<p>Aqua, Manuka Honey,<br/>Stearyl Alcohol, Coco-Caprylate, Stearic<br/>Acid, Caprylic/Capric Triglyceride, Behenyl<br/>Alcohol, Isopentyl Laurate, Glyceryl<br/>Behenate, Tapioca Starch, Cetyl Palmitate,<br/>Olea Europaea Fruit Oil, Gluconolactone,<br/>Glyceryl Stearate Citrate, Sorbitan Olivate,<br/>Sorbitan Palmitate, Butyrospermum<br/>Parkii Butter, Betaine, Glyceryl Caprylate,<br/>Xanthan Gum, Jojoba Esters, Helianthus<br/>Annuus Seed Oil, Polyglyceryl-3 Cocoate,<br/>Polyglyceryl-4 Caprate, Polyglyceryl-6<br/>Caprylate, Polyglyceryl-6 Ricinoleate,<br/>Aminomethyl Propanol, Sodium Benzoate,<br/>Aleurites Moluccanus Seed Oil, Lavandula<br/>Angustifolia Oil, Mentha Piperita Oil,<br/>Potassium Sorbate, Pongamia Glabra<br/>Seed Oil, Vanilla, Glycerin, Caprylhydroxamic<br/>Acid, Panthenol, Rosmarinus Officinalis<br/>Extract, Bisabolol, Polyglyceryl-3<br/>Polyricinoleate, Tocopherol.</p>"
+            "description": "<p>Honey that is harvested from Mānuka plants naturally contains an organic compound known as methylglyoxal (MGO), which is proven to have significant health benefits for wound healing and beyond. Both methylglyoxal and Mānuka honey have been thoroughly researched and vetted through clinical testing. <br/><br/>MGO is considered by many to be a “miracle” compound due to its overwhelmingly positive effects on the repair and regeneration of skin that has been damaged due to a wound, persistent conditions, burns, or other issues. Although Mānuka honey was only recently found to contain MGO, this type of honey has been used for its healing properties for generations. <br/><br/>Now that MGO is better understood, the scientific and medical literature proving its efficacy continues to grow and be demonstrated in clinical applications. These studies support the treatment of wounds with medical grade honey, which has a high concentration of MGO due to strictly controlled harvesting and production processes. <br/><br/>We know better than most exactly how Mānuka honey is produced and we’re proud to be preserving a heritage of sustainably harvesting this wonder of the natural world.<br/><br/></p>"
           }
         },
         "collapsible_content_6kdRGF": {
@@ -205,7 +206,7 @@
         "section_heading_size": "h0",
         "desktop_heading_alignment": "center",
         "heading_size": "h1",
-        "video": "shopify://files/videos/SkinTherapySec_V2_f92713b2-ac02-4a37-9972-42a01162c49b.mp4",
+        "video": "shopify://files/videos/WhatismedicalgradeManukahoney_2afa3b44-765c-4bf1-9e6b-6b14385a2838.mp4",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "",
         "image": "shopify://shop_images/MGO9001.jpg",
