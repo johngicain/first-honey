@@ -56,7 +56,7 @@
         "color_scheme": "scheme-1",
         "stack_images_on_mobile": false,
         "mobile_content_alignment": "left",
-        "show_text_below": false
+        "show_text_below": true
       }
     },
     "rich_text_Jy7KtB": {
