@@ -226,7 +226,7 @@
           "settings": {
             "show_heading": false,
             "heading": "",
-            "badge_link": "",
+            "badge_link": "shopify://collections",
             "product": ""
           }
         }
