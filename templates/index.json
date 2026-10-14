@@ -225,7 +225,7 @@
           "type": "shopify://apps/okendo/blocks/reviews-carousel/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
           "settings": {
             "show_heading": true,
-            "heading": "Reviews from customers who use First Honey every day",
+            "heading": "From customers who use First Honey every day",
             "badge_link": "shopify://collections",
             "product": ""
           }
