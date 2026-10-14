@@ -277,6 +277,7 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/DrAshleyBiscoe1.jpg",
+        "mobile_image": "shopify://shop_images/DrAshleyBiscoe1.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
