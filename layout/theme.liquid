@@ -21,7 +21,7 @@
       })(window, document, 'script', 'dataLayer', 'GTM-KZV8G3L');
     </script>
     <!-- End Google Tag Manager -->
-    
+
     {%- if settings.favicon != blank -%}
       <link rel="icon" type="image/png" href="{{ settings.favicon | image_url: width: 32, height: 32 }}">
     {%- endif -%}
@@ -312,6 +312,50 @@
         document.documentElement.classList.add('shopify-design-mode');
       }
     </script>
+
+    <!-- Amazon DSP Pixel -->
+    <script>
+      !(function (w, d, s, t, a) {
+        if (w.amzn) return;
+        w.amzn = a = function () {
+          w.amzn.q.push([arguments, new Date().getTime()]);
+        };
+        a.q = [];
+        a.version = '0.0';
+        s = d.createElement('script');
+        s.src = 'https://c.amazon-adsystem.com/aat/amzn.js';
+        s.id = 'amzn-pixel';
+        s.async = true;
+        t = d.getElementsByTagName('script')[0];
+        t.parentNode.insertBefore(s, t);
+      })(window, document);
+      amzn('setRegion', 'NA');
+      amzn('addTag', 'b4aeedf3-9620-4b44-aae5-8a7d67f5e2be');
+      amzn('trackEvent', 'PageView');
+    </script>
+    <noscript>
+      <img
+        src="https://s.amazon-adsystem.com/iu3?pid=b4aeedf3-9620-4b44-aae5-8a7d67f5e2be&event=PageView"
+        width="1"
+        height="1"
+        border="0"
+      >
+    </noscript>
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.css">
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.min.css"
+    >
+    <script
+      type="text/javascript"
+      src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"
+      defer
+    ></script>
+
+    <!-- Amazon DSP Pixel -->
+    
   </head>
 
   <body class="gradient{% if settings.animations_hover_elements != 'none' %} animate--hover-{{ settings.animations_hover_elements }}{% endif %}">
