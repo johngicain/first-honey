@@ -168,7 +168,7 @@
           "type": "text_content",
           "settings": {
             "heading": "Gift Bundle",
-            "description": "<p>Looking for the perfect gift?<br/><br/>Our exclusive care package with First Honey® skincare products and a premium jar of 600+ MGO Mānuka Honey has you covered inside and out.<br/><br/>See product details for a full description of this gift bundle.</p>"
+            "description": "<p>Looking for the perfect gift?<br/><br/>Our exclusive care package with First Honey® skincare products and a jar of <strong>Premium Mānuka Honey 900+ MGO</strong> has you covered inside and out.<br/><br/>See product details for a full description of this gift bundle.</p>"
           }
         },
         "text_content_im6CWf": {
@@ -208,7 +208,7 @@
         "heading_size": "h1",
         "video": "shopify://files/videos/SkinTherapySec_V2.mp4",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "description": "",
+        "description": "<p>A video about First Honey Skin Therapy Cream for moisturizing dry skin.</p>",
         "image": "shopify://shop_images/MGO9001.jpg",
         "height": "medium",
         "desktop_image_width": "large",
