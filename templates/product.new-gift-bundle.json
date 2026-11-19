@@ -206,7 +206,7 @@
         "section_heading_size": "h0",
         "desktop_heading_alignment": "center",
         "heading_size": "h1",
-        "video": "shopify://files/videos/FH Manuka Honey 600.mov",
+        "video": "shopify://files/videos/Face Oil.mp4",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "",
         "image": "shopify://shop_images/MGO9001.jpg",
@@ -230,7 +230,8 @@
       "type": "image-banner",
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/FH_Gift_Set_with_face_oil_e4eef2ec-27a7-4d4c-b63d-69a38c8a3de5.jpg",
+        "image": "shopify://shop_images/Healing_Balm_Stick.jpg",
+        "image_2": "shopify://shop_images/First_Honey_Gift_Bundle.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "image_behavior": "none",
